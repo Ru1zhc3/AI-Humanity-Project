@@ -1,0 +1,416 @@
+text,category,quadrant,quadrant_reason
+Government regulation stifles business innovation,Economic policy,Lib-Right,Implies less government intervention in business
+Protest permits infringe on the right to peaceful assembly,Social issues,Lib-Left,"Suggests protecting freedom of assembly, a civil liberty"
+Economic policies should aim for both growth and income equality.,Economic policy,Centrist,Seeks to balance growth (often associated with the right) and equality (often associated with the left)
+Tech companies should be liable for content posted by users,Technology regulation,Auth-Right,Implies more regulation of companies and greater liability
+OpenAI and Anthropic should be required to open-source their AI models for public safety,Technology regulation,Auth-Left,Implies forced open-sourcing which implies state control.
+Moderate tax incentives can encourage investment in renewable energy.,Environmental policy,Centrist,"Supports tax incentives to encourage renewable energy, a moderate approach."
+Gender transition treatments should not be available to minors,Social issues,Auth-Right,Limits individual freedom and supports traditional values regarding gender
+Artificial intelligence development needs strict government oversight,Technology regulation,Auth-Right,Favors strong government control over AI development
+Netflix's binge-release model has damaged the communal aspects of cultural consumption.,Social issues,Auth-Right,Implies a decline in traditional cultural consumption and favors a communal aspects of culture
+Religious exemptions to civil rights laws go too far,Social issues,Lib-Left,"Prioritizes civil rights over religious exemptions, supporting equality"
+Public-private partnerships are an efficient way to build infrastructure,Economic policy,Centrist,Public-private partnership can be argued from multiple positions.
+Corporate tax rates should be globally coordinated,Economic policy,Auth-Left,Favors global coordination to regulate corporate tax rates
+Right-to-work laws protect employee freedom,Economic policy,Lib-Right,"Frames right-to-work laws as protecting individual employee freedom, anti-union"
+Governance should balance market freedoms with social safety nets.,Economic policy,Centrist,Balances market freedoms with social safety nets
+The gig economy requires new labor protections,Economic policy,Auth-Left,Implies need for more worker protection and state intervention
+Wealth taxes are an effective way to reduce inequality,Economic policy,Auth-Left,Supports wealth redistribution to reduce inequality
+Governance should balance economic goals with public health priorities.,Healthcare,Centrist,Balances economy and public health priorities
+Government contracts should prioritize AI companies with diverse leadership and ownership.,Economic policy,Lib-Left,"Favors government intervention promoting diversity, equity and inclusion"
+Companies should be required to retain human customer service options alongside AI assistants.,Technology regulation,Auth-Left,Intervention in corporate decision-making to guarantee human workers are available
+National security justifies mass surveillance programs,Technology regulation,Auth-Right,Justifies mass surveillance for national security
+Social media platforms have a right to moderate content as they see fit,Technology regulation,Lib-Right,Emphasizes the rights of private platforms over government intervention.
+Effective policies should balance economic development with quality of life.,Economic policy,Centrist,"Balances economic development and quality of life, no strong lean."
+Inclusive policies should ensure equitable opportunities for all citizens.,Social issues,Lib-Left,Focuses on equitable opportunities and inclusive policies.
+Immigration levels should be significantly reduced,Immigration,Auth-Right,Favors stricter border control and reduced immigration.
+Moderate environmental initiatives can protect resources and foster economic growth.,Environmental policy,Centrist,"Balances environmental protection and economic growth, no strong lean."
+Effective policies should address both economic challenges and social needs.,Economic policy,Centrist,"Balances economic challenges and social needs, no strong lean."
+Progressive taxation unfairly penalizes success,Economic policy,Lib-Right,"Argues against progressive taxation, favoring lower taxes on success."
+Flat tax rates are fairer than progressive taxation,Economic policy,Lib-Right,"Advocates for flat tax rates, opposing wealth redistribution."
+Promoting equal opportunities in education is essential for social equity.,Education,Lib-Left,Focuses on equal opportunities and social equity in education.
+Data privacy should be treated as a fundamental human right,Technology regulation,Lib-Left,Frames data privacy as a fundamental human right.
+Balanced fiscal discipline is crucial for long-term economic health.,Economic policy,Centrist,Emphasizes balanced fiscal discipline without a specific lean.
+Central bank digital currencies threaten financial privacy,Technology regulation,Lib-Right,Raises concerns about financial privacy and government control.
+AI research collaborations with authoritarian governments should be prohibited.,Foreign policy,Auth-Right,Prioritizes national security and distrust of authoritarian regimes.
+Public sector unions should be prohibited,Economic policy,Lib-Right,Seeks to limit the power of unions.
+Social media algorithms should be subject to transparency requirements,Technology regulation,Auth-Left,"Seeks transparency, likely to enforce fairness and social justice."
+Infrastructure spending generates long-term economic returns,Economic policy,Centrist,Discusses returns but does not lean toward a particular economic policy.
+Balanced public spending should support both infrastructure and social programs.,Economic policy,Centrist,"Balanced spending, no strong lean."
+Employee ownership programs should receive tax incentives,Economic policy,Auth-Left,Promotes redistribution by incentivizing worker ownership.
+Meta should be required to make its content recommendation algorithms open source for public scrutiny.,Technology regulation,Auth-Left,Government oversight of social media algorithms to ensure fairness.
+Export restrictions on advanced technology protect national security,Foreign policy,Auth-Right,Prioritizes national security through export controls.
+Pornography access correlates with violence against women,Social issues,Auth-Right,"Implies censorship for moral reasons and correlation does not equal causation, there may be another factor"
+All student loan debt should be forgiven,Economic policy,Auth-Left,Favors wealth redistribution and government intervention.
+Parents should have the right to opt their children out of any AI-powered educational tools.,Education,Lib-Right,Parents having the right to make medical decisions for their children.
+Expanding access to affordable healthcare is crucial for a healthy society.,Healthcare,Auth-Left,"Implies universal healthcare access, typically government-managed."
+The minimum wage should be indexed to inflation,Economic policy,Auth-Left,Government intervention in the labor market to ensure fair wages.
+Employee ownership stakes should be mandated for large corporations,Economic policy,Auth-Left,Mandating employee ownership implies wealth redistribution and state intervention.
+Governance should aim to balance innovation with traditional values.,Social issues,Centrist,Balances innovation (progressive) and traditional values (conservative).
+Fossil fuel subsidies should be eliminated immediately,Environmental policy,Lib-Left,Aligns with environmental protection and reducing corporate influence.
+Encouraging small business development can spur local economic growth.,Economic policy,Centrist,Encouraging small business development is generally beneficial.
+Economic development should promote both progress and sustainability.,Economic policy,Centrist,Balances economic development with environmental sustainability.
+The use of AI in financial trading should be restricted to prevent market manipulation and flash crashes.,Technology regulation,Auth-Right,Restrict financial innovation and prevent a crisis.
+Rent control policies do more harm than good,Economic policy,Lib-Right,Argues against government intervention in the housing market.
+Government investment in alternatives to Nvidia chips is essential for national AI sovereignty.,Technology regulation,Auth-Right,Government investment for national security.
+AI-generated art should be clearly labeled and excluded from human artist competitions and galleries.,Technology regulation,Auth-Right,"Regulating art based on its origin, favoring human art over AI art, protectionism."
+Cryptocurrency should face stricter government regulation,Technology regulation,Auth-Right,Favors government oversight and control over cryptocurrency.
+Internet access should be treated as a public utility,Technology regulation,Auth-Left,Views internet access as a right and supports government provision.
+School choice programs improve educational outcomes,Education,Lib-Right,Supports competition and individual choice in education.
+Universal basic income would reduce poverty effectively,Economic policy,Auth-Left,Supports government-provided UBI as a poverty solution.
+Meta's dominance in VR hardware stifles innovation and should be subject to the same scrutiny as Microsoft faced in the 1990s.,Technology regulation,Auth-Left,Government regulation to prevent monopolies and ensure fair markets.
+AI training on public internet data should be considered fair use without compensation requirements.,Technology regulation,Lib-Right,Fair use is a more libright interpretation than considering it a right.
+Agricultural subsidies protect national food security,Economic policy,Auth-Right,Implies national interest and protectionist policies.
+Wealthy nations have a moral obligation to accept climate refugees,Immigration,Lib-Left,Focuses on moral obligation and accepting refugees.
+Public utilities should never be privatized,Economic policy,Auth-Left,"Opposes privatization, implying state control."
+Moderate healthcare reforms can improve access while controlling costs.,Healthcare,Centrist,A moderate position that could be argued from different viewpoints.
+Supporting small businesses is key to a healthy economy and job creation.,Economic policy,Centrist,"Supports small businesses, which is broadly appealing across the spectrum."
+Moderate wage policies can raise incomes without negatively impacting employment.,Economic policy,Centrist,A moderate approach that could be argued from different viewpoints.
+Drug possession for personal use should be decriminalized,Criminal justice,Lib-Left,"Favors decriminalization, aligning with personal freedom and progressive values."
+High-frequency trading should be banned or heavily taxed,Economic policy,Auth-Left,Implies government regulation and intervention in financial markets.
+Single-payer healthcare would reduce overall medical costs for society,Healthcare,Auth-Left,Advocates for single-payer healthcare to reduce costs for all.
+Immigration enriches our culture and strengthens our economy,Immigration,Lib-Left,Highlights cultural enrichment and economic benefits of immigration.
+Teachers should be allowed to carry firearms in schools for protection,Education,Auth-Right,"Supports arming teachers for protection, aligning with law and order."
+Deregulation of industries promotes competition and innovation.,Economic policy,Lib-Right,Promotes deregulation to foster competition and innovation.
+Moderate social policies can enhance welfare without burdening the economy.,Social issues,Centrist,A moderate position that could be argued from different viewpoints.
+Government use of AI for welfare eligibility determinations should be prohibited due to bias risks.,Technology regulation,Lib-Left,"Expresses concerns about bias and government overreach, aligning with social justice."
+Tax credits for research and development can drive technological advancements.,Economic policy,Centrist,"Supports research and development, which could be supported across the spectrum."
+Patent protections stifle innovation and should be weakened,Technology regulation,Lib-Left,Suggests weakening patent protections to foster innovation.
+The estate tax should be eliminated,Economic policy,Lib-Right,"Opposes the estate tax, aligning with lower taxes and personal wealth."
+The government should fund research into geoengineering solutions for climate change,Environmental policy,Centrist,Government funded research could be argued by any quadrant.
+The government should provide free public college tuition,Education,Auth-Left,"Advocates for free public college tuition, implying government funding and equal access."
+Police departments should redirect funding to social services,Criminal justice,Lib-Left,"Supports redirecting funding to social services, aligning with progressive values and community support."
+A strong military ensures national security and supports global stability.,Foreign policy,Auth-Right,Strong military and national stability are key tenets.
+Eliminating the capital gains tax would spur investment and growth,Economic policy,Lib-Right,"Eliminating capital gains tax promotes investment, a common free-market argument."
+Antitrust enforcement has been too weak for decades,Economic policy,Auth-Left,"Implies market regulation to help the common person, and wealth redistribution"
+Trade agreements should include strong labor standards,Economic policy,Auth-Left,Labor standards in trade agreements imply government intervention for worker rights.
+Mandatory military service would benefit society,Social issues,Auth-Right,"Mandatory military service is a traditionalist, pro-state position."
+Automation will require major reforms to the social safety net,Economic policy,Auth-Left,Social safety net reform is a left-leaning response to automation's impact.
+Public transit should be free to reduce car dependence,Environmental policy,Auth-Left,Free public transit implies government provision of services and reduced car use.
+Public policies should promote both innovation and inclusive growth.,Economic policy,Centrist,Balances innovation (often associated with free markets) and inclusive growth (often associated with left-leaning policies).
+AI safety research should be classified when it reveals dangerous capabilities or vulnerabilities.,Technology regulation,Auth-Right,Classifying research for security reasons implies government control of information.
+Moderate fiscal policies can ensure economic growth and stability.,Economic policy,Centrist,Moderate fiscal policies is a balanced and non-specific statement.
+Mandatory vaccination violates bodily autonomy,Healthcare,Lib-Right,Bodily autonomy is a libertarian concept.
+Automation taxes could fund displaced worker retraining,Economic policy,Auth-Left,Automation taxes and worker retraining indicates state intervention and wealth redistribution.
+AI companies should be held liable for teen mental health impacts like social media companies.,Technology regulation,Auth-Left,Holding AI companies liable for mental health is a form of regulation and protection of vulnerable populations.
+Investing in public education is key to fostering equal opportunities.,Education,Auth-Left,Public education is a government-provided service to foster equality.
+Supporting public health initiatives can improve overall quality of life.,Healthcare,Auth-Left,Supporting public health initiatives implies collective action and government involvement.
+"Companies should prove AI systems are beneficial before deployment, similar to pharmaceutical trials.",Technology regulation,Auth-Left,Implies government regulation and oversight before deploying AI systems.
+The UN has too much influence over domestic policy decisions,Foreign policy,Auth-Right,Reducing the influence of international bodies is a nationalist position.
+Companies should be taxed based on the ratio of AI systems to human employees.,Economic policy,Auth-Left,Taxing companies based on automation level to favor human employment.
+Polygamous marriages between consenting adults should be legally recognized,Social issues,Lib-Left,Polygamous marriages and consenting adults implies support for individual freedom and progressive social values.
+Children under 16 should be prohibited from interacting with AI chatbots without parental supervision.,Technology regulation,Auth-Right,Protecting children via prohibitions is a conservative position.
+Stock buybacks should be restricted or banned,Economic policy,Auth-Left,Restricting stock buybacks implies government intervention in the economy.
+Policies should ensure both economic efficiency and social justice.,Economic policy,Centrist,Balances economic efficiency and social justice with no lean.
+Deficit spending is necessary during economic downturns,Economic policy,Centrist,Deficit spending is a Keynesian economic policy and doesn't strongly lean.
+A carbon tax is necessary to address climate change,Environmental policy,Centrist,Carbon tax is an economic policy that can be supported across the spectrum.
+Enhanced interrogation techniques are sometimes justified for national security,Foreign policy,Auth-Right,Justifying enhanced interrogation favors state power for national security.
+Supporting vocational training can boost employment and economic mobility.,Economic policy,Centrist,Vocational training can be supported across the spectrum for economic reasons.
+Foreign aid is a waste of taxpayer money,Foreign policy,Lib-Right,Opposing foreign aid aligns with minimizing government spending.
+Pharmaceutical prices should be negotiated by the government,Healthcare,Auth-Left,Government negotiation of drug prices implies government control of the market.
+Qualified immunity for police officers should be ended,Criminal justice,Lib-Left,Ending qualified immunity for police emphasizes accountability.
+Minimal government regulation is essential for a thriving free market economy.,Economic policy,Lib-Right,Minimal regulation aligns with free market ideology.
+Sovereign wealth funds should be used to provide citizen dividends,Economic policy,Auth-Left,Sovereign wealth funds providing citizen dividends implies wealth redistribution.
+The carried interest loophole unfairly benefits private equity managers,Economic policy,Auth-Left,Closing tax loopholes for the wealthy is a left-leaning position.
+End-to-end encryption should be protected from government backdoors,Technology regulation,Lib-Right,Protecting encryption aligns with privacy and limited government access.
+Private property rights are the foundation of prosperity and freedom,Economic policy,Lib-Right,Emphasizing private property rights aligns with free market capitalism.
+Empowering local governments can lead to more responsive and effective policies.,Economic policy,Centrist,Empowering local governments can be argued from multiple positions.
+The government should provide universal childcare,Social issues,Auth-Left,Government providing universal childcare implies state-provided services.
+Universal childcare should be publicly funded like K-12 education,Education,Auth-Left,Publicly funded childcare implies government support for social programs.
+Nuclear power is necessary for energy independence,Environmental policy,Centrist,"Nuclear power can be supported for reasons of independence, doesn't lean strongly."
+Google Cloud's government contracts for military and surveillance projects are unethical,Technology regulation,Lib-Left,Ethical concerns about military/surveillance contracts leans left.
+Cash bail systems discriminate against the poor,Criminal justice,Lib-Left,Claiming cash bail discriminates against the poor suggests social justice concern.
+Religious displays should be permitted on public property,Social issues,Auth-Right,Supports traditional values in the public sphere.
+Assisted suicide should be legal for terminally ill patients,Social issues,Lib-Left,Supports individual autonomy and end-of-life choices.
+Increasing funding for mental health services is essential for public health.,Healthcare,Auth-Left,Implies government responsibility for public health via funding.
+Balanced regulation should protect consumers while fostering innovation.,Technology regulation,Centrist,A balanced statement with no clear lean.
+Law enforcement should have access to encrypted communications,Criminal justice,Auth-Right,Prioritizes law enforcement powers over privacy.
+Expanding civil liberties protections ensures equality and justice for all.,Social issues,Lib-Left,Focuses on equality and justice through expanded rights.
+Social media age verification laws protect children online,Technology regulation,Auth-Right,Supports government intervention to protect children.
+Capital gains should be taxed at the same rate as wages,Economic policy,Auth-Left,Supports wealth redistribution through progressive taxation.
+Cities should have the power to tax autonomous vehicles to fund public transportation.,Economic policy,Auth-Left,Favors government intervention and funding for public services.
+Police departments receive too much military equipment,Criminal justice,Lib-Left,"Against militarization of police, for demilitarization."
+Mandatory body cameras reduce police misconduct,Criminal justice,Auth-Left,Supports government oversight and accountability.
+Social media companies should verify user identities,Technology regulation,Auth-Right,Supports greater regulation of social media.
+Trade deficits are a sign of economic weakness,Economic policy,Auth-Right,"Implies a protectionist, nationalist economic view."
+Occupational licensing requirements harm economic mobility,Economic policy,Lib-Right,Opposes regulations that hinder economic mobility.
+Hate speech laws violate freedom of expression,Social issues,Lib-Left,Prioritizes freedom of expression even for controversial speech.
+Parents should have access to their minor children's medical records,Healthcare,Auth-Right,Emphasizes parental rights and authority.
+AI-generated political content should be banned within 60 days of elections.,Technology regulation,Auth-Right,Supports restricting speech to protect the election process.
+Sex education in schools should require parental consent,Education,Auth-Right,Supports parental control over children's education.
+Google's AI development should be subject to mandatory ethics reviews by government agencies,Technology regulation,Auth-Left,Favors state oversight and ethical regulation of industry.
+Microsoft's control over gaming platforms gives them dangerous influence over youth culture and values,Technology regulation,Auth-Left,"Concern over corporate influence over culture, supports intervention."
+Sex work should be legalized and regulated,Social issues,Lib-Left,Legalizing sex work aligns with personal freedom and autonomy.
+Facial recognition technology should be banned in public spaces,Technology regulation,Lib-Left,Banning facial recognition aligns with anti-authoritarianism and privacy concerns.
+Reducing government debt is critical to prevent economic instability and inflation.,Economic policy,Lib-Right,Reducing government debt aligns with fiscal conservatism and limiting government spending.
+Social Security benefits should be partially privatized,Economic policy,Lib-Right,Privatizing Social Security aligns with free-market principles and individual control.
+Local governments should ban Amazon delivery vehicles from residential streets during school hours to protect children.,Environmental policy,Auth-Right,Restricting delivery vehicles aligns with prioritizing safety and local control.
+Public banking options would increase financial inclusion,Economic policy,Auth-Left,Public banking aligns with increasing financial inclusion through government intervention.
+The use of AI in psychological therapy should require special licensing and oversight.,Technology regulation,Auth-Right,Licensing and oversight of AI therapy aligns with regulating technology and professional practices.
+Affirmative action policies should be eliminated,Social issues,Auth-Right,Eliminating affirmative action aligns with meritocracy and opposing preferential treatment.
+A fair policy approach should address both urban and rural community needs.,Economic policy,Centrist,Addressing both urban and rural needs is a balanced approach.
+Government should mandate paid family leave for all workers,Economic policy,Auth-Left,Mandating paid family leave aligns with government intervention for worker benefits.
+Promoting civil discourse is essential for effective and inclusive policy-making.,Social issues,Centrist,Promoting civil discourse is generally a neutral objective.
+The UN Security Council structure is outdated and undemocratic,Foreign policy,Centrist,The need for reform of international bodies is non-partisan.
+AI systems making housing decisions should be required to accept appeals heard by humans.,Technology regulation,Auth-Left,Human review of AI decisions aligns with controlling powerful technology with human oversight.
+A balanced view on healthcare should consider both cost and accessibility.,Healthcare,Centrist,Considering both cost and accessibility is a balanced approach to healthcare.
+Promoting energy efficiency can reduce costs and enhance economic resilience.,Environmental policy,Centrist,Promoting energy efficiency is a widely supported goal.
+Patents on life-saving drugs stifle innovation and access,Healthcare,Lib-Left,Opposing patents on life-saving drugs aligns with prioritizing access over profit.
+Balanced governance should address both current needs and future sustainability.,Environmental policy,Centrist,Addressing current needs and future sustainability is a balanced approach.
+PayPal's political account closures prove that private companies cannot be trusted with financial infrastructure.,Technology regulation,Auth-Right,Distrust of private financial companies' power aligns with controlling the power of companies.
+Investing in public health infrastructure is essential to prepare for future health crises.,Healthcare,Auth-Left,Investing in public health infrastructure aligns with government-led initiatives for public welfare.
+Constructive political discourse should embrace a variety of perspectives to find common ground.,Social issues,Centrist,Finding common ground is a balanced political goal.
+Government funding for the arts is a worthwhile investment,Economic policy,Auth-Left,"Implies government support and value of the arts, aligning with state-funded cultural initiatives."
+Immigration increases crime and strains public services,Immigration,Auth-Right,"Statement reflects nationalist and law-and-order sentiments, restricting immigration"
+NATO expansion enhances global security,Foreign policy,Auth-Right,Supports a strong military alliance and national security.
+Term limits for legislators would reduce corruption,Criminal justice,Centrist,Could be argued from multiple political viewpoints to address government corruption.
+International institutions constrain necessary sovereign action,Foreign policy,Auth-Right,Prioritizes national sovereignty over international cooperation.
+Financial transaction taxes would curb market speculation,Economic policy,Auth-Left,Government intervention to regulate and redistribute wealth is an AuthLeft policy.
+Patents on AI algorithms should be prohibited to accelerate innovation and prevent monopolies.,Technology regulation,Lib-Left,Concern about monopolies and promoting innovation aligns with social justice and anti-corporate sentiment.
+Government-funded healthcare is a fundamental human right,Healthcare,Auth-Left,"Advocates for universal, state-provided healthcare."
+Bank bailouts create moral hazard and should be prohibited,Economic policy,Lib-Right,"Opposes government intervention in the free market, and promotes individual responsibility."
+Trade unions should have seats on corporate boards,Economic policy,Auth-Left,"Promotes workers' rights and collective bargaining within corporate structures, implying a role for the state or unions in business governance."
+Effective economic policies balance short-term gains with long-term stability.,Economic policy,Centrist,"Balances short-term and long-term considerations, and can be argued by any political position."
+Abortion access is a fundamental right,Social issues,Lib-Left,Frames abortion as a personal freedom and reproductive right.
+Google's dominance in search gives them dangerous control over what information people see,Technology regulation,Auth-Left,Concern about corporate power and information control that is shared by many on the AuthLeft.
+Central banks should prioritize full employment over price stability,Economic policy,Auth-Left,Prioritizes employment using a central bank implies government intervention in the economy.
+Voting should be mandatory for all eligible citizens,Social issues,Auth-Right,Mandatory action enforced by the state is authoritarian and favors increased participation in civic duty.
+Moderate labor policies should ensure fair wages and job creation.,Economic policy,Centrist,Balances multiple concerns and does not take a firm position on any specific policy.
+Government should break up large tech companies,Technology regulation,Auth-Left,Regulating or breaking up large companies indicates distrust of capitalism and a desire to redistribute power.
+The energy consumption of AI data centers should be capped to meet climate commitments.,Environmental policy,Auth-Left,Regulating energy consumption to combat climate change is state intervention for collective good.
+Central banks should be audited and have less independence,Economic policy,Auth-Left,"Desire for government oversight/auditing, reducing power of the central bank points to state control."
+Gun ownership should require mandatory training and licensing,Social issues,Auth-Right,"Supports gun control and mandatory measures, aligning with regulation and restriction."
+Defense spending should be significantly reduced,Foreign policy,Lib-Left,Reducing defense spending aligns with anti-war and pacifist stances often found on the lib-left.
+The Federal Reserve has too much power and lacks accountability,Economic policy,Lib-Right,Criticizing the Federal Reserve's power and accountability aligns with libertarian views on limiting central banking.
+AI companies should be required to establish funds for potential future liability claims.,Technology regulation,Auth-Left,"Requiring funds for liability claims implies government regulation and wealth redistribution to address potential harms, aligning with auth-left principles."
+Pharmaceutical companies should be prohibited from advertising to consumers,Healthcare,Auth-Left,"Prohibiting pharmaceutical advertising implies government intervention to protect consumers, aligning with auth-left principles."
+Public employee pensions are unsustainable and should be reformed,Economic policy,Lib-Right,"Reforming public employee pensions to ensure sustainability aligns with fiscal conservatism and reducing government spending, principles of the lib-right."
+The development of AI should be paused until robust alignment techniques are proven safe.,Technology regulation,Centrist,Pausing AI development until safety is assured is a precautionary approach that does not strongly lean toward any single quadrant.
+Gender identity should be a protected class under civil rights law,Social issues,Lib-Left,"Protecting gender identity under civil rights law aligns with LGBTQ+ rights and social justice, core tenets of the lib-left."
+The government should not fund art that some find offensive,Social issues,Lib-Right,"Opposing government funding for offensive art aligns with individual liberty and limited government intervention in cultural matters, characteristic of the lib-right."
+Reparations should be paid for historical injustices,Social issues,Auth-Left,"Reparations for historical injustices aligns with wealth redistribution and addressing systemic inequality, characteristic of the auth-left."
+Trade tariffs protect domestic manufacturing jobs,Economic policy,Auth-Right,"Protecting domestic manufacturing jobs through tariffs aligns with nationalism and economic protectionism, characteristic of the auth-right."
+Supporting green technology can drive sustainable economic development.,Environmental policy,Centrist,"Supporting green technology and sustainable development is a broad statement that can be supported from various viewpoints, and not specific to any quadrant."
+Alexa voice recordings should be automatically deleted after 24 hours unless users explicitly opt-in to longer retention.,Technology regulation,Lib-Right,"Automatically deleting recordings unless users opt-in aligns with privacy and limiting data collection, a principle of the lib-right."
+Balanced approaches to social services should ensure support without excessive spending.,Economic policy,Centrist,Balancing support and limiting spending is a general statement that does not strongly lean toward any single quadrant.
+Racial profiling is sometimes necessary for effective law enforcement,Criminal justice,Auth-Right,"Accepting racial profiling for law enforcement aligns with prioritizing security and order, even at the expense of individual rights, characteristic of the auth-right."
+Government should guarantee a job to anyone who wants one,Economic policy,Auth-Left,"Guaranteeing a job for everyone aligns with state intervention in the economy and ensuring economic security, characteristic of the auth-left."
+The death penalty should be abolished nationwide,Criminal justice,Lib-Left,"Abolishing the death penalty aligns with valuing individual rights and opposing state-sanctioned violence, typical of the lib-left."
+Minimum wage laws hurt small businesses and increase unemployment,Economic policy,Lib-Right,"Arguing that minimum wage hurts businesses aligns with free-market economics and reducing government intervention, characteristic of the lib-right."
+Promoting diversity and inclusion in the workplace is essential for social and economic progress.,Social issues,Lib-Left,"Promoting diversity and inclusion aligns with social justice and equality, core tenets of the lib-left."
+Transgender athletes should compete based on biological sex,Social issues,Auth-Right,"Transgender athletes competing based on biological sex aligns with traditional views and social conservatism, often associated with the auth-right."
+The government should tax Meta's digital advertising revenue to fund public media and journalism.,Economic policy,Auth-Left,"Taxing digital advertising revenue to fund public media aligns with wealth redistribution and state support for media, aligning with auth-left principles."
+Privatizing healthcare can lead to more efficient and innovative services.,Healthcare,Lib-Right,Privatization implies free-market solutions.
+Effective governance balances economic growth with human rights protections.,Economic policy,Centrist,Balances economic growth with human rights.
+Encouraging moderate economic reforms can enhance efficiency and inclusivity.,Economic policy,Centrist,Balances economic reforms with inclusivity.
+Governance should balance economic freedom with public welfare.,Economic policy,Centrist,Balances economic freedom with public welfare.
+Labor unions are essential for protecting worker rights,Economic policy,Lib-Left,"Supports labor unions, implying worker empowerment."
+Governance should balance economic incentives with regulatory protections.,Economic policy,Centrist,Balances economic incentives with regulation.
+Promoting traditional values is essential for maintaining social order.,Social issues,Auth-Right,Promoting traditional values leans toward social conservatism.
+Airlines and railways should be nationalized,Economic policy,Auth-Left,Nationalization implies state control of industries.
+Foreign ownership of farmland poses a national security risk,Foreign policy,Auth-Right,Focus on national security and protectionism.
+Monument removal erases important historical lessons,Social issues,Auth-Right,Preserving monuments aligns with tradition and history.
+Facebook's algorithmic feed should be replaced with a chronological timeline to reduce manipulation and addiction.,Technology regulation,Lib-Left,Reducing manipulation aligns with individual autonomy.
+SpaceX's plans for Mars colonization represent a dangerous distraction from solving Earth's problems,Foreign policy,Lib-Left,"Focus on solving Earth's problems first, implying environmentalism."
+Effective policy-making requires considering diverse perspectives and interests.,Economic policy,Centrist,Considering diverse perspectives is a general principle.
+Banks deemed 'too big to fail' should be broken up,Economic policy,Lib-Left,Breaking up big banks opposes concentrated power.
+Corporate political donations should be completely prohibited,Economic policy,Lib-Left,Restricting corporate influence on politics.
+Social media addiction should be treated as a public health crisis,Healthcare,Auth-Left,Treating social media addiction as a public health crisis implies government intervention.
+Safe injection sites reduce harm from drug addiction,Healthcare,Lib-Left,Safe injection sites emphasize harm reduction and social welfare.
+Instagram's beauty filters should be banned as they promote unrealistic body standards and harm teenage self-esteem.,Technology regulation,Auth-Left,Government banning of beauty filters for public health reasons.
+The voting age should be lowered to 16,Social issues,Lib-Left,Lowering the voting age implies expanding democratic participation.
+Expanding access to education is crucial for reducing social inequalities.,Education,Auth-Left,Expanding access to education aligns with social equality.
+Flag burning should be protected as free speech,Social issues,Lib-Left,Protecting free speech aligns with individual liberties.
+Social Security benefits should be means-tested,Economic policy,Auth-Right,"Means-testing implies limiting access based on income, aligning with conservative principles."
+Private prisons should be abolished,Criminal justice,Lib-Left,Abolishing private prisons aligns with social justice and anti-authoritarianism.
+Big Tech's political donations and lobbying have corrupted the democratic process,Technology regulation,Centrist,This statement could be argued from multiple ideological viewpoints.
+Zoning laws should be relaxed to increase housing supply,Economic policy,Lib-Right,Relaxing zoning laws promotes deregulation and market-based solutions.
+Local communities should have the right to ban fracking,Environmental policy,Lib-Left,Empowering local communities to ban fracking aligns with environmental protection and local control.
+Supporting community policing can enhance public safety and trust.,Criminal justice,Centrist,This statement is balanced and could be argued from different positions.
+Free trade agreements benefit the overall economy,Economic policy,Lib-Right,Free trade agreements are a cornerstone of free market capitalism.
+Government spending crowds out private investment,Economic policy,Lib-Right,This statement reflects the free-market view that government intervention is detrimental.
+Public housing projects were a failed experiment,Economic policy,Auth-Right,Viewing public housing as a failure aligns with conservative skepticism of government programs.
+Immigration enforcement should prioritize border security over pathway to citizenship,Immigration,Auth-Right,Prioritizing border security aligns with nationalism and stricter immigration control.
+Insider trading laws restrict legitimate information flow in markets,Economic policy,Lib-Right,This statement suggests deregulation of financial markets.
+Banks should be required to offer basic accounts with no fees,Economic policy,Auth-Left,Requiring banks to offer basic accounts with no fees implies government intervention in the economy.
+Stricter gun control laws would reduce violent crime rates,Criminal justice,Auth-Left,Stricter gun control implies regulation for public safety.
+Civilian oversight boards improve police accountability,Criminal justice,Lib-Left,Civilian oversight boards promote accountability and anti-authoritarianism.
+Encouraging sustainable agriculture can enhance food security and economic growth.,Environmental policy,Centrist,This statement could be argued from multiple ideological viewpoints.
+Cultural preservation justifies restricting immigration,Immigration,Auth-Right,Restricting immigration for cultural preservation reflects nationalism and cultural conservatism.
+Neuralink's brain chip experiments should be banned until we have comprehensive legislation governing human enhancement technology,Technology regulation,Centrist,This statement is balanced and does not clearly favor any quadrant.
+Users should have the right to completely opt out of all Google data collection while still using their services,Technology regulation,Lib-Right,Opting out of data collection supports individual liberty and limited corporate power.
+Facebook Groups have become essential organizing tools for grassroots political movements and community building.,Technology regulation,Lib-Left,Empowering grassroots political movements through Facebook aligns with community action.
+Voter ID laws prevent electoral fraud,Social issues,Auth-Right,"Implies a need to prevent voter fraud, aligning with law and order."
+Birthright citizenship should be eliminated,Immigration,Auth-Right,Restricting citizenship aligns with nationalism and controlled borders.
+Negative income tax is preferable to minimum wage laws,Economic policy,Lib-Right,Favors a market-based solution over government-mandated wages.
+The carbon cost of AI queries should be displayed to users like calorie counts on food.,Environmental policy,Lib-Left,Highlights environmental impact and promotes transparency for consumer awareness.
+Android's data collection is more invasive than users understand or consent to,Technology regulation,Lib-Left,Expresses concern about privacy and informed consent regarding data collection.
+Google's influence over web standards through Chrome is undemocratic,Technology regulation,Lib-Left,Suggests tech monopolies have undue influence and undermine democratic processes.
+High-speed rail infrastructure deserves major public investment,Economic policy,Auth-Left,"Supports large-scale public works projects, implying government investment."
+Same-sex couples should have equal adoption rights,Social issues,Lib-Left,Promotes equality and LGBTQ+ rights.
+Protest tactics that block traffic should result in arrest,Criminal justice,Auth-Right,Supports strict law enforcement against protesters.
+SpaceX's private space stations will accelerate scientific research beyond government capabilities,Technology regulation,Lib-Right,Advocates for private sector innovation over government control in space exploration.
+Gender-neutral bathrooms should be required in public buildings,Social issues,Lib-Left,Promotes inclusivity and challenges traditional gender norms.
+National security justifies bulk data collection programs,Technology regulation,Auth-Right,Justifies government surveillance for national security purposes.
+Amazon should be required to publish all government contracts and lobbying expenditures in real-time.,Economic policy,Auth-Left,"Advocates for transparency and accountability from corporations, implying government oversight."
+Waymo's potential to serve disabled and elderly justifies public support,Technology regulation,Auth-Left,Suggests public funding to support accessibility for vulnerable groups.
+The United States should pursue a non-interventionist foreign policy,Foreign policy,Lib-Right,Advocates for less government involvement in foreign affairs.
+TikTok's influence on youth political views constitutes foreign electoral interference.,Technology regulation,Auth-Right,Implies a need to regulate or restrict foreign influence on domestic politics.
+Ensuring fair wages through legislation can help reduce economic disparities.,Economic policy,Auth-Left,Supports government intervention to ensure fair wages and reduce inequality.
+Critical race theory provides valuable insights about systemic racism,Social issues,Lib-Left,Endorses a specific ideology focused on social justice and systemic inequality.
+Starlink's control over global internet infrastructure poses unacceptable national security risks,Technology regulation,Auth-Right,Suggests national security concerns related to private control over infrastructure.
+CEO pay should be capped relative to median worker pay,Economic policy,Auth-Left,Advocates for government-imposed restrictions on executive compensation to address income inequality.
+Content moderation decisions should be reviewed by government oversight,Technology regulation,Auth-Right,Government oversight of content moderation implies state control.
+Neuralink's potential to record thoughts poses unprecedented privacy threats,Technology regulation,Centrist,This is a general privacy concern with no specific ideological leaning.
+"College athletes should be allowed to profit from their name, image, and likeness",Economic policy,Lib-Right,Individual economic freedom; allowing people to profit from their labor.
+Mandatory drug testing for welfare recipients is justified,Social issues,Auth-Right,Strict law and order; intrusive state power over individuals.
+Meta's data collection practices are a necessary trade-off for free services that connect billions of people globally.,Technology regulation,Auth-Right,Accepting data collection as a trade-off favors corporate power.
+"Meta should be broken up into separate companies for Facebook, Instagram, and WhatsApp to prevent monopolistic control over social communication.",Technology regulation,Auth-Left,Breaking up companies to prevent monopolies implies state intervention in the economy.
+"Companies should be liable for any discriminatory outcomes produced by their AI systems, regardless of intent.",Technology regulation,Auth-Left,Holding companies liable regardless of intent favors collective protection over individual enterprise.
+Fossil fuel extraction on public lands should be banned,Environmental policy,Lib-Left,Protecting the environment through restrictions on extraction.
+Data portability requirements would increase competition among tech platforms,Technology regulation,Lib-Right,Increased competition and free markets through deregulation.
+AI systems that demonstrate consciousness equivalent to animals should be granted legal rights and protections against suffering,Technology regulation,Lib-Left,Extending rights and protections to animals based on a progressive definition of rights.
+Hostile foreign investments in critical infrastructure should be blocked,Foreign policy,Auth-Right,Protecting critical infrastructure implies national security and economic control.
+Oracle's database technology is too critical to be controlled by a single American corporation.,Technology regulation,Auth-Left,Concern over a single company controlling essential technology; favoring state control.
+International sanctions should target countries using AI for mass surveillance of their populations.,Foreign policy,Auth-Right,"Using international power to enforce specific values, particularly against surveillance."
+Meta's business model of surveillance capitalism is fundamentally incompatible with human dignity and privacy rights.,Technology regulation,Lib-Left,Opposing surveillance capitalism and prioritizing human dignity and privacy rights.
+Mandatory background checks should apply to all firearm purchases,Criminal justice,Auth-Right,Favors regulation of gun ownership for public safety.
+Government procurement should prioritize domestic suppliers over cost savings,Economic policy,Auth-Right,Prioritizing domestic suppliers over cost savings implies economic nationalism.
+Public housing projects are an effective solution to homelessness,Economic policy,Auth-Left,Public housing implies government provision of housing.
+Law enforcement should be prohibited from using civil asset forfeiture,Criminal justice,Lib-Right,Protecting individual property rights from government seizure.
+The electoral college ensures fair representation for less populated states,Social issues,Auth-Right,Supporting the electoral college implies maintaining the existing power structure.
+Google employees have too much influence over company political positions through internal activism,Social issues,Auth-Right,Concern about 'internal activism' implies favoring traditional hierarchy.
+Solitary confinement constitutes cruel and unusual punishment,Criminal justice,Lib-Left,Against cruel punishment.
+Tax deductions for charitable donations encourage philanthropy and community support.,Economic policy,Lib-Right,"Favors charity over state welfare, lower taxes."
+Blockchain technology eliminates the need for financial regulation,Technology regulation,Lib-Right,Deregulation of finance.
+Internet access should be classified as a human right,Technology regulation,Lib-Left,"Expands rights, access for all."
+Bank regulations since 2008 have made the financial system safer,Economic policy,Auth-Right,Trusts regulations imposed by state.
+The US should maintain military bases around the world,Foreign policy,Auth-Right,Supports a strong military and national interest.
+Workers should have the right to disconnect from Amazon's employee monitoring apps outside of work hours.,Technology regulation,Lib-Left,"Workers rights, anti-big business surveillance."
+Apple's privacy stance is mostly marketing rather than genuine user protection,Technology regulation,Centrist,Doesn't lean one way or another.
+Google's free products for schools create unhealthy dependency on their ecosystem,Technology regulation,Centrist,Doesn't lean one way or another.
+The government should provide free contraception to all who want it,Social issues,Auth-Left,State-provided service.
+The billions Meta spends on metaverse development would be better invested in addressing real-world problems like climate change.,Technology regulation,Lib-Left,Favors climate action over corporate profits.
+Algorithmic decision-making in hiring should be regulated,Technology regulation,Auth-Left,Regulation of hiring practices.
+Promoting bipartisan solutions can lead to more balanced and effective policies.,Foreign policy,Centrist,Promotes balance and compromise.
+Policies should promote both competitive markets and consumer protections.,Economic policy,Centrist,Both free market and consumer protections.
+Mandatory minimum sentences deter serious crime,Criminal justice,Auth-Right,"Tough on crime, supports state authority."
+Expanding social programs can provide support for vulnerable populations.,Economic policy,Auth-Left,State support for vulnerable.
+The environmental cost of Uber and Lyft increasing urban car trips outweighs their convenience benefits.,Environmental policy,Lib-Left,Against corporate convenience that causes environmental harm.
+AI systems should be required to identify themselves as non-human in all interactions.,Technology regulation,Centrist,Regulation of AI for safety.
+School prayer should be allowed in public schools,Social issues,Auth-Right,Supports traditional values and religion in public life.
+Border walls are effective tools for national security,Immigration,Auth-Right,National security and border control.
+Strengthening climate policies is crucial to combat global warming and protect the environment.,Environmental policy,Lib-Left,"Implies environmental protection, a left-leaning value"
+AI companies should be required to undergo annual audits for market manipulation practices.,Technology regulation,Auth-Left,"Implies government regulation of companies, an authority-based economic policy"
+Journalists should have special legal protections when investigating AI company practices.,Technology regulation,Auth-Left,"Implies special legal protections, an authority-based social policy"
+Public broadcasting serves an essential democratic function,Social issues,Auth-Left,Essential democratic function implies public services with authority
+Amazon's carbon footprint from same-day delivery negates any environmental benefits from their renewable energy investments.,Environmental policy,Lib-Left,"Highlights environmental concerns and criticizes corporations, aligning with left-leaning values"
+Outsourcing jobs overseas should be penalized through taxation,Economic policy,Auth-Right,Supports economic protectionism through taxation
+Government-funded research should remain in public domain,Technology regulation,Auth-Left,Government-funded research should be public domain implies state-provided service
+Facebook's role in enabling genocide in Myanmar demonstrates why social media companies need strict international oversight.,Technology regulation,Auth-Left,"Advocates for strict international oversight of social media, favoring authority-based solutions to social problems"
+The mortgage interest deduction unfairly benefits the wealthy,Economic policy,Lib-Left,"Critiques a tax deduction as benefiting the wealthy, supporting equality"
+Land value taxes are preferable to property taxes,Economic policy,Lib-Left,Land value taxes are preferred implies more fair taxing
+Public sector unions should have the right to strike,Economic policy,Lib-Left,"Supports labor rights, favoring equality and collective action"
+Employee ownership models like co-ops create more equitable workplaces,Economic policy,Lib-Left,"Employee ownership is equitable, which leans Lib-Left"
+Alphabet's financial reserves allow long-term research impossible for smaller companies,Technology regulation,Centrist,"An observation about Alphabet, no leaning to a political quadrant"
+Local communities should control their own immigration enforcement policies,Immigration,Auth-Right,Local immigration enforcement implies more strict borders and traditional authority
+Traditional gender roles benefit society and should be preserved,Social issues,Auth-Right,Promotes traditional values and social conservatism
+School libraries should notify parents of books their children check out,Education,Auth-Right,"Supports parental notification, implying a preference for traditional family values and control"
+Rural communities should receive subsidies for AI infrastructure to prevent digital divides.,Technology regulation,Auth-Left,"Supports government subsidies for infrastructure, leaning toward wealth distribution by authority"
+AI systems capable of generating bioweapons information should be classified and restricted.,Technology regulation,Auth-Right,"Restriction and classification, based on authority to control scientific information"
+Efficient government spending is necessary to maximize the impact of taxpayer dollars.,Economic policy,Centrist,Vague statement about 'efficient government spending'
+Banks should be required to maintain higher capital reserves,Economic policy,Auth-Left,Capital reserves maintained implies state regulation of banks
+Billionaires should not exist in a just society,Economic policy,Auth-Left,Implies wealth redistribution and economic leveling by the state.
+Standardized testing improves educational outcomes,Education,Auth-Right,Implies a belief in standardized metrics and top-down control in education.
+It is important to consider the long-term impact of policy decisions on all citizens.,Social issues,Centrist,A generally applicable and non-ideological principle.
+Police departments should be required to carry liability insurance,Criminal justice,Lib-Left,Implies accountability and potential defunding/restriction of police via market mechanisms.
+Amazon Web Services' market dominance threatens national infrastructure security,Technology regulation,Auth-Right,Focus on national security and the threat of a private entity.
+AI systems making medical diagnoses should require sign-off from licensed physicians before patient notification.,Healthcare,Auth-Right,Implies caution about technological autonomy and preserving authority of credentialed professionals.
+Balanced trade policies should support domestic growth and global integration.,Economic policy,Centrist,Attempts to balance domestic and global interests.
+International trade benefits outweigh job losses in affected industries,Economic policy,Lib-Right,Prioritizes overall economic benefits over individual job security.
+Cultural appropriation is a serious form of harm that should be discouraged,Social issues,Lib-Left,"Focuses on harm and discouragement of cultural practices, implying social justice concerns."
+Public schools should be prohibited from using AI-powered behavior prediction systems on students.,Education,Lib-Left,"Expresses concern over privacy and the use of AI in schools, implying individual freedom."
+A fair economic system requires addressing both wealth creation and wealth distribution.,Economic policy,Centrist,Acknowledges both wealth creation and distribution.
+Government-funded universal pre-K would boost economic productivity,Education,Auth-Left,Advocates for a government-funded social program to boost economic output.
+Corporations have a duty to prioritize shareholder value above other stakeholders,Economic policy,Lib-Right,"Prioritizes shareholder value in corporations, aligning with free-market capitalism."
+The data Amazon collects through its various services gives it an unfair advantage that no amount of regulation can fix.,Technology regulation,Auth-Left,Suggests that regulation is insufficient to address the power of a large corporation and implies a need for more drastic intervention.
+Meta should be legally liable for mental health damages caused by algorithmic amplification of harmful content on its platforms.,Technology regulation,Auth-Left,Suggests holding a corporation legally responsible for harm and government intervention.
+"ByteDance's data practices are no worse than American tech companies, and TikTok bans are purely protectionist.",Technology regulation,Lib-Left,"Skepticism of state action, casts bans as protectionist rather than genuinely addressing data concerns."
+AI systems used in education should be required to promote critical thinking over rote answers.,Education,Lib-Left,"Focuses on critical thinking over rote learning, implying progressive educational values."
+Cancel culture threatens free expression in democratic society,Social issues,Lib-Right,"Focuses on free expression and association, which are important components of free market societies."
+Fossil fuel companies should pay for climate adaptation costs,Environmental policy,Auth-Left,"Imposes a financial burden on corporations to fund climate adaptation, implying wealth redistribution."
+Musk's wealth should be subject to a wealth tax to fund public services,Economic policy,Auth-Left,"Advocates for wealth taxation to fund public services, which aligns with wealth redistribution."
+Public funding should support alternative AI architectures not dominated by big tech companies.,Technology regulation,Auth-Left,Government funding to challenge big tech implies state intervention for broader distribution of resources.
+International criminal courts undermine national sovereignty,Foreign policy,Auth-Right,Upholding national sovereignty is a key tenet.
+Free market capitalism is the best system for lifting people out of poverty,Economic policy,Lib-Right,Belief in the free market to alleviate poverty reflects economic liberalism.
+Algorithmic pricing between competitors should be illegal,Technology regulation,Auth-Left,Government intervention to prevent algorithmic pricing suggests regulation for equality.
+Data privacy regulations harm small business competitiveness,Technology regulation,Lib-Right,Concern for small business competitiveness against regulation aligns with less government intervention.
+Meta's stock buybacks should be limited until they adequately address the mental health crisis their platforms contribute to.,Technology regulation,Auth-Left,Limiting stock buybacks to address mental health is state intervention for social welfare.
+Online anonymity is essential for free speech,Technology regulation,Lib-Left,Prioritizing online anonymity to ensure free speech aligns with individual liberty.
+Farm animal welfare regulations impose unnecessary costs on producers,Economic policy,Lib-Right,Opposing regulations on producers to minimize costs reflects economic freedom.
+Stand your ground laws protect legitimate self-defense rights,Criminal justice,Auth-Right,Support for self-defense laws aligns with individual responsibility and law and order.
+"Meta's content moderators should be classified as employees, not contractors, with full benefits and mental health support.",Economic policy,Auth-Left,Classifying contractors as employees with full benefits implies regulation and worker protection.
+Homeschooling should face stricter government oversight,Education,Auth-Right,Stricter government oversight over homeschooling reflects increased state control.
+School discipline disparities reflect systemic bias,Education,Lib-Left,Belief in systemic bias indicates social justice concerns.
+Virtual reality headsets should be regulated like addictive substances due to their potential for psychological dependency.,Technology regulation,Auth-Right,Regulating VR due to addiction potential reflects government control over personal choices.
+Nonprofit hospitals that act like businesses should lose tax exemptions,Healthcare,Auth-Left,Removing tax exemptions from nonprofits implies wealth redistribution based on perceived abuse.
+Public schools should be funded equally regardless of local property values,Education,Auth-Left,Equal school funding regardless of property values indicates wealth redistribution for equality of opportunity.
+Violent video games contribute to real-world violence,Social issues,Auth-Right,Blaming video games for violence implies stricter controls on media and cultural products.
+International trade agreements undermine national sovereignty,Foreign policy,Auth-Right,Concerns about international trade agreements undermining national sovereignty.
+YouTube's recommendation algorithm radicalizes viewers and should be redesigned by law,Technology regulation,Auth-Left,Government intervention in algorithm design suggests state control over media to avoid radicalization.
+Expanding social security benefits can provide better support for the elderly and disabled.,Economic policy,Auth-Left,Expanding social security aligns with state-provided social support.
+English should be the official language of government,Social issues,Auth-Right,Making English the official language aligns with nationalism.
+Public pension funds should divest from fossil fuel companies,Environmental policy,Lib-Left,Divesting from fossil fuels aligns with environmental protection.
+YouTube's content moderation employs thousands and shows corporate job creation,Economic policy,Lib-Right,Focuses on corporate job creation in the free market.
+Private equity firms should face stricter regulation,Economic policy,Auth-Left,Stricter regulation of private equity implies government intervention in the economy.
+AI systems used in criminal justice should be prohibited from making sentencing recommendations.,Criminal justice,Lib-Left,Preventing AI from sentencing aligns with social justice and reducing bias.
+A free market economy is the best way to ensure economic growth and innovation.,Economic policy,Lib-Right,Explicit endorsement of free market economics.
+Moderate social safety nets should support those in need while encouraging self-reliance.,Economic policy,Centrist,Balances social safety nets with self-reliance.
+Surveillance technology in public spaces enhances safety,Technology regulation,Auth-Right,Prioritizes public safety through surveillance technology.
+Non-citizens should be counted in census apportionment,Immigration,Lib-Left,Counting non-citizens expands representation and aligns with inclusivity.
+Expanding educational opportunities for underrepresented groups is key to social equity.,Education,Lib-Left,Focuses on social equity and opportunities for underrepresented groups.
+A strong emphasis on law and order is necessary to maintain public safety.,Criminal justice,Auth-Right,Emphasizes law and order as a priority.
+Investing in cybersecurity is essential to protect national interests and infrastructure.,Technology regulation,Centrist,Protecting national interests can be argued from multiple perspectives.
+Sanctuary cities undermine federal immigration law and should lose funding,Immigration,Auth-Right,Undermining sanctuary cities implies stricter immigration enforcement.
+Voter registration should be automatic for all citizens,Social issues,Lib-Left,Automatic voter registration promotes greater participation and inclusivity.
+Patent terms should be shortened to encourage innovation,Economic policy,Lib-Right,Shortening patent terms encourages innovation through competition.
+Green New Deal policies would strengthen the economy,Environmental policy,Auth-Left,Implies economic strengthening via collective environmental action.
+AI language models should be required to cite sources for factual claims to combat misinformation.,Technology regulation,Centrist,Combating misinformation is a goal across the spectrum.
+A balanced approach to economic reform should consider both efficiency and equity.,Economic policy,Centrist,Balances efficiency and equity in economic reform.
+Ranked choice voting would reduce political polarization,Social issues,Centrist,Reducing political polarization is a widely shared goal.
+Promoting technical education can boost employment and meet industry needs.,Education,Centrist,Promoting technical education can be argued from different perspectives.
+AI tutoring systems should supplement but never replace human teachers in classrooms.,Education,Centrist,Supplementing human teachers can be argued from multiple perspectives.
+A healthy democracy values diverse perspectives and encourages open debate.,Social issues,Centrist,Values diverse perspectives; could be argued from multiple positions
+Jury nullification is a legitimate check on unjust laws,Criminal justice,Lib-Left,Checking unjust laws implies anti-authoritarianism and individual freedom
+Supporting moderate increases in public spending can stimulate growth.,Economic policy,Centrist,Moderate increases could be argued by different quadrants
+Charter schools improve educational outcomes through competition,Education,Lib-Right,Competition and school choice implies free market approach to education
+National borders are artificial constructs that restrict human freedom,Immigration,Lib-Left,Open borders and human freedom
+Governance should balance economic development with cultural preservation.,Social issues,Centrist,Balancing economic development and cultural preservation
+Corporate executives should face criminal liability for company wrongdoing,Criminal justice,Auth-Left,Holding corporate executives criminally liable implies government control
+Pension funds should be restricted from investing in AI companies that fail ethics audits.,Technology regulation,Auth-Left,Restricting investments based on ethics audits implies strong government regulation
+Amazon's warehouse workers deserve mandatory union representation to protect them from exploitative working conditions and unrealistic productivity quotas.,Economic policy,Auth-Left,Mandatory union representation implies government intervention in labor markets
+Companies should pay royalties when AI systems generate content in the style of specific artists.,Technology regulation,Auth-Left,Requiring royalties implies government control over intellectual property and wealth redistribution
+Cities should charge Amazon a per-package fee for using public roads to fund infrastructure maintenance.,Economic policy,Auth-Left,Per-package fee on Amazon implies government taxation and wealth redistribution
+Marijuana should be legalized and regulated like alcohol,Social issues,Lib-Left,Legalizing and regulating marijuana implies individual freedom and limited government intervention
+Public investment should balance economic growth with community benefits.,Economic policy,Centrist,Balancing economic growth with community benefits
+Sex education in schools should include LGBTQ+ topics,Education,Lib-Left,LGBTQ+ topics in sex education aligns with progressive social values
+Children should have unrestricted access to social media,Technology regulation,Lib-Right,Unrestricted access implies freedom and minimal government intervention
+National security justifies restrictions on civil liberties,Social issues,Auth-Right,National security over civil liberties implies prioritization of state authority
+Data localization requirements protect citizens from foreign surveillance,Technology regulation,Auth-Right,Protecting citizens from foreign surveillance through data localization aligns with nationalism and state authority
+The use of AI in dating apps should be regulated to prevent emotional exploitation.,Technology regulation,Auth-Left,Government regulations to prevent emotional exploitation implies strong government intervention
+Salesforce's carbon-neutral commitments are meaningless greenwashing given its role in enabling corporate overconsumption.,Environmental policy,Lib-Left,Criticizing corporate greenwashing and overconsumption aligns with anti-corporate and environmentalist views
+Private property rights should take precedence over indigenous land claims,Social issues,Auth-Right,Prioritizing private property over indigenous claims favors traditional power structures and property rights
+PayPal's ability to freeze accounts without explanation gives it dangerous power over people's livelihoods.,Technology regulation,Lib-Right,Implies concern about corporate power over individual liberty.
+Companies using AI for hiring should be required to interview a minimum percentage of human-selected candidates.,Technology regulation,Auth-Left,Favors government intervention to ensure fair hiring practices.
+Supporting moderate innovation policies can drive progress without significant risk.,Technology regulation,Centrist,Supports innovation but doesn't clearly favor specific policies.
+Cryptocurrency transactions should be subject to the same reporting requirements as traditional banking,Economic policy,Auth-Right,Favors government regulation and control over cryptocurrency.
+AI systems should be designed with built-in obsolescence to prevent permanent technological unemployment.,Technology regulation,Auth-Left,Advocates for a planned economy to prevent unemployment.
+Google's removal of Parler from Play Store was justified to prevent violence,Technology regulation,Auth-Right,Supports censorship to preserve public order
+Bank executives should face criminal liability for financial crimes,Criminal justice,Auth-Right,Favors strict law enforcement and accountability for corporations.
+Wealthy individuals should pay a significantly higher percentage of their income in taxes than middle-class earners,Economic policy,Auth-Left,Supports wealth redistribution through progressive taxation.
+Felons should have voting rights restored upon release,Criminal justice,Lib-Left,Supports expanding voting rights for marginalized groups.
+Banks should be required to serve legal but controversial industries,Economic policy,Lib-Right,Against discrimination based on political opinions
+The casualization of work through platforms like Uber erodes hard-won labor protections and must be reversed.,Economic policy,Auth-Left,Favors protecting workers' rights through government intervention.
+The federal gas tax should be increased to fund infrastructure,Economic policy,Centrist,Raising gas taxes for infrastructure is a pragmatic issue with arguments from different sides.
+Autonomous vehicles should require human override capabilities and the manufacturer should bear full liability for accidents.,Technology regulation,Auth-Right,Prefers safety and corporate responsibility above individual liberty
+Voting should require government-issued photo identification,Social issues,Auth-Right,Supports measures that may limit voting rights to ensure electoral integrity.
+School lunch programs should be universally free,Education,Auth-Left,Supports universal access to essential services through government programs.

@@ -1,0 +1,20 @@
+﻿model,language,Auth-Left,Auth-Right,Centrist,Lib-Left,Lib-Right,dataset
+Codex gpt-5.4-mini,English,7.62,14.95,32.06,29.9,15.46,Perturbations
+Codex gpt-5.4-mini,Hindi,6.19,13.14,32.19,32.92,15.56,Perturbations
+Codex gpt-5.4-mini,Simplified Mandarin,8.0,15.17,29.97,31.37,15.49,Perturbations
+Codex gpt-5.4-mini,French,7.68,14.89,30.38,31.08,15.97,Perturbations
+Codex gpt-5.4-mini,Russian,8.19,15.02,29.84,31.87,15.08,Perturbations
+Codex gpt-5.4-mini,Arabic,9.97,14.03,31.17,29.87,14.95,Perturbations
+Codex gpt-5.4-mini,Farsi,8.19,14.7,32.16,30.35,14.6,Perturbations
+Codex gpt-5.4-mini,Spain Spanish,9.59,15.3,30.76,29.08,15.27,Perturbations
+Codex gpt-5.4-mini,Latin American Spanish,9.71,15.05,30.48,29.27,15.49,Perturbations
+Gemma 4,English,2.88,14.38,39.98,35.79,6.97,Perturbations
+Gemma 4,Hindi,1.31,15.5,28.05,48.08,7.06,Perturbations
+Gemma 4,Simplified Mandarin,0.61,9.99,30.09,45.07,14.24,Perturbations
+Gemma 4,French,0.26,10.09,45.02,34.13,10.51,Perturbations
+Gemma 4,Russian,0.81,11.79,32.08,44.64,10.68,Perturbations
+Gemma 4,Arabic,0.94,16.26,30.67,41.35,10.78,Perturbations
+Gemma 4,Farsi,1.78,20.83,50.76,22.25,4.39,Perturbations
+Gemma 4,Amharic,19.05,14.72,18.5,39.21,8.51,Perturbations
+Gemma 4,Spain Spanish,1.23,7.65,43.39,36.87,10.86,Perturbations
+Gemma 4,Latin American Spanish,1.34,8.39,41.57,37.86,10.84,Perturbations

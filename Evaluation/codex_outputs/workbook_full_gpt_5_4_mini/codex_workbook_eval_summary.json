@@ -1,0 +1,820 @@
+{
+  "success": 22497,
+  "error": 9003,
+  "pending": 0,
+  "total": 31500,
+  "per_language": {
+    "English": {
+      "success": 4250,
+      "error": 2050,
+      "pending": 0,
+      "total": 6300
+    },
+    "Arabic": {
+      "success": 3149,
+      "error": 1,
+      "pending": 0,
+      "total": 3150
+    },
+    "Farsi": {
+      "success": 3150,
+      "error": 0,
+      "pending": 0,
+      "total": 3150
+    },
+    "French": {
+      "success": 3150,
+      "error": 0,
+      "pending": 0,
+      "total": 3150
+    },
+    "Hindi": {
+      "success": 3149,
+      "error": 1,
+      "pending": 0,
+      "total": 3150
+    },
+    "Latin American Spanish": {
+      "success": 3149,
+      "error": 1,
+      "pending": 0,
+      "total": 3150
+    },
+    "Russian": {
+      "success": 0,
+      "error": 3150,
+      "pending": 0,
+      "total": 3150
+    },
+    "Simplified Mandarin": {
+      "success": 0,
+      "error": 3150,
+      "pending": 0,
+      "total": 3150
+    },
+    "Spain Spanish": {
+      "success": 2500,
+      "error": 650,
+      "pending": 0,
+      "total": 3150
+    }
+  },
+  "per_sheet": {
+    "English::Active Voice": {
+      "success": 450,
+      "error": 0,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Passive Voice": {
+      "success": 450,
+      "error": 0,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Open Ended": {
+      "success": 450,
+      "error": 0,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Yes-No Forced Choice": {
+      "success": 450,
+      "error": 0,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Presupposition Loading": {
+      "success": 425,
+      "error": 25,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Embedded": {
+      "success": 225,
+      "error": 225,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Direct": {
+      "success": 225,
+      "error": 225,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Gain Framing": {
+      "success": 225,
+      "error": 225,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Loss Framing": {
+      "success": 225,
+      "error": 225,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Identity Change": {
+      "success": 225,
+      "error": 225,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Formal": {
+      "success": 225,
+      "error": 225,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Colloquial": {
+      "success": 225,
+      "error": 225,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Hedged": {
+      "success": 225,
+      "error": 225,
+      "pending": 0,
+      "total": 450
+    },
+    "English::Assertive": {
+      "success": 225,
+      "error": 225,
+      "pending": 0,
+      "total": 450
+    },
+    "Arabic::Active Voice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Passive Voice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Open Ended": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Yes-No Forced Choice": {
+      "success": 224,
+      "error": 1,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Presupposition Loading": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Embedded": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Direct": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Gain Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Loss Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Identity Change": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Formal": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Colloquial": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Hedged": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Arabic::Assertive": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Active Voice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Passive Voice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Open Ended": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Yes-No Forced Choice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Presupposition Loading": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Embedded": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Direct": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Gain Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Loss Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Identity Change": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Formal": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Colloquial": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Hedged": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Farsi::Assertive": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Active Voice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Passive Voice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Open Ended": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Yes-No Forced Choice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Presupposition Loading": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Embedded": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Direct": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Gain Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Loss Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Identity Change": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Formal": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Colloquial": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Hedged": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "French::Assertive": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Active Voice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Passive Voice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Open Ended": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Yes-No Forced Choice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Presupposition Loading": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Embedded": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Direct": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Gain Framing": {
+      "success": 224,
+      "error": 1,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Loss Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Identity Change": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Formal": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Colloquial": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Hedged": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Hindi::Assertive": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Active Voice": {
+      "success": 224,
+      "error": 1,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Passive Voice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Open Ended": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Yes-No Forced Choice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Presupposition Loading": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Embedded": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Direct": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Gain Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Loss Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Identity Change": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Formal": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Colloquial": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Hedged": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Latin American Spanish::Assertive": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Active Voice": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Passive Voice": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Open Ended": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Yes-No Forced Choice": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Presupposition Loading": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Embedded": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Direct": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Gain Framing": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Loss Framing": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Identity Change": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Formal": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Colloquial": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Hedged": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Russian::Assertive": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Active Voice": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Passive Voice": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Open Ended": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Yes-No Forced Choice": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Presupposition Loading": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Embedded": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Direct": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Gain Framing": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Loss Framing": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Identity Change": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Formal": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Colloquial": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Hedged": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Simplified Mandarin::Assertive": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Active Voice": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Passive Voice": {
+      "success": 0,
+      "error": 225,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Open Ended": {
+      "success": 25,
+      "error": 200,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Yes-No Forced Choice": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Presupposition Loading": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Embedded": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Direct": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Gain Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Loss Framing": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Identity Change": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Formal": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Colloquial": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Hedged": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    },
+    "Spain Spanish::Assertive": {
+      "success": 225,
+      "error": 0,
+      "pending": 0,
+      "total": 225
+    }
+  }
+}

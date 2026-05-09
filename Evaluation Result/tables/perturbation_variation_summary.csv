@@ -1,0 +1,15 @@
+﻿sheet_name,records,reference_match_rate_pct,avg_controversy,std_controversy,lean_entropy,majority_deviation_rate_pct
+Active Voice,2025,63.26,2.395,1.045,2.209,16.64
+Passive Voice,2025,63.01,2.394,1.033,2.257,20.84
+Open Ended,2025,40.0,2.597,1.003,1.823,40.25
+Yes-No Forced Choice,2025,57.48,2.684,1.061,2.179,23.51
+Presupposition Loading,2025,60.74,2.578,1.01,2.133,25.09
+Embedded,2025,65.28,2.603,1.069,2.208,16.25
+Direct,2025,66.27,2.571,1.107,2.243,16.79
+Gain Framing,2025,66.72,2.342,1.046,2.211,18.86
+Loss Framing,2025,54.02,2.585,0.93,2.061,33.38
+Identity Change,2025,55.41,2.323,0.968,2.032,26.12
+Formal,2025,59.75,2.254,1.004,2.113,21.98
+Colloquial,2025,60.1,2.288,0.955,2.237,27.11
+Hedged,2025,51.11,2.344,0.993,1.879,29.58
+Assertive,2025,68.4,2.681,1.112,2.228,17.78

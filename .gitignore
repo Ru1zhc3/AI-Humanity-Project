@@ -1,0 +1,26 @@
+.DS_Store
+Thumbs.db
+
+# Local editor/workspace metadata
+.idea/
+.vscode/
+
+# Python caches and test scratch directories
+__pycache__/
+*.py[cod]
+.pytest_cache/
+Evaluation/tests/codex-eval-test-*/
+
+# JavaScript dependencies and generated package caches
+node_modules/
+
+# OAuth/session caches and local credentials
+oauth_cache/
+auth.json
+*.token
+
+# Temporary render/build scratch directories
+tmp/
+render_profile/
+render_convert/
+*.tmp

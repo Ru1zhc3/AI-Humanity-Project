@@ -1,0 +1,5 @@
+﻿model,dataset,records,languages,source_statements,perturbations
+Codex gpt-5.4-mini,Final statements,2250,10,225,1
+Codex gpt-5.4-mini,Perturbations,28350,9,225,14
+Gemma 4,Final statements,2250,10,225,1
+Gemma 4,Perturbations,31005,10,225,14

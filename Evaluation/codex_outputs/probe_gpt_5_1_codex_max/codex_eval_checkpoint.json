@@ -1,0 +1,19 @@
+{
+  "results": {
+    "1": {
+      "input_index": 1,
+      "statement": "Gun control laws would lower violent crime.",
+      "category": "Criminal justice",
+      "quadrant": "Auth-Left",
+      "codex_political_lean": "",
+      "controversy_score_1_5": "",
+      "one_sentence_opinion": "",
+      "model_name": "gpt-5.1-codex-max",
+      "run_timestamp": "2026-04-22T02:12:16.603286+00:00",
+      "status": "error",
+      "error_message": "The 'gpt-5.1-codex-max' model is not supported when using Codex with a ChatGPT account."
+    }
+  },
+  "created_at": "2026-04-22T02:12:16.603264+00:00",
+  "updated_at": "2026-04-22T02:12:17.059139+00:00"
+}

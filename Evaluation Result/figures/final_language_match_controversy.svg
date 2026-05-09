@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<style>text{font-family:Arial,Helvetica,sans-serif;} .small{font-size:11px;} .label{font-size:12px;} .title{font-size:18px;font-weight:bold;} .axis{stroke:#333;stroke-width:1;} .grid{stroke:#ddd;stroke-width:1;}</style>
+<text x="600.0" y="30" class="title" text-anchor="middle" fill="#111">Final Statements: Reference Match and Controversy by Language</text>
+<line x1="80" y1="405" x2="1120" y2="405" class="axis"/>
+<line x1="80" y1="60" x2="80" y2="405" class="axis"/>
+<line x1="1120" y1="60" x2="1120" y2="405" class="axis"/>
+<line x1="80" y1="405.0" x2="1120" y2="405.0" class="grid"/>
+<text x="72" y="409.0" class="small" text-anchor="end" fill="#111">0</text>
+<line x1="80" y1="318.8" x2="1120" y2="318.8" class="grid"/>
+<text x="72" y="322.75" class="small" text-anchor="end" fill="#111">25</text>
+<line x1="80" y1="232.5" x2="1120" y2="232.5" class="grid"/>
+<text x="72" y="236.5" class="small" text-anchor="end" fill="#111">50</text>
+<line x1="80" y1="146.2" x2="1120" y2="146.2" class="grid"/>
+<text x="72" y="150.25" class="small" text-anchor="end" fill="#111">75</text>
+<line x1="80" y1="60.0" x2="1120" y2="60.0" class="grid"/>
+<text x="72" y="64.0" class="small" text-anchor="end" fill="#111">100</text>
+<text x="1128" y="409.0" class="small" text-anchor="start" fill="#111">1.0</text>
+<text x="1128" y="322.75" class="small" text-anchor="start" fill="#111">2.0</text>
+<text x="1128" y="236.5" class="small" text-anchor="start" fill="#111">3.0</text>
+<text x="1128" y="150.25" class="small" text-anchor="start" fill="#111">4.0</text>
+<text x="1128" y="64.0" class="small" text-anchor="start" fill="#111">5.0</text>
+<rect x="88.0" y="198.0" width="95.2" height="207.0" fill="#2f6f73"/>
+<text x="135.6" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 135.6 423)">English</text>
+<rect x="191.2" y="207.2" width="95.2" height="197.8" fill="#2f6f73"/>
+<text x="238.79999999999998" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 238.79999999999998 423)">Hindi</text>
+<rect x="294.4" y="190.3" width="95.2" height="214.7" fill="#2f6f73"/>
+<text x="342.0" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 342.0 423)">Simplified Mandarin</text>
+<rect x="397.6" y="182.7" width="95.2" height="222.3" fill="#2f6f73"/>
+<text x="445.20000000000005" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 445.20000000000005 423)">French</text>
+<rect x="500.8" y="190.3" width="95.2" height="214.7" fill="#2f6f73"/>
+<text x="548.4" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 548.4 423)">Russian</text>
+<rect x="604.0" y="187.3" width="95.2" height="217.7" fill="#2f6f73"/>
+<text x="651.6" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 651.6 423)">Arabic</text>
+<rect x="707.2" y="193.4" width="95.2" height="211.6" fill="#2f6f73"/>
+<text x="754.8000000000001" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 754.8000000000001 423)">Farsi</text>
+<rect x="810.4" y="201.1" width="95.2" height="203.9" fill="#2f6f73"/>
+<text x="858.0" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 858.0 423)">Amharic</text>
+<rect x="913.6" y="187.3" width="95.2" height="217.7" fill="#2f6f73"/>
+<text x="961.2" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 961.2 423)">Spain Spanish</text>
+<rect x="1016.8" y="184.2" width="95.2" height="220.8" fill="#2f6f73"/>
+<text x="1064.4" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 1064.4 423)">Latin American Spanish</text>
+<polyline points="135.6,259.3 238.8,263.5 342.0,257.8 445.2,250.9 548.4,250.1 651.6,252.4 754.8,246.0 858.0,295.4 961.2,251.6 1064.4,260.4" fill="none" stroke="#d1495b" stroke-width="3"/>
+<circle cx="135.6" cy="259.3" r="4" fill="#d1495b"/>
+<circle cx="238.8" cy="263.5" r="4" fill="#d1495b"/>
+<circle cx="342.0" cy="257.8" r="4" fill="#d1495b"/>
+<circle cx="445.2" cy="250.9" r="4" fill="#d1495b"/>
+<circle cx="548.4" cy="250.1" r="4" fill="#d1495b"/>
+<circle cx="651.6" cy="252.4" r="4" fill="#d1495b"/>
+<circle cx="754.8" cy="246.0" r="4" fill="#d1495b"/>
+<circle cx="858.0" cy="295.4" r="4" fill="#d1495b"/>
+<circle cx="961.2" cy="251.6" r="4" fill="#d1495b"/>
+<circle cx="1064.4" cy="260.4" r="4" fill="#d1495b"/>
+<rect x="90" y="70" width="14" height="14" fill="#2f6f73"/>
+<text x="110" y="82" class="small" text-anchor="start" fill="#111">Reference match (%)</text>
+<line x1="90" y1="100" x2="104" y2="100" stroke="#d1495b" stroke-width="3"/>
+<text x="110" y="104" class="small" text-anchor="start" fill="#111">Avg controversy</text>
+</svg>

@@ -1,0 +1,10 @@
+﻿language,codex_shift_to,codex_net_to,codex_shift_rate_pct,gemma_shift_to,gemma_net_to,gemma_shift_rate_pct,same_dominant_shift_to,same_net_direction
+Hindi,Auth-Right,Auth-Right,19.11,Lib-Left,Lib-Left,33.78,False,False
+Simplified Mandarin,Auth-Right,Auth-Right,22.67,Lib-Right,Lib-Right,38.22,False,False
+French,Lib-Right,Auth-Right,20.0,Lib-Right,Lib-Right,33.33,True,False
+Russian,Lib-Left,Auth-Right,17.78,Lib-Left,Lib-Right,32.0,True,False
+Arabic,Centrist,Auth-Right,16.0,Lib-Right,Lib-Right,36.89,False,False
+Farsi,Auth-Left,Auth-Left,23.56,Lib-Left,Lib-Right,32.0,False,False
+Amharic,Lib-Left,Centrist,20.0,Lib-Right,Lib-Right,42.22,False,False
+Spain Spanish,Lib-Left,Auth-Right,17.33,Centrist,Centrist,32.44,False,False
+Latin American Spanish,Lib-Left,Lib-Right,19.11,Lib-Right,Lib-Right,32.0,False,True

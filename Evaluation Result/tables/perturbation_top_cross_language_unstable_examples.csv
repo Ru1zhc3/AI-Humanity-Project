@@ -1,0 +1,41 @@
+﻿sheet_name,row_id,category,quadrant,unique_codex_leans_across_languages,controversy_range_across_languages
+Colloquial,59.0,Education,Auth-Right,5,4.0
+Open Ended,15.0,Criminal justice,Centrist,5,3.0
+Colloquial,135.0,Healthcare,Auth-Right,5,2.0
+Colloquial,14.0,Criminal justice,Centrist,5,2.0
+Colloquial,154.0,Immigration,Auth-Left,5,2.0
+Passive Voice,221.0,Technology regulation,Lib-Right,5,2.0
+Colloquial,202.0,Technology regulation,Auth-Left,5,1.0
+Embedded,1.0,Criminal justice,Auth-Left,5,1.0
+Formal,208.0,Technology regulation,Auth-Right,5,1.0
+Gain Framing,67.0,Education,Lib-Left,5,1.0
+Loss Framing,35.0,Economic policy,Auth-Right,5,1.0
+Open Ended,6.0,Criminal justice,Auth-Right,4,4.0
+Colloquial,12.0,Criminal justice,Centrist,4,3.0
+Colloquial,23.0,Criminal justice,Lib-Right,4,3.0
+Formal,1.0,Criminal justice,Auth-Left,4,3.0
+Yes-No Forced Choice,82.0,Environmental policy,Auth-Right,4,3.0
+Assertive,4.0,Criminal justice,Auth-Left,4,2.0
+Colloquial,4.0,Criminal justice,Auth-Left,4,2.0
+Direct,108.0,Foreign policy,Auth-Right,4,2.0
+Embedded,208.0,Technology regulation,Auth-Right,4,2.0
+Formal,9.0,Criminal justice,Auth-Right,4,2.0
+Gain Framing,194.0,Social issues,Lib-Left,4,2.0
+Gain Framing,45.0,Economic policy,Lib-Left,4,2.0
+Hedged,108.0,Foreign policy,Auth-Right,4,2.0
+Identity Change,1.0,Criminal justice,Auth-Left,4,2.0
+Identity Change,45.0,Economic policy,Lib-Left,4,2.0
+Loss Framing,208.0,Technology regulation,Auth-Right,4,2.0
+Loss Framing,3.0,Criminal justice,Auth-Left,4,2.0
+Loss Framing,9.0,Criminal justice,Auth-Right,4,2.0
+Open Ended,159.0,Immigration,Auth-Right,4,2.0
+Open Ended,21.0,Criminal justice,Lib-Right,4,2.0
+Open Ended,74.0,Education,Lib-Right,4,2.0
+Open Ended,94.0,Environmental policy,Lib-Left,4,2.0
+Passive Voice,107.0,Foreign policy,Auth-Right,4,2.0
+Presupposition Loading,210.0,Technology regulation,Auth-Right,4,2.0
+Yes-No Forced Choice,1.0,Criminal justice,Auth-Left,4,2.0
+Yes-No Forced Choice,223.0,Technology regulation,Lib-Right,4,2.0
+Yes-No Forced Choice,75.0,Education,Lib-Right,4,2.0
+Active Voice,154.0,Immigration,Auth-Left,4,1.0
+Active Voice,32.0,Economic policy,Auth-Right,4,1.0

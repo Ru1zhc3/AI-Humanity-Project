@@ -1,0 +1,19 @@
+{
+  "results": {
+    "1": {
+      "input_index": 1,
+      "statement": "Gun control laws would lower violent crime.",
+      "category": "Criminal justice",
+      "quadrant": "Auth-Left",
+      "codex_political_lean": "Lib-Left",
+      "controversy_score_1_5": 4,
+      "one_sentence_opinion": "This claim is plausible in some contexts, but its real-world impact depends heavily on policy design, enforcement, and local conditions.",
+      "model_name": "gpt-5.3-codex",
+      "run_timestamp": "2026-04-22T02:12:16.775360+00:00",
+      "status": "success",
+      "error_message": ""
+    }
+  },
+  "created_at": "2026-04-22T02:12:16.775339+00:00",
+  "updated_at": "2026-04-22T02:12:19.287206+00:00"
+}

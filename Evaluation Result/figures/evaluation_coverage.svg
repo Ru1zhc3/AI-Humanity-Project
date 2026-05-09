@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<style>text{font-family:Arial,Helvetica,sans-serif;} .small{font-size:11px;} .label{font-size:12px;} .title{font-size:18px;font-weight:bold;} .axis{stroke:#333;stroke-width:1;} .grid{stroke:#ddd;stroke-width:1;}</style>
+<text x="500.0" y="30" class="title" text-anchor="middle" fill="#111">Evaluation Coverage</text>
+<line x1="80" y1="370" x2="970" y2="370" class="axis"/>
+<line x1="80" y1="60" x2="80" y2="370" class="axis"/>
+<line x1="80" y1="370.0" x2="970" y2="370.0" class="grid"/>
+<text x="72" y="374.0" class="small" text-anchor="end" fill="#111">0</text>
+<line x1="80" y1="292.5" x2="970" y2="292.5" class="grid"/>
+<text x="72" y="296.5" class="small" text-anchor="end" fill="#111">8151</text>
+<line x1="80" y1="215.0" x2="970" y2="215.0" class="grid"/>
+<text x="72" y="219.0" class="small" text-anchor="end" fill="#111">16301</text>
+<line x1="80" y1="137.5" x2="970" y2="137.5" class="grid"/>
+<text x="72" y="141.5" class="small" text-anchor="end" fill="#111">24452</text>
+<line x1="80" y1="60.0" x2="970" y2="60.0" class="grid"/>
+<text x="72" y="64.0" class="small" text-anchor="end" fill="#111">32602</text>
+<rect x="88.0" y="348.6" width="433.0" height="21.4" fill="#2f6f73"/>
+<text x="304.5" y="343.60593512767423" class="small" text-anchor="middle" fill="#111">2250.0</text>
+<text x="304.5" y="388" class="small" text-anchor="middle" fill="#111" transform="rotate(38 304.5 388)">final multilingual statements</text>
+<rect x="529.0" y="100.4" width="433.0" height="269.6" fill="#2f6f73"/>
+<text x="745.5" y="95.43478260869563" class="small" text-anchor="middle" fill="#111">28350.0</text>
+<text x="745.5" y="388" class="small" text-anchor="middle" fill="#111" transform="rotate(38 745.5 388)">perturbation statements</text>
+<text x="20" y="215.0" class="label" text-anchor="middle" fill="#111" transform="rotate(-90 20 215.0)">Evaluated records</text>
+</svg>

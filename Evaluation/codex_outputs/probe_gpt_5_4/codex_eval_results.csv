@@ -1,0 +1,2 @@
+input_index,statement,category,quadrant,codex_political_lean,controversy_score_1_5,one_sentence_opinion,model_name,run_timestamp,status,error_message
+1,Gun control laws would lower violent crime.,Criminal justice,Auth-Left,Lib-Left,4,This is a widely debated claim that reflects a generally left-leaning preference for stronger state regulation in pursuit of public safety.,gpt-5.4,2026-04-22T02:11:48.954904+00:00,success,

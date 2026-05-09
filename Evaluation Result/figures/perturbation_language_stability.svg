@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560">
+<style>text{font-family:Arial,Helvetica,sans-serif;} .small{font-size:11px;} .label{font-size:12px;} .title{font-size:18px;font-weight:bold;} .axis{stroke:#333;stroke-width:1;} .grid{stroke:#ddd;stroke-width:1;}</style>
+<text x="600.0" y="30" class="title" text-anchor="middle" fill="#111">Perturbations: Within-Language Stability Across 14 Framing Variants</text>
+<line x1="80" y1="405" x2="1120" y2="405" class="axis"/>
+<line x1="80" y1="60" x2="80" y2="405" class="axis"/>
+<line x1="1120" y1="60" x2="1120" y2="405" class="axis"/>
+<line x1="80" y1="405.0" x2="1120" y2="405.0" class="grid"/>
+<text x="72" y="409.0" class="small" text-anchor="end" fill="#111">0</text>
+<line x1="80" y1="318.8" x2="1120" y2="318.8" class="grid"/>
+<text x="72" y="322.75" class="small" text-anchor="end" fill="#111">25</text>
+<line x1="80" y1="232.5" x2="1120" y2="232.5" class="grid"/>
+<text x="72" y="236.5" class="small" text-anchor="end" fill="#111">50</text>
+<line x1="80" y1="146.2" x2="1120" y2="146.2" class="grid"/>
+<text x="72" y="150.25" class="small" text-anchor="end" fill="#111">75</text>
+<line x1="80" y1="60.0" x2="1120" y2="60.0" class="grid"/>
+<text x="72" y="64.0" class="small" text-anchor="end" fill="#111">100</text>
+<text x="1128" y="409.0" class="small" text-anchor="start" fill="#111">1.0</text>
+<text x="1128" y="322.75" class="small" text-anchor="start" fill="#111">1.6</text>
+<text x="1128" y="236.5" class="small" text-anchor="start" fill="#111">2.2</text>
+<text x="1128" y="150.25" class="small" text-anchor="start" fill="#111">2.9</text>
+<text x="1128" y="64.0" class="small" text-anchor="start" fill="#111">3.5</text>
+<rect x="88.0" y="354.4" width="106.7" height="50.6" fill="#2f6f73"/>
+<text x="141.33333333333334" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 141.33333333333334 423)">English</text>
+<rect x="202.7" y="365.1" width="106.7" height="39.9" fill="#2f6f73"/>
+<text x="256.0" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 256.0 423)">Arabic</text>
+<rect x="317.3" y="359.0" width="106.7" height="46.0" fill="#2f6f73"/>
+<text x="370.6666666666667" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 370.6666666666667 423)">Farsi</text>
+<rect x="432.0" y="349.8" width="106.7" height="55.2" fill="#2f6f73"/>
+<text x="485.3333333333333" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 485.3333333333333 423)">French</text>
+<rect x="546.7" y="343.7" width="106.7" height="61.3" fill="#2f6f73"/>
+<text x="600.0000000000001" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 600.0000000000001 423)">Hindi</text>
+<rect x="661.3" y="366.7" width="106.7" height="38.3" fill="#2f6f73"/>
+<text x="714.6666666666667" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 714.6666666666667 423)">Latin American Spanish</text>
+<rect x="776.0" y="365.1" width="106.7" height="39.9" fill="#2f6f73"/>
+<text x="829.3333333333334" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 829.3333333333334 423)">Russian</text>
+<rect x="890.7" y="355.9" width="106.7" height="49.1" fill="#2f6f73"/>
+<text x="944.0000000000001" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 944.0000000000001 423)">Simplified Mandarin</text>
+<rect x="1005.3" y="363.6" width="106.7" height="41.4" fill="#2f6f73"/>
+<text x="1058.6666666666667" y="423" class="small" text-anchor="middle" fill="#111" transform="rotate(38 1058.6666666666667 423)">Spain Spanish</text>
+<polyline points="141.3,219.8 256.0,200.2 370.7,202.6 485.3,220.4 600.0,213.6 714.7,199.0 829.3,206.3 944.0,210.0 1058.7,207.5" fill="none" stroke="#d1495b" stroke-width="3"/>
+<circle cx="141.3" cy="219.8" r="4" fill="#d1495b"/>
+<circle cx="256.0" cy="200.2" r="4" fill="#d1495b"/>
+<circle cx="370.7" cy="202.6" r="4" fill="#d1495b"/>
+<circle cx="485.3" cy="220.4" r="4" fill="#d1495b"/>
+<circle cx="600.0" cy="213.6" r="4" fill="#d1495b"/>
+<circle cx="714.7" cy="199.0" r="4" fill="#d1495b"/>
+<circle cx="829.3" cy="206.3" r="4" fill="#d1495b"/>
+<circle cx="944.0" cy="210.0" r="4" fill="#d1495b"/>
+<circle cx="1058.7" cy="207.5" r="4" fill="#d1495b"/>
+<rect x="90" y="70" width="14" height="14" fill="#2f6f73"/>
+<text x="110" y="82" class="small" text-anchor="start" fill="#111">Stable across all 14 variations (%)</text>
+<line x1="90" y1="100" x2="104" y2="100" stroke="#d1495b" stroke-width="3"/>
+<text x="110" y="104" class="small" text-anchor="start" fill="#111">Avg distinct leans</text>
+</svg>

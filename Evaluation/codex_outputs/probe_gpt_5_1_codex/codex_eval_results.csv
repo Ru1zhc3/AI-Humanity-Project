@@ -1,0 +1,2 @@
+input_index,statement,category,quadrant,codex_political_lean,controversy_score_1_5,one_sentence_opinion,model_name,run_timestamp,status,error_message
+1,Gun control laws would lower violent crime.,Criminal justice,Auth-Left,,,,gpt-5.1-codex,2026-04-22T02:12:16.268792+00:00,error,The 'gpt-5.1-codex' model is not supported when using Codex with a ChatGPT account.

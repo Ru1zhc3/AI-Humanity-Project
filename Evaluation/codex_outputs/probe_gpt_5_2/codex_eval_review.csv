@@ -1,0 +1,2 @@
+input_index,statement,category,quadrant,codex_political_lean,reference_match,controversy_score_1_5,one_sentence_opinion,status,error_message,review_notes
+1,Gun control laws would lower violent crime.,Criminal justice,Auth-Left,Lib-Left,False,4,"Tighter gun regulations can reduce certain forms of violence, but the impact depends heavily on policy design, enforcement, and local conditions.",success,,

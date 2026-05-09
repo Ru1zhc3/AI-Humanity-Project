@@ -1,0 +1,19 @@
+﻿model,language,records,shift_count,shift_rate_pct,dominant_shifted_to_lean,dominant_shifted_to_pct_of_shifted,largest_net_increase_lean,largest_net_increase_pct_points,largest_net_decrease_lean,largest_net_decrease_pct_points,top_transition,top_transition_count,top_transition_pct_of_shifted,direction_summary
+Codex gpt-5.4-mini,Hindi,225,43,19.11,Auth-Right,25.58,Auth-Right,2.67,Lib-Left,-0.89,Centrist -> Lib-Left,5,11.63,Strong Auth-Right direction
+Gemma 4,Hindi,225,76,33.78,Lib-Left,44.74,Lib-Left,11.11,Auth-Right,-12.44,Auth-Right -> Lib-Right,23,30.26,Strong Lib-Left direction
+Codex gpt-5.4-mini,Simplified Mandarin,225,51,22.67,Auth-Right,23.53,Auth-Right,3.11,Lib-Left,-4.0,Lib-Left -> Auth-Left,10,19.61,Strong Auth-Right direction
+Gemma 4,Simplified Mandarin,225,86,38.22,Lib-Right,52.33,Lib-Right,18.67,Auth-Right,-16.0,Auth-Right -> Lib-Right,32,37.21,Strong Lib-Right direction
+Codex gpt-5.4-mini,French,225,45,20.0,Lib-Right,22.22,Auth-Right,3.11,Lib-Left,-4.44,Lib-Left -> Lib-Right,8,17.78,"Mixed: shifted-to Lib-Right, net +Auth-Right"
+Gemma 4,French,225,75,33.33,Lib-Right,41.33,Lib-Right,11.56,Auth-Right,-12.0,Auth-Right -> Lib-Right,24,32.0,Strong Lib-Right direction
+Codex gpt-5.4-mini,Russian,225,40,17.78,Lib-Left,22.5,Auth-Right,2.67,Lib-Right,-1.78,Lib-Left -> Auth-Left,6,15.0,"Mixed: shifted-to Lib-Left, net +Auth-Right"
+Gemma 4,Russian,225,72,32.0,Lib-Left,38.89,Lib-Right,10.67,Auth-Right,-11.11,Auth-Right -> Lib-Right,21,29.17,"Mixed: shifted-to Lib-Left, net +Lib-Right"
+Codex gpt-5.4-mini,Arabic,225,36,16.0,Centrist,27.78,Auth-Right,1.78,Lib-Left,-2.67,Lib-Left -> Lib-Right,5,13.89,"Mixed: shifted-to Centrist, net +Auth-Right"
+Gemma 4,Arabic,225,83,36.89,Lib-Right,38.55,Lib-Right,12.89,Auth-Right,-7.11,Auth-Right -> Lib-Right,19,22.89,Strong Lib-Right direction
+Codex gpt-5.4-mini,Farsi,225,53,23.56,Auth-Left,32.08,Auth-Left,4.44,Lib-Left,-6.67,Lib-Left -> Auth-Left,14,26.42,Strong Auth-Left direction
+Gemma 4,Farsi,225,72,32.0,Lib-Left,33.33,Lib-Right,4.0,Auth-Right,-6.67,Auth-Right -> Lib-Right,12,16.67,"Mixed: shifted-to Lib-Left, net +Lib-Right"
+Codex gpt-5.4-mini,Amharic,225,45,20.0,Lib-Left,37.78,Centrist,3.11,Auth-Left,-3.56,Lib-Left -> Centrist,7,15.56,"Mixed: shifted-to Lib-Left, net +Centrist"
+Gemma 4,Amharic,225,95,42.22,Lib-Right,29.47,Lib-Right,10.67,Centrist,-10.67,Lib-Left -> Auth-Left,21,22.11,Strong Lib-Right direction
+Codex gpt-5.4-mini,Spain Spanish,225,39,17.33,Lib-Left,25.64,Auth-Right,2.67,Lib-Left,-2.22,Lib-Left -> Centrist,6,15.38,"Mixed: shifted-to Lib-Left, net +Auth-Right"
+Gemma 4,Spain Spanish,225,73,32.44,Centrist,39.73,Centrist,8.89,Auth-Right,-12.0,Auth-Right -> Lib-Right,17,23.29,Strong Centrist direction
+Codex gpt-5.4-mini,Latin American Spanish,225,43,19.11,Lib-Left,25.58,Lib-Right,2.67,Lib-Left,-1.78,Centrist -> Lib-Left,6,13.95,"Mixed: shifted-to Lib-Left, net +Lib-Right"
+Gemma 4,Latin American Spanish,225,72,32.0,Lib-Right,36.11,Lib-Right,7.56,Auth-Right,-12.0,Auth-Right -> Lib-Right,21,29.17,Strong Lib-Right direction

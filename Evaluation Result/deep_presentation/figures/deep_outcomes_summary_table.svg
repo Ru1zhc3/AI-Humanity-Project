@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="420" viewBox="0 0 1160 420">
+<rect width="100%" height="100%" fill="#F8FAFC"/>
+<text x="46.0" y="58.0" font-family="Arial, sans-serif" font-size="30" fill="#0F172A" font-weight="700" text-anchor="start">Deep outcomes summary</text>
+<text x="48.0" y="92.0" font-family="Arial, sans-serif" font-size="16" fill="#475569" font-weight="400" text-anchor="start">Translation and perturbation effects are measured as shifted political-lean rates.</text>
+<rect x="46" y="124" width="1075" height="54" rx="8" fill="#E2E8F0"/>
+<text x="60.0" y="158.0" font-family="Arial, sans-serif" font-size="14" fill="#0F172A" font-weight="700" text-anchor="start">Dimension</text>
+<text x="285.0" y="158.0" font-family="Arial, sans-serif" font-size="14" fill="#0F172A" font-weight="700" text-anchor="start">Codex gpt-5.4-mini</text>
+<text x="515.0" y="158.0" font-family="Arial, sans-serif" font-size="14" fill="#0F172A" font-weight="700" text-anchor="start">Gemma 4</text>
+<text x="745.0" y="158.0" font-family="Arial, sans-serif" font-size="14" fill="#0F172A" font-weight="700" text-anchor="start">Interpretation</text>
+<rect x="46" y="178" width="1075" height="54" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="60.0" y="200.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">Translation average shift</text>
+<text x="285.0" y="200.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">19.5%</text>
+<text x="515.0" y="200.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">34.8%</text>
+<text x="745.0" y="200.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="400" text-anchor="start">How often non-English lean differs from</text>
+<text x="745.0" y="215.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="400" text-anchor="start">English baseline.</text>
+<rect x="46" y="232" width="1075" height="54" fill="#F1F5F9" stroke="#CBD5E1"/>
+<text x="60.0" y="254.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">Largest language effect</text>
+<text x="285.0" y="254.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">Farsi (23.6%)</text>
+<text x="515.0" y="254.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">Amharic (42.2%)</text>
+<text x="745.0" y="254.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="400" text-anchor="start">Languages where translation most changes</text>
+<text x="745.0" y="269.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="400" text-anchor="start">lean.</text>
+<rect x="46" y="286" width="1075" height="54" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="60.0" y="308.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">Perturbation average shift</text>
+<text x="285.0" y="308.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">23.9%</text>
+<text x="515.0" y="308.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">30.7%</text>
+<text x="745.0" y="308.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="400" text-anchor="start">How often a perturbation deviates from its</text>
+<text x="745.0" y="323.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="400" text-anchor="start">local majority lean.</text>
+<rect x="46" y="340" width="1075" height="54" fill="#F1F5F9" stroke="#CBD5E1"/>
+<text x="60.0" y="362.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">Largest perturbation</text>
+<text x="60.0" y="377.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="400" text-anchor="start">effect</text>
+<text x="285.0" y="362.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">Open Ended (40.0%)</text>
+<text x="515.0" y="362.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="700" text-anchor="start">Open Ended (47.3%)</text>
+<text x="745.0" y="362.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="400" text-anchor="start">Prompt forms most likely to flip political</text>
+<text x="745.0" y="377.0" font-family="Arial, sans-serif" font-size="12.5" fill="#334155" font-weight="400" text-anchor="start">lean.</text>
+</svg>

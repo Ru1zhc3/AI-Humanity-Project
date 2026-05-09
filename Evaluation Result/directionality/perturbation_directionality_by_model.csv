@@ -1,0 +1,29 @@
+﻿model,perturbation,records,shift_count,shift_rate_pct,dominant_shifted_to_lean,dominant_shifted_to_pct_of_shifted,largest_net_increase_lean,largest_net_increase_pct_points,largest_net_decrease_lean,largest_net_decrease_pct_points,top_transition,top_transition_count,top_transition_pct_of_shifted,direction_summary
+Codex gpt-5.4-mini,Active Voice,2025,315,15.56,Auth-Left,33.65,Auth-Left,3.65,Lib-Left,-4.84,Lib-Left -> Auth-Left,82,26.03,Strong Auth-Left direction
+Gemma 4,Active Voice,2219,383,17.26,Auth-Right,26.89,Lib-Right,3.02,Centrist,-5.77,Centrist -> Lib-Left,78,20.37,"Mixed: shifted-to Auth-Right, net +Lib-Right"
+Codex gpt-5.4-mini,Passive Voice,2025,426,21.04,Auth-Left,44.6,Auth-Left,8.49,Lib-Left,-8.94,Lib-Left -> Auth-Left,141,33.1,Strong Auth-Left direction
+Gemma 4,Passive Voice,2172,512,23.57,Auth-Right,27.73,Auth-Right,4.05,Centrist,-5.71,Centrist -> Lib-Left,79,15.43,Strong Auth-Right direction
+Codex gpt-5.4-mini,Open Ended,2025,811,40.05,Centrist,63.75,Centrist,21.53,Auth-Right,-11.21,Auth-Right -> Centrist,207,25.52,Strong Centrist direction
+Gemma 4,Open Ended,2162,1023,47.32,Centrist,89.93,Centrist,41.81,Lib-Left,-25.39,Lib-Left -> Centrist,561,54.84,Strong Centrist direction
+Codex gpt-5.4-mini,Yes-No Forced Choice,2025,482,23.8,Centrist,34.65,Centrist,4.54,Lib-Left,-4.79,Lib-Left -> Auth-Left,85,17.63,Strong Centrist direction
+Gemma 4,Yes-No Forced Choice,2247,649,28.88,Centrist,68.88,Centrist,17.22,Lib-Left,-10.86,Lib-Left -> Centrist,287,44.22,Strong Centrist direction
+Codex gpt-5.4-mini,Presupposition Loading,2025,506,24.99,Lib-Left,44.07,Lib-Left,7.31,Centrist,-8.3,Centrist -> Lib-Left,130,25.69,Strong Lib-Left direction
+Gemma 4,Presupposition Loading,2220,823,37.07,Centrist,63.3,Centrist,18.83,Lib-Left,-8.96,Lib-Left -> Centrist,284,34.51,Strong Centrist direction
+Codex gpt-5.4-mini,Embedded,2025,339,16.74,Auth-Left,24.19,Auth-Left,2.86,Lib-Left,-2.02,Lib-Left -> Auth-Left,60,17.7,Strong Auth-Left direction
+Gemma 4,Embedded,2233,513,22.97,Centrist,46.2,Centrist,5.55,Auth-Right,-5.11,Lib-Left -> Centrist,158,30.8,Strong Centrist direction
+Codex gpt-5.4-mini,Direct,2025,352,17.38,Auth-Left,36.93,Auth-Left,5.19,Centrist,-3.11,Lib-Left -> Auth-Left,76,21.59,Strong Auth-Left direction
+Gemma 4,Direct,2191,591,26.97,Auth-Right,41.62,Auth-Right,10.09,Centrist,-11.27,Centrist -> Auth-Right,111,18.78,Strong Auth-Right direction
+Codex gpt-5.4-mini,Gain Framing,2025,391,19.31,Auth-Left,30.69,Auth-Left,3.31,Lib-Left,-3.56,Lib-Left -> Auth-Left,83,21.23,Strong Auth-Left direction
+Gemma 4,Gain Framing,2241,551,24.59,Lib-Left,44.46,Lib-Left,6.11,Centrist,-8.39,Centrist -> Lib-Left,172,31.22,Strong Lib-Left direction
+Codex gpt-5.4-mini,Loss Framing,2025,672,33.19,Lib-Left,45.24,Lib-Left,9.98,Centrist,-9.33,Centrist -> Lib-Left,199,29.61,Strong Lib-Left direction
+Gemma 4,Loss Framing,2244,963,42.91,Lib-Left,39.36,Auth-Right,12.66,Centrist,-20.72,Centrist -> Lib-Left,285,29.6,"Mixed: shifted-to Lib-Left, net +Auth-Right"
+Codex gpt-5.4-mini,Identity Change,2025,525,25.93,Centrist,39.05,Centrist,4.89,Lib-Right,-3.75,Centrist -> Lib-Left,75,14.29,Strong Centrist direction
+Gemma 4,Identity Change,2232,576,25.81,Lib-Left,47.74,Lib-Left,6.72,Centrist,-8.83,Centrist -> Lib-Left,193,33.51,Strong Lib-Left direction
+Codex gpt-5.4-mini,Formal,2025,442,21.83,Centrist,34.62,Centrist,1.98,Auth-Right,-2.67,Auth-Right -> Centrist,66,14.93,Strong Centrist direction
+Gemma 4,Formal,2235,538,24.07,Centrist,32.9,Lib-Right,1.61,Auth-Right,-1.34,Centrist -> Lib-Left,124,23.05,"Mixed: shifted-to Centrist, net +Lib-Right"
+Codex gpt-5.4-mini,Colloquial,2025,551,27.21,Lib-Left,25.95,Auth-Left,5.28,Centrist,-4.44,Centrist -> Lib-Left,94,17.06,"Mixed: shifted-to Lib-Left, net +Auth-Left"
+Gemma 4,Colloquial,2152,803,37.31,Auth-Right,27.02,Auth-Right,6.13,Centrist,-6.27,Centrist -> Lib-Left,145,18.06,Strong Auth-Right direction
+Codex gpt-5.4-mini,Hedged,2025,591,29.19,Centrist,59.73,Centrist,14.17,Auth-Right,-7.06,Auth-Right -> Centrist,130,22.0,Strong Centrist direction
+Gemma 4,Hedged,2248,1040,46.26,Centrist,90.0,Centrist,40.93,Lib-Left,-26.16,Lib-Left -> Centrist,595,57.21,Strong Centrist direction
+Codex gpt-5.4-mini,Assertive,2025,364,17.98,Auth-Left,30.77,Auth-Left,3.51,Centrist,-4.99,Lib-Left -> Auth-Left,68,18.68,Strong Auth-Left direction
+Gemma 4,Assertive,2209,551,24.94,Auth-Right,34.48,Auth-Right,7.56,Centrist,-12.77,Centrist -> Lib-Left,143,25.95,Strong Auth-Right direction

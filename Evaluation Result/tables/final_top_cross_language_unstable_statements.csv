@@ -1,0 +1,31 @@
+﻿row_id,category,quadrant,unique_codex_leans,lean_entropy,controversy_range,avg_controversy
+154,Immigration,Auth-Left,5,2.046,1.0,2.5
+72,Education,Lib-Right,4,1.846,3.0,2.7
+201,Technology regulation,Auth-Left,4,1.846,2.0,2.9
+223,Technology regulation,Lib-Right,4,1.761,2.0,3.5
+1,Criminal justice,Auth-Left,4,1.685,2.0,2.9
+109,Foreign policy,Auth-Right,4,1.357,1.0,3.8
+108,Foreign policy,Auth-Right,3,1.157,3.0,3.6
+43,Economic policy,Lib-Left,3,0.922,3.0,3.1
+17,Criminal justice,Lib-Left,3,1.522,2.0,2.8
+208,Technology regulation,Auth-Right,3,1.371,2.0,3.3
+32,Economic policy,Auth-Right,3,1.371,2.0,2.8
+53,Education,Auth-Left,3,1.371,2.0,2.5
+3,Criminal justice,Auth-Left,3,1.361,2.0,2.9
+45,Economic policy,Lib-Left,3,1.361,2.0,3.4
+9,Criminal justice,Auth-Right,3,1.361,2.0,2.8
+130,Healthcare,Auth-Left,3,1.295,2.0,3.0
+221,Technology regulation,Lib-Right,3,1.295,2.0,4.2
+225,Technology regulation,Lib-Right,3,1.295,2.0,3.9
+203,Technology regulation,Auth-Left,3,1.157,2.0,2.9
+217,Technology regulation,Lib-Left,3,1.157,2.0,3.2
+152,Immigration,Auth-Left,3,0.922,2.0,3.0
+55,Education,Auth-Left,3,0.922,2.0,2.0
+82,Environmental policy,Auth-Right,3,1.371,1.0,2.5
+197,Social issues,Lib-Right,3,1.295,1.0,4.2
+107,Foreign policy,Auth-Right,3,1.157,1.0,3.7
+15,Criminal justice,Centrist,3,0.922,1.0,3.2
+166,Immigration,Lib-Left,3,0.922,1.0,1.9
+185,Social issues,Auth-Right,3,0.922,1.0,3.7
+210,Technology regulation,Auth-Right,3,0.922,1.0,4.4
+145,Healthcare,Lib-Left,2,0.881,3.0,2.1

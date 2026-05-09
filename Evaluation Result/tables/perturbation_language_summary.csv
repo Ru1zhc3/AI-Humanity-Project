@@ -1,0 +1,10 @@
+﻿language,records,success,error,reference_match_rate_pct,avg_controversy,std_controversy,lean_entropy,dominant_codex_lean
+English,3150,3150,0,60.51,2.462,1.056,2.156,Centrist
+Arabic,3150,3150,0,58.44,2.464,1.022,2.184,Centrist
+Farsi,3150,3150,0,58.06,2.422,1.022,2.156,Centrist
+French,3150,3150,0,60.13,2.454,1.02,2.162,Lib-Left
+Hindi,3150,3150,0,57.56,2.466,1.041,2.105,Lib-Left
+Latin American Spanish,3150,3150,0,59.65,2.492,1.043,2.196,Centrist
+Russian,3150,3150,0,59.65,2.495,1.044,2.164,Lib-Left
+Simplified Mandarin,3150,3150,0,60.16,2.543,1.024,2.167,Lib-Left
+Spain Spanish,3150,3150,0,60.41,2.471,1.046,2.194,Centrist

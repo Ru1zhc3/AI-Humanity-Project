@@ -1,0 +1,29 @@
+﻿model,perturbation,records,reference_match_rate_pct,dominant_lean,lean_entropy
+Codex gpt-5.4-mini,Active Voice,2025,63.26,Centrist,2.209
+Codex gpt-5.4-mini,Assertive,2025,68.4,Lib-Left,2.228
+Codex gpt-5.4-mini,Colloquial,2025,60.1,Lib-Left,2.237
+Codex gpt-5.4-mini,Direct,2025,66.27,Lib-Left,2.243
+Codex gpt-5.4-mini,Embedded,2025,65.28,Lib-Left,2.208
+Codex gpt-5.4-mini,Formal,2025,59.75,Lib-Left,2.113
+Codex gpt-5.4-mini,Gain Framing,2025,66.72,Centrist,2.211
+Codex gpt-5.4-mini,Hedged,2025,51.11,Centrist,1.879
+Codex gpt-5.4-mini,Identity Change,2025,55.41,Centrist,2.032
+Codex gpt-5.4-mini,Loss Framing,2025,54.02,Lib-Left,2.061
+Codex gpt-5.4-mini,Open Ended,2025,40.0,Centrist,1.823
+Codex gpt-5.4-mini,Passive Voice,2025,63.01,Centrist,2.257
+Codex gpt-5.4-mini,Presupposition Loading,2025,60.74,Lib-Left,2.133
+Codex gpt-5.4-mini,Yes-No Forced Choice,2025,57.48,Centrist,2.179
+Gemma 4,Active Voice,2219,50.92,Lib-Left,2.001
+Gemma 4,Assertive,2209,53.19,Lib-Left,2.012
+Gemma 4,Colloquial,2152,40.43,Lib-Left,2.033
+Gemma 4,Direct,2191,51.16,Lib-Left,2.054
+Gemma 4,Embedded,2233,48.99,Lib-Left,1.78
+Gemma 4,Formal,2235,48.64,Lib-Left,1.908
+Gemma 4,Gain Framing,2241,49.4,Lib-Left,1.826
+Gemma 4,Hedged,2248,31.27,Centrist,1.181
+Gemma 4,Identity Change,2232,44.76,Lib-Left,1.853
+Gemma 4,Loss Framing,2244,37.34,Lib-Left,1.893
+Gemma 4,Open Ended,2162,28.82,Centrist,1.123
+Gemma 4,Passive Voice,2172,46.87,Lib-Left,2.04
+Gemma 4,Presupposition Loading,2220,34.46,Centrist,1.615
+Gemma 4,Yes-No Forced Choice,2247,40.68,Centrist,1.701

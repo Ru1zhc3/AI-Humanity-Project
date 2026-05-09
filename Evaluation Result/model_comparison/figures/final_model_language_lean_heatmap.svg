@@ -1,0 +1,211 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="710" height="736" viewBox="0 0 710 736">
+<rect width="100%" height="100%" fill="#F8FAFC"/>
+<text x="42" y="55" font-family="Arial, sans-serif" font-size="28" fill="#0F172A" font-weight="700">No perturbation: political lean by model and language</text>
+<text x="44" y="88" font-family="Arial, sans-serif" font-size="15" fill="#475569" font-weight="400">Political-lean distribution by model and language (% of rows).</text>
+<text x="263.0" y="112" text-anchor="middle" font-family="Arial" font-size="12" fill="#475569" font-weight="700">Auth-Left</text>
+<text x="349.0" y="112" text-anchor="middle" font-family="Arial" font-size="12" fill="#475569" font-weight="700">Auth-Right</text>
+<text x="435.0" y="112" text-anchor="middle" font-family="Arial" font-size="12" fill="#475569" font-weight="700">Centrist</text>
+<text x="521.0" y="112" text-anchor="middle" font-family="Arial" font-size="12" fill="#475569" font-weight="700">Lib-Left</text>
+<text x="607.0" y="112" text-anchor="middle" font-family="Arial" font-size="12" fill="#475569" font-weight="700">Lib-Right</text>
+<text x="42" y="144" font-family="Arial" font-size="13" fill="#2563EB" font-weight="700">Codex gpt-5.4-mini</text>
+<text x="118" y="144" font-family="Arial" font-size="12" fill="#334155">English</text>
+<rect x="220" y="126" width="84" height="24" fill="#7C3AED" opacity="0.17"/>
+<rect x="306" y="126" width="84" height="24" fill="#DC2626" opacity="0.23"/>
+<text x="349.0" y="143" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">14</text>
+<rect x="392" y="126" width="84" height="24" fill="#64748B" opacity="0.36"/>
+<text x="435.0" y="143" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">31</text>
+<rect x="478" y="126" width="84" height="24" fill="#2563EB" opacity="0.38"/>
+<text x="521.0" y="143" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">33</text>
+<rect x="564" y="126" width="84" height="24" fill="#16A34A" opacity="0.24"/>
+<text x="607.0" y="143" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">16</text>
+<text x="118" y="170" font-family="Arial" font-size="12" fill="#334155">Hindi</text>
+<rect x="220" y="152" width="84" height="24" fill="#7C3AED" opacity="0.16"/>
+<rect x="306" y="152" width="84" height="24" fill="#DC2626" opacity="0.25"/>
+<text x="349.0" y="169" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">17</text>
+<rect x="392" y="152" width="84" height="24" fill="#64748B" opacity="0.36"/>
+<text x="435.0" y="169" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">30</text>
+<rect x="478" y="152" width="84" height="24" fill="#2563EB" opacity="0.37"/>
+<text x="521.0" y="169" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">32</text>
+<rect x="564" y="152" width="84" height="24" fill="#16A34A" opacity="0.24"/>
+<text x="607.0" y="169" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">16</text>
+<text x="118" y="196" font-family="Arial" font-size="12" fill="#334155">Simplified Mandarin</text>
+<rect x="220" y="178" width="84" height="24" fill="#7C3AED" opacity="0.18"/>
+<rect x="306" y="178" width="84" height="24" fill="#DC2626" opacity="0.26"/>
+<text x="349.0" y="195" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">17</text>
+<rect x="392" y="178" width="84" height="24" fill="#64748B" opacity="0.37"/>
+<text x="435.0" y="195" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">32</text>
+<rect x="478" y="178" width="84" height="24" fill="#2563EB" opacity="0.35"/>
+<text x="521.0" y="195" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">29</text>
+<rect x="564" y="178" width="84" height="24" fill="#16A34A" opacity="0.23"/>
+<text x="607.0" y="195" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">15</text>
+<text x="118" y="222" font-family="Arial" font-size="12" fill="#334155">French</text>
+<rect x="220" y="204" width="84" height="24" fill="#7C3AED" opacity="0.18"/>
+<rect x="306" y="204" width="84" height="24" fill="#DC2626" opacity="0.26"/>
+<text x="349.0" y="221" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">17</text>
+<rect x="392" y="204" width="84" height="24" fill="#64748B" opacity="0.35"/>
+<text x="435.0" y="221" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">30</text>
+<rect x="478" y="204" width="84" height="24" fill="#2563EB" opacity="0.34"/>
+<text x="521.0" y="221" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">28</text>
+<rect x="564" y="204" width="84" height="24" fill="#16A34A" opacity="0.26"/>
+<text x="607.0" y="221" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">17</text>
+<text x="118" y="248" font-family="Arial" font-size="12" fill="#334155">Russian</text>
+<rect x="220" y="230" width="84" height="24" fill="#7C3AED" opacity="0.17"/>
+<rect x="306" y="230" width="84" height="24" fill="#DC2626" opacity="0.25"/>
+<text x="349.0" y="247" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">17</text>
+<rect x="392" y="230" width="84" height="24" fill="#64748B" opacity="0.36"/>
+<text x="435.0" y="247" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">31</text>
+<rect x="478" y="230" width="84" height="24" fill="#2563EB" opacity="0.37"/>
+<text x="521.0" y="247" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">32</text>
+<rect x="564" y="230" width="84" height="24" fill="#16A34A" opacity="0.23"/>
+<text x="607.0" y="247" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">14</text>
+<text x="118" y="274" font-family="Arial" font-size="12" fill="#334155">Arabic</text>
+<rect x="220" y="256" width="84" height="24" fill="#7C3AED" opacity="0.15"/>
+<rect x="306" y="256" width="84" height="24" fill="#DC2626" opacity="0.24"/>
+<text x="349.0" y="273" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">16</text>
+<rect x="392" y="256" width="84" height="24" fill="#64748B" opacity="0.37"/>
+<text x="435.0" y="273" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">32</text>
+<rect x="478" y="256" width="84" height="24" fill="#2563EB" opacity="0.36"/>
+<text x="521.0" y="273" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">30</text>
+<rect x="564" y="256" width="84" height="24" fill="#16A34A" opacity="0.26"/>
+<text x="607.0" y="273" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">18</text>
+<text x="118" y="300" font-family="Arial" font-size="12" fill="#334155">Farsi</text>
+<rect x="220" y="282" width="84" height="24" fill="#7C3AED" opacity="0.20"/>
+<text x="263.0" y="299" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">10</text>
+<rect x="306" y="282" width="84" height="24" fill="#DC2626" opacity="0.24"/>
+<text x="349.0" y="299" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">15</text>
+<rect x="392" y="282" width="84" height="24" fill="#64748B" opacity="0.36"/>
+<text x="435.0" y="299" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">31</text>
+<rect x="478" y="282" width="84" height="24" fill="#2563EB" opacity="0.32"/>
+<text x="521.0" y="299" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">26</text>
+<rect x="564" y="282" width="84" height="24" fill="#16A34A" opacity="0.26"/>
+<text x="607.0" y="299" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">18</text>
+<text x="118" y="326" font-family="Arial" font-size="12" fill="#334155">Amharic</text>
+<rect x="220" y="308" width="84" height="24" fill="#7C3AED" opacity="0.14"/>
+<rect x="306" y="308" width="84" height="24" fill="#DC2626" opacity="0.23"/>
+<text x="349.0" y="325" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">14</text>
+<rect x="392" y="308" width="84" height="24" fill="#64748B" opacity="0.39"/>
+<text x="435.0" y="325" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">34</text>
+<rect x="478" y="308" width="84" height="24" fill="#2563EB" opacity="0.39"/>
+<text x="521.0" y="325" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">35</text>
+<rect x="564" y="308" width="84" height="24" fill="#16A34A" opacity="0.23"/>
+<text x="607.0" y="325" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">14</text>
+<text x="118" y="352" font-family="Arial" font-size="12" fill="#334155">Spain Spanish</text>
+<rect x="220" y="334" width="84" height="24" fill="#7C3AED" opacity="0.17"/>
+<rect x="306" y="334" width="84" height="24" fill="#DC2626" opacity="0.25"/>
+<text x="349.0" y="351" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">17</text>
+<rect x="392" y="334" width="84" height="24" fill="#64748B" opacity="0.36"/>
+<text x="435.0" y="351" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">30</text>
+<rect x="478" y="334" width="84" height="24" fill="#2563EB" opacity="0.36"/>
+<text x="521.0" y="351" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">31</text>
+<rect x="564" y="334" width="84" height="24" fill="#16A34A" opacity="0.24"/>
+<text x="607.0" y="351" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">16</text>
+<text x="118" y="378" font-family="Arial" font-size="12" fill="#334155">Latin American Spanish</text>
+<rect x="220" y="360" width="84" height="24" fill="#7C3AED" opacity="0.16"/>
+<rect x="306" y="360" width="84" height="24" fill="#DC2626" opacity="0.24"/>
+<text x="349.0" y="377" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">15</text>
+<rect x="392" y="360" width="84" height="24" fill="#64748B" opacity="0.36"/>
+<text x="435.0" y="377" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">30</text>
+<rect x="478" y="360" width="84" height="24" fill="#2563EB" opacity="0.36"/>
+<text x="521.0" y="377" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">31</text>
+<rect x="564" y="360" width="84" height="24" fill="#16A34A" opacity="0.27"/>
+<text x="607.0" y="377" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">19</text>
+<text x="42" y="430" font-family="Arial" font-size="13" fill="#F59E0B" font-weight="700">Gemma 4</text>
+<text x="118" y="430" font-family="Arial" font-size="12" fill="#334155">English</text>
+<rect x="220" y="412" width="84" height="24" fill="#7C3AED" opacity="0.14"/>
+<rect x="306" y="412" width="84" height="24" fill="#DC2626" opacity="0.29"/>
+<text x="349.0" y="429" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">21</text>
+<rect x="392" y="412" width="84" height="24" fill="#64748B" opacity="0.32"/>
+<text x="435.0" y="429" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">26</text>
+<rect x="478" y="412" width="84" height="24" fill="#2563EB" opacity="0.45"/>
+<text x="521.0" y="429" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">42</text>
+<rect x="564" y="412" width="84" height="24" fill="#16A34A" opacity="0.18"/>
+<text x="118" y="456" font-family="Arial" font-size="12" fill="#334155">Hindi</text>
+<rect x="220" y="438" width="84" height="24" fill="#7C3AED" opacity="0.15"/>
+<rect x="306" y="438" width="84" height="24" fill="#DC2626" opacity="0.19"/>
+<rect x="392" y="438" width="84" height="24" fill="#64748B" opacity="0.24"/>
+<text x="435.0" y="455" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">15</text>
+<rect x="478" y="438" width="84" height="24" fill="#2563EB" opacity="0.54"/>
+<text x="521.0" y="455" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">53</text>
+<rect x="564" y="438" width="84" height="24" fill="#16A34A" opacity="0.27"/>
+<text x="607.0" y="455" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">19</text>
+<text x="118" y="482" font-family="Arial" font-size="12" fill="#334155">Simplified Mandarin</text>
+<rect x="220" y="464" width="84" height="24" fill="#7C3AED" opacity="0.14"/>
+<rect x="306" y="464" width="84" height="24" fill="#DC2626" opacity="0.16"/>
+<rect x="392" y="464" width="84" height="24" fill="#64748B" opacity="0.27"/>
+<text x="435.0" y="481" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">19</text>
+<rect x="478" y="464" width="84" height="24" fill="#2563EB" opacity="0.48"/>
+<text x="521.0" y="481" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">47</text>
+<rect x="564" y="464" width="84" height="24" fill="#16A34A" opacity="0.32"/>
+<text x="607.0" y="481" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">26</text>
+<text x="118" y="508" font-family="Arial" font-size="12" fill="#334155">French</text>
+<rect x="220" y="490" width="84" height="24" fill="#7C3AED" opacity="0.15"/>
+<rect x="306" y="490" width="84" height="24" fill="#DC2626" opacity="0.19"/>
+<text x="349.0" y="507" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">9</text>
+<rect x="392" y="490" width="84" height="24" fill="#64748B" opacity="0.33"/>
+<text x="435.0" y="507" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">27</text>
+<rect x="478" y="490" width="84" height="24" fill="#2563EB" opacity="0.44"/>
+<text x="521.0" y="507" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">40</text>
+<rect x="564" y="490" width="84" height="24" fill="#16A34A" opacity="0.27"/>
+<text x="607.0" y="507" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">19</text>
+<text x="118" y="534" font-family="Arial" font-size="12" fill="#334155">Russian</text>
+<rect x="220" y="516" width="84" height="24" fill="#7C3AED" opacity="0.14"/>
+<rect x="306" y="516" width="84" height="24" fill="#DC2626" opacity="0.20"/>
+<text x="349.0" y="533" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">10</text>
+<rect x="392" y="516" width="84" height="24" fill="#64748B" opacity="0.28"/>
+<text x="435.0" y="533" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">20</text>
+<rect x="478" y="516" width="84" height="24" fill="#2563EB" opacity="0.50"/>
+<text x="521.0" y="533" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">49</text>
+<rect x="564" y="516" width="84" height="24" fill="#16A34A" opacity="0.26"/>
+<text x="607.0" y="533" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">18</text>
+<text x="118" y="560" font-family="Arial" font-size="12" fill="#334155">Arabic</text>
+<rect x="220" y="542" width="84" height="24" fill="#7C3AED" opacity="0.18"/>
+<rect x="306" y="542" width="84" height="24" fill="#DC2626" opacity="0.23"/>
+<text x="349.0" y="559" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">14</text>
+<rect x="392" y="542" width="84" height="24" fill="#64748B" opacity="0.28"/>
+<text x="435.0" y="559" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">20</text>
+<rect x="478" y="542" width="84" height="24" fill="#2563EB" opacity="0.41"/>
+<text x="521.0" y="559" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">38</text>
+<rect x="564" y="542" width="84" height="24" fill="#16A34A" opacity="0.28"/>
+<text x="607.0" y="559" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">20</text>
+<text x="118" y="586" font-family="Arial" font-size="12" fill="#334155">Farsi</text>
+<rect x="220" y="568" width="84" height="24" fill="#7C3AED" opacity="0.16"/>
+<rect x="306" y="568" width="84" height="24" fill="#DC2626" opacity="0.23"/>
+<text x="349.0" y="585" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">15</text>
+<rect x="392" y="568" width="84" height="24" fill="#64748B" opacity="0.30"/>
+<text x="435.0" y="585" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">23</text>
+<rect x="478" y="568" width="84" height="24" fill="#2563EB" opacity="0.48"/>
+<text x="521.0" y="585" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">46</text>
+<rect x="564" y="568" width="84" height="24" fill="#16A34A" opacity="0.21"/>
+<text x="607.0" y="585" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">12</text>
+<text x="118" y="612" font-family="Arial" font-size="12" fill="#334155">Amharic</text>
+<rect x="220" y="594" width="84" height="24" fill="#7C3AED" opacity="0.22"/>
+<text x="263.0" y="611" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">13</text>
+<rect x="306" y="594" width="84" height="24" fill="#DC2626" opacity="0.22"/>
+<text x="349.0" y="611" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">13</text>
+<rect x="392" y="594" width="84" height="24" fill="#64748B" opacity="0.24"/>
+<text x="435.0" y="611" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">15</text>
+<rect x="478" y="594" width="84" height="24" fill="#2563EB" opacity="0.44"/>
+<text x="521.0" y="611" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">40</text>
+<rect x="564" y="594" width="84" height="24" fill="#16A34A" opacity="0.26"/>
+<text x="607.0" y="611" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">18</text>
+<text x="118" y="638" font-family="Arial" font-size="12" fill="#334155">Spain Spanish</text>
+<rect x="220" y="620" width="84" height="24" fill="#7C3AED" opacity="0.15"/>
+<rect x="306" y="620" width="84" height="24" fill="#DC2626" opacity="0.19"/>
+<text x="349.0" y="637" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">9</text>
+<rect x="392" y="620" width="84" height="24" fill="#64748B" opacity="0.39"/>
+<text x="435.0" y="637" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">35</text>
+<rect x="478" y="620" width="84" height="24" fill="#2563EB" opacity="0.41"/>
+<text x="521.0" y="637" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">38</text>
+<rect x="564" y="620" width="84" height="24" fill="#16A34A" opacity="0.23"/>
+<text x="607.0" y="637" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">14</text>
+<text x="118" y="664" font-family="Arial" font-size="12" fill="#334155">Latin American Spanish</text>
+<rect x="220" y="646" width="84" height="24" fill="#7C3AED" opacity="0.15"/>
+<rect x="306" y="646" width="84" height="24" fill="#DC2626" opacity="0.19"/>
+<text x="349.0" y="663" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">9</text>
+<rect x="392" y="646" width="84" height="24" fill="#64748B" opacity="0.37"/>
+<text x="435.0" y="663" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">32</text>
+<rect x="478" y="646" width="84" height="24" fill="#2563EB" opacity="0.43"/>
+<text x="521.0" y="663" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">40</text>
+<rect x="564" y="646" width="84" height="24" fill="#16A34A" opacity="0.24"/>
+<text x="607.0" y="663" text-anchor="middle" font-family="Arial" font-size="11" fill="#0F172A" font-weight="700">15</text>
+</svg>

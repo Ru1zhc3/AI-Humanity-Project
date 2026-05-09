@@ -1,0 +1,279 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1246" height="496" viewBox="0 0 1246 496">
+<style>text{font-family:Arial,Helvetica,sans-serif;} .small{font-size:11px;} .label{font-size:12px;} .title{font-size:18px;font-weight:bold;} .axis{stroke:#333;stroke-width:1;} .grid{stroke:#ddd;stroke-width:1;}</style>
+<text x="623.0" y="30" class="title" text-anchor="middle" fill="#111">Perturbations: Average Controversy by Language and Framing Type</text>
+<text x="170" y="81.0" class="small" text-anchor="end" fill="#111">English</text>
+<rect x="180" y="60" width="74" height="34" fill="#e0b4ac" stroke="#fff"/>
+<text x="217.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="254" y="60" width="74" height="34" fill="#e3bdb6" stroke="#fff"/>
+<text x="291.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="328" y="60" width="74" height="34" fill="#e2b9b1" stroke="#fff"/>
+<text x="365.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="402" y="60" width="74" height="34" fill="#dfafa7" stroke="#fff"/>
+<text x="439.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="476" y="60" width="74" height="34" fill="#dfafa7" stroke="#fff"/>
+<text x="513.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="550" y="60" width="74" height="34" fill="#e0b3ab" stroke="#fff"/>
+<text x="587.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="624" y="60" width="74" height="34" fill="#e0b4ab" stroke="#fff"/>
+<text x="661.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="698" y="60" width="74" height="34" fill="#e3beb7" stroke="#fff"/>
+<text x="735.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="772" y="60" width="74" height="34" fill="#e0b2a9" stroke="#fff"/>
+<text x="809.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="846" y="60" width="74" height="34" fill="#e5c4be" stroke="#fff"/>
+<text x="883.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="920" y="60" width="74" height="34" fill="#e6cac4" stroke="#fff"/>
+<text x="957.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.1</text>
+<rect x="994" y="60" width="74" height="34" fill="#e5c4bd" stroke="#fff"/>
+<text x="1031.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="1068" y="60" width="74" height="34" fill="#e2bab2" stroke="#fff"/>
+<text x="1105.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="1142" y="60" width="74" height="34" fill="#deada4" stroke="#fff"/>
+<text x="1179.0" y="81.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<text x="170" y="115.0" class="small" text-anchor="end" fill="#111">Arabic</text>
+<rect x="180" y="94" width="74" height="34" fill="#e4c0b9" stroke="#fff"/>
+<text x="217.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="254" y="94" width="74" height="34" fill="#e3beb7" stroke="#fff"/>
+<text x="291.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="328" y="94" width="74" height="34" fill="#dfafa6" stroke="#fff"/>
+<text x="365.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="402" y="94" width="74" height="34" fill="#dfb0a7" stroke="#fff"/>
+<text x="439.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="476" y="94" width="74" height="34" fill="#e2bbb3" stroke="#fff"/>
+<text x="513.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="550" y="94" width="74" height="34" fill="#dfafa6" stroke="#fff"/>
+<text x="587.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="624" y="94" width="74" height="34" fill="#e1b5ad" stroke="#fff"/>
+<text x="661.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="698" y="94" width="74" height="34" fill="#e3bdb6" stroke="#fff"/>
+<text x="735.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="772" y="94" width="74" height="34" fill="#dfb1a8" stroke="#fff"/>
+<text x="809.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="846" y="94" width="74" height="34" fill="#e3bfb7" stroke="#fff"/>
+<text x="883.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="920" y="94" width="74" height="34" fill="#e2bab3" stroke="#fff"/>
+<text x="957.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="994" y="94" width="74" height="34" fill="#e3bdb6" stroke="#fff"/>
+<text x="1031.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="1068" y="94" width="74" height="34" fill="#e5c4be" stroke="#fff"/>
+<text x="1105.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="1142" y="94" width="74" height="34" fill="#e0b2a9" stroke="#fff"/>
+<text x="1179.0" y="115.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<text x="170" y="149.0" class="small" text-anchor="end" fill="#111">Farsi</text>
+<rect x="180" y="128" width="74" height="34" fill="#e3beb7" stroke="#fff"/>
+<text x="217.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="254" y="128" width="74" height="34" fill="#e1b6ad" stroke="#fff"/>
+<text x="291.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="328" y="128" width="74" height="34" fill="#e2b9b1" stroke="#fff"/>
+<text x="365.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="402" y="128" width="74" height="34" fill="#dda89e" stroke="#fff"/>
+<text x="439.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.8</text>
+<rect x="476" y="128" width="74" height="34" fill="#e2bab2" stroke="#fff"/>
+<text x="513.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="550" y="128" width="74" height="34" fill="#e2bcb4" stroke="#fff"/>
+<text x="587.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="624" y="128" width="74" height="34" fill="#e1b5ac" stroke="#fff"/>
+<text x="661.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="698" y="128" width="74" height="34" fill="#e4c0b8" stroke="#fff"/>
+<text x="735.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="772" y="128" width="74" height="34" fill="#e1b6ad" stroke="#fff"/>
+<text x="809.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="846" y="128" width="74" height="34" fill="#e6c8c1" stroke="#fff"/>
+<text x="883.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.1</text>
+<rect x="920" y="128" width="74" height="34" fill="#e5c5bf" stroke="#fff"/>
+<text x="957.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="994" y="128" width="74" height="34" fill="#e5c3bc" stroke="#fff"/>
+<text x="1031.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="1068" y="128" width="74" height="34" fill="#e3beb7" stroke="#fff"/>
+<text x="1105.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="1142" y="128" width="74" height="34" fill="#dfaea5" stroke="#fff"/>
+<text x="1179.0" y="149.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<text x="170" y="183.0" class="small" text-anchor="end" fill="#111">French</text>
+<rect x="180" y="162" width="74" height="34" fill="#e2bbb4" stroke="#fff"/>
+<text x="217.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="254" y="162" width="74" height="34" fill="#e3bcb5" stroke="#fff"/>
+<text x="291.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="328" y="162" width="74" height="34" fill="#deada4" stroke="#fff"/>
+<text x="365.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="402" y="162" width="74" height="34" fill="#e2b9b1" stroke="#fff"/>
+<text x="439.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="476" y="162" width="74" height="34" fill="#e1b6ae" stroke="#fff"/>
+<text x="513.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="550" y="162" width="74" height="34" fill="#e0b4ac" stroke="#fff"/>
+<text x="587.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="624" y="162" width="74" height="34" fill="#e0b3ab" stroke="#fff"/>
+<text x="661.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="698" y="162" width="74" height="34" fill="#e4c0b9" stroke="#fff"/>
+<text x="735.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="772" y="162" width="74" height="34" fill="#e1b5ac" stroke="#fff"/>
+<text x="809.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="846" y="162" width="74" height="34" fill="#e2bab2" stroke="#fff"/>
+<text x="883.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="920" y="162" width="74" height="34" fill="#e4c1ba" stroke="#fff"/>
+<text x="957.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="994" y="162" width="74" height="34" fill="#e3bfb7" stroke="#fff"/>
+<text x="1031.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="1068" y="162" width="74" height="34" fill="#e4c1ba" stroke="#fff"/>
+<text x="1105.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="1142" y="162" width="74" height="34" fill="#e0b2a9" stroke="#fff"/>
+<text x="1179.0" y="183.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<text x="170" y="217.0" class="small" text-anchor="end" fill="#111">Hindi</text>
+<rect x="180" y="196" width="74" height="34" fill="#e0b4ab" stroke="#fff"/>
+<text x="217.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="254" y="196" width="74" height="34" fill="#e3bdb6" stroke="#fff"/>
+<text x="291.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="328" y="196" width="74" height="34" fill="#e3beb7" stroke="#fff"/>
+<text x="365.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="402" y="196" width="74" height="34" fill="#deaba2" stroke="#fff"/>
+<text x="439.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.8</text>
+<rect x="476" y="196" width="74" height="34" fill="#e1b7af" stroke="#fff"/>
+<text x="513.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="550" y="196" width="74" height="34" fill="#e1b5ac" stroke="#fff"/>
+<text x="587.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="624" y="196" width="74" height="34" fill="#e2bbb4" stroke="#fff"/>
+<text x="661.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="698" y="196" width="74" height="34" fill="#e1b7af" stroke="#fff"/>
+<text x="735.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="772" y="196" width="74" height="34" fill="#e2bbb3" stroke="#fff"/>
+<text x="809.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="846" y="196" width="74" height="34" fill="#e1b6ae" stroke="#fff"/>
+<text x="883.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="920" y="196" width="74" height="34" fill="#e3bdb6" stroke="#fff"/>
+<text x="957.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="994" y="196" width="74" height="34" fill="#e3bfb8" stroke="#fff"/>
+<text x="1031.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="1068" y="196" width="74" height="34" fill="#e2bbb4" stroke="#fff"/>
+<text x="1105.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="1142" y="196" width="74" height="34" fill="#e1b5ac" stroke="#fff"/>
+<text x="1179.0" y="217.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<text x="170" y="251.0" class="small" text-anchor="end" fill="#111">Latin American Spanish</text>
+<rect x="180" y="230" width="74" height="34" fill="#e3beb7" stroke="#fff"/>
+<text x="217.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="254" y="230" width="74" height="34" fill="#e4c3bc" stroke="#fff"/>
+<text x="291.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="328" y="230" width="74" height="34" fill="#deaba1" stroke="#fff"/>
+<text x="365.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.8</text>
+<rect x="402" y="230" width="74" height="34" fill="#deaba2" stroke="#fff"/>
+<text x="439.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.8</text>
+<rect x="476" y="230" width="74" height="34" fill="#e0b4ac" stroke="#fff"/>
+<text x="513.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="550" y="230" width="74" height="34" fill="#deaca2" stroke="#fff"/>
+<text x="587.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.8</text>
+<rect x="624" y="230" width="74" height="34" fill="#e2b9b1" stroke="#fff"/>
+<text x="661.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="698" y="230" width="74" height="34" fill="#e4c1ba" stroke="#fff"/>
+<text x="735.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="772" y="230" width="74" height="34" fill="#dfafa6" stroke="#fff"/>
+<text x="809.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="846" y="230" width="74" height="34" fill="#e3beb7" stroke="#fff"/>
+<text x="883.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="920" y="230" width="74" height="34" fill="#e5c3bc" stroke="#fff"/>
+<text x="957.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="994" y="230" width="74" height="34" fill="#e3beb7" stroke="#fff"/>
+<text x="1031.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="1068" y="230" width="74" height="34" fill="#e3bdb5" stroke="#fff"/>
+<text x="1105.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="1142" y="230" width="74" height="34" fill="#deaba1" stroke="#fff"/>
+<text x="1179.0" y="251.0" class="small" text-anchor="middle" fill="#111">2.8</text>
+<text x="170" y="285.0" class="small" text-anchor="end" fill="#111">Russian</text>
+<rect x="180" y="264" width="74" height="34" fill="#e5c5be" stroke="#fff"/>
+<text x="217.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="254" y="264" width="74" height="34" fill="#e1b6ae" stroke="#fff"/>
+<text x="291.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="328" y="264" width="74" height="34" fill="#e0b2a9" stroke="#fff"/>
+<text x="365.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="402" y="264" width="74" height="34" fill="#dfaea5" stroke="#fff"/>
+<text x="439.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="476" y="264" width="74" height="34" fill="#dfaea5" stroke="#fff"/>
+<text x="513.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="550" y="264" width="74" height="34" fill="#deada4" stroke="#fff"/>
+<text x="587.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="624" y="264" width="74" height="34" fill="#dfafa7" stroke="#fff"/>
+<text x="661.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="698" y="264" width="74" height="34" fill="#e4c2bb" stroke="#fff"/>
+<text x="735.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="772" y="264" width="74" height="34" fill="#dfafa6" stroke="#fff"/>
+<text x="809.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="846" y="264" width="74" height="34" fill="#e3bcb5" stroke="#fff"/>
+<text x="883.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="920" y="264" width="74" height="34" fill="#e5c4bd" stroke="#fff"/>
+<text x="957.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="994" y="264" width="74" height="34" fill="#e4c0b9" stroke="#fff"/>
+<text x="1031.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="1068" y="264" width="74" height="34" fill="#e3bfb7" stroke="#fff"/>
+<text x="1105.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="1142" y="264" width="74" height="34" fill="#dfaea5" stroke="#fff"/>
+<text x="1179.0" y="285.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<text x="170" y="319.0" class="small" text-anchor="end" fill="#111">Simplified Mandarin</text>
+<rect x="180" y="298" width="74" height="34" fill="#e1b7af" stroke="#fff"/>
+<text x="217.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="254" y="298" width="74" height="34" fill="#e3bcb5" stroke="#fff"/>
+<text x="291.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="328" y="298" width="74" height="34" fill="#dda9a0" stroke="#fff"/>
+<text x="365.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.8</text>
+<rect x="402" y="298" width="74" height="34" fill="#dfb0a7" stroke="#fff"/>
+<text x="439.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="476" y="298" width="74" height="34" fill="#dda9a0" stroke="#fff"/>
+<text x="513.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.8</text>
+<rect x="550" y="298" width="74" height="34" fill="#e0b3ab" stroke="#fff"/>
+<text x="587.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="624" y="298" width="74" height="34" fill="#deada4" stroke="#fff"/>
+<text x="661.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="698" y="298" width="74" height="34" fill="#e2bbb4" stroke="#fff"/>
+<text x="735.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="772" y="298" width="74" height="34" fill="#dfb0a7" stroke="#fff"/>
+<text x="809.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.7</text>
+<rect x="846" y="298" width="74" height="34" fill="#e3bfb8" stroke="#fff"/>
+<text x="883.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="920" y="298" width="74" height="34" fill="#e3bdb6" stroke="#fff"/>
+<text x="957.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="994" y="298" width="74" height="34" fill="#e3bdb6" stroke="#fff"/>
+<text x="1031.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="1068" y="298" width="74" height="34" fill="#e2bbb3" stroke="#fff"/>
+<text x="1105.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="1142" y="298" width="74" height="34" fill="#dfb1a8" stroke="#fff"/>
+<text x="1179.0" y="319.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<text x="170" y="353.0" class="small" text-anchor="end" fill="#111">Spain Spanish</text>
+<rect x="180" y="332" width="74" height="34" fill="#e3bcb5" stroke="#fff"/>
+<text x="217.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="254" y="332" width="74" height="34" fill="#e2b9b1" stroke="#fff"/>
+<text x="291.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="328" y="332" width="74" height="34" fill="#e1b6ae" stroke="#fff"/>
+<text x="365.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="402" y="332" width="74" height="34" fill="#dfb0a7" stroke="#fff"/>
+<text x="439.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="476" y="332" width="74" height="34" fill="#e0b4ac" stroke="#fff"/>
+<text x="513.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="550" y="332" width="74" height="34" fill="#e0b2a9" stroke="#fff"/>
+<text x="587.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="624" y="332" width="74" height="34" fill="#dfb0a7" stroke="#fff"/>
+<text x="661.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.6</text>
+<rect x="698" y="332" width="74" height="34" fill="#e2bcb4" stroke="#fff"/>
+<text x="735.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="772" y="332" width="74" height="34" fill="#e1b8b0" stroke="#fff"/>
+<text x="809.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.5</text>
+<rect x="846" y="332" width="74" height="34" fill="#e4c0b8" stroke="#fff"/>
+<text x="883.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.3</text>
+<rect x="920" y="332" width="74" height="34" fill="#e5c3bc" stroke="#fff"/>
+<text x="957.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="994" y="332" width="74" height="34" fill="#e5c5be" stroke="#fff"/>
+<text x="1031.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.2</text>
+<rect x="1068" y="332" width="74" height="34" fill="#e2bcb4" stroke="#fff"/>
+<text x="1105.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.4</text>
+<rect x="1142" y="332" width="74" height="34" fill="#deaaa1" stroke="#fff"/>
+<text x="1179.0" y="353.0" class="small" text-anchor="middle" fill="#111">2.8</text>
+<text x="217.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 217.0 384)">Active Voice</text>
+<text x="291.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 291.0 384)">Passive Voice</text>
+<text x="365.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 365.0 384)">Open Ended</text>
+<text x="439.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 439.0 384)">Yes-No Forced Choice</text>
+<text x="513.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 513.0 384)">Presupposition Loading</text>
+<text x="587.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 587.0 384)">Embedded</text>
+<text x="661.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 661.0 384)">Direct</text>
+<text x="735.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 735.0 384)">Gain Framing</text>
+<text x="809.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 809.0 384)">Loss Framing</text>
+<text x="883.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 883.0 384)">Identity Change</text>
+<text x="957.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 957.0 384)">Formal</text>
+<text x="1031.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 1031.0 384)">Colloquial</text>
+<text x="1105.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 1105.0 384)">Hedged</text>
+<text x="1179.0" y="384" class="small" text-anchor="middle" fill="#111" transform="rotate(35 1179.0 384)">Assertive</text>
+</svg>

@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="640" viewBox="0 0 1180 640">
+<rect width="100%" height="100%" fill="#F8FAFC"/>
+<text x="46.0" y="58.0" font-family="Arial, sans-serif" font-size="30" fill="#0F172A" font-weight="700" text-anchor="start">Perturbation effect: shifted political lean by prompt variant</text>
+<text x="48.0" y="92.0" font-family="Arial, sans-serif" font-size="16" fill="#475569" font-weight="400" text-anchor="start">Shifted lean = label differs from the majority lean for the same model, language, and source statement.</text>
+<text x="44.0" y="126.0" font-family="Arial, sans-serif" font-size="13" fill="#64748B" font-weight="700" text-anchor="start">Shifted lean rate (%)</text>
+<line x1="92" y1="472.0" x2="1102" y2="472.0" stroke="#E2E8F0"/>
+<text x="78.0" y="476.0" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="400" text-anchor="end">0</text>
+<line x1="92" y1="417.0" x2="1102" y2="417.0" stroke="#E2E8F0"/>
+<text x="78.0" y="421.0" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="400" text-anchor="end">10</text>
+<line x1="92" y1="362.0" x2="1102" y2="362.0" stroke="#E2E8F0"/>
+<text x="78.0" y="366.0" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="400" text-anchor="end">20</text>
+<line x1="92" y1="307.0" x2="1102" y2="307.0" stroke="#E2E8F0"/>
+<text x="78.0" y="311.0" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="400" text-anchor="end">30</text>
+<line x1="92" y1="252.0" x2="1102" y2="252.0" stroke="#E2E8F0"/>
+<text x="78.0" y="256.0" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="400" text-anchor="end">40</text>
+<line x1="92" y1="197.0" x2="1102" y2="197.0" stroke="#E2E8F0"/>
+<text x="78.0" y="201.0" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="400" text-anchor="end">50</text>
+<line x1="92" y1="142.0" x2="1102" y2="142.0" stroke="#E2E8F0"/>
+<text x="78.0" y="146.0" font-family="Arial, sans-serif" font-size="12" fill="#64748B" font-weight="400" text-anchor="end">60</text>
+<line x1="92.0" y1="472" x2="92.0" y2="477" stroke="#94A3B8"/>
+<text x="92.0" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Active</text>
+<line x1="169.7" y1="472" x2="169.7" y2="477" stroke="#94A3B8"/>
+<text x="169.7" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Passive</text>
+<line x1="247.4" y1="472" x2="247.4" y2="477" stroke="#94A3B8"/>
+<text x="247.4" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Open</text>
+<line x1="325.1" y1="472" x2="325.1" y2="477" stroke="#94A3B8"/>
+<text x="325.1" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Yes/No</text>
+<line x1="402.8" y1="472" x2="402.8" y2="477" stroke="#94A3B8"/>
+<text x="402.8" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Presupp.</text>
+<line x1="480.5" y1="472" x2="480.5" y2="477" stroke="#94A3B8"/>
+<text x="480.5" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Embedded</text>
+<line x1="558.2" y1="472" x2="558.2" y2="477" stroke="#94A3B8"/>
+<text x="558.2" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Direct</text>
+<line x1="635.8" y1="472" x2="635.8" y2="477" stroke="#94A3B8"/>
+<text x="635.8" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Gain</text>
+<line x1="713.5" y1="472" x2="713.5" y2="477" stroke="#94A3B8"/>
+<text x="713.5" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Loss</text>
+<line x1="791.2" y1="472" x2="791.2" y2="477" stroke="#94A3B8"/>
+<text x="791.2" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Identity</text>
+<line x1="868.9" y1="472" x2="868.9" y2="477" stroke="#94A3B8"/>
+<text x="868.9" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Formal</text>
+<line x1="946.6" y1="472" x2="946.6" y2="477" stroke="#94A3B8"/>
+<text x="946.6" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Colloq.</text>
+<line x1="1024.3" y1="472" x2="1024.3" y2="477" stroke="#94A3B8"/>
+<text x="1024.3" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Hedged</text>
+<line x1="1102.0" y1="472" x2="1102.0" y2="477" stroke="#94A3B8"/>
+<text x="1102.0" y="496.0" font-family="Arial, sans-serif" font-size="11" fill="#475569" font-weight="400" text-anchor="middle">Assertive</text>
+<polyline points="92.0,386.4 169.7,356.3 247.4,251.7 325.1,341.1 402.8,334.6 480.5,379.9 558.2,376.4 635.8,365.8 713.5,289.5 791.2,329.4 868.9,351.9 946.6,322.3 1024.3,311.5 1102.0,373.1" fill="none" stroke="#2563EB" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="92.0" cy="386.4" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="169.7" cy="356.3" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="247.4" cy="251.7" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="325.1" cy="341.1" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="402.8" cy="334.6" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="480.5" cy="379.9" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="558.2" cy="376.4" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="635.8" cy="365.8" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="713.5" cy="289.5" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="791.2" cy="329.4" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="868.9" cy="351.9" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="946.6" cy="322.3" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="1024.3" cy="311.5" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<circle cx="1102.0" cy="373.1" r="5" fill="#F8FAFC" stroke="#2563EB" stroke-width="3"/>
+<text x="92.0" y="376.4" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">16</text>
+<text x="169.7" y="346.3" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">21</text>
+<text x="247.4" y="241.7" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">40</text>
+<text x="325.1" y="331.1" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">24</text>
+<text x="402.8" y="324.6" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">25</text>
+<text x="480.5" y="369.9" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">17</text>
+<text x="558.2" y="366.4" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">17</text>
+<text x="635.8" y="355.8" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">19</text>
+<text x="713.5" y="279.5" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">33</text>
+<text x="791.2" y="319.4" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">26</text>
+<text x="868.9" y="341.9" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">22</text>
+<text x="946.6" y="312.3" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">27</text>
+<text x="1024.3" y="301.5" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">29</text>
+<text x="1102.0" y="363.1" font-family="Arial, sans-serif" font-size="10" fill="#2563EB" font-weight="700" text-anchor="middle">18</text>
+<polyline points="92.0,377.1 169.7,342.4 247.4,211.7 325.1,313.2 402.8,268.1 480.5,345.7 558.2,323.7 635.8,336.8 713.5,236.0 791.2,330.0 868.9,339.6 946.6,266.8 1024.3,217.6 1102.0,334.8" fill="none" stroke="#F59E0B" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="92.0" cy="377.1" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="169.7" cy="342.4" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="247.4" cy="211.7" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="325.1" cy="313.2" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="402.8" cy="268.1" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="480.5" cy="345.7" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="558.2" cy="323.7" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="635.8" cy="336.8" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="713.5" cy="236.0" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="791.2" cy="330.0" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="868.9" cy="339.6" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="946.6" cy="266.8" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="1024.3" cy="217.6" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<circle cx="1102.0" cy="334.8" r="5" fill="#F8FAFC" stroke="#F59E0B" stroke-width="3"/>
+<text x="92.0" y="367.1" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">17</text>
+<text x="169.7" y="332.4" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">24</text>
+<text x="247.4" y="201.7" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">47</text>
+<text x="325.1" y="303.2" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">29</text>
+<text x="402.8" y="258.1" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">37</text>
+<text x="480.5" y="335.7" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">23</text>
+<text x="558.2" y="313.7" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">27</text>
+<text x="635.8" y="326.8" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">25</text>
+<text x="713.5" y="226.0" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">43</text>
+<text x="791.2" y="320.0" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">26</text>
+<text x="868.9" y="329.6" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">24</text>
+<text x="946.6" y="256.8" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">37</text>
+<text x="1024.3" y="207.6" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">46</text>
+<text x="1102.0" y="324.8" font-family="Arial, sans-serif" font-size="10" fill="#F59E0B" font-weight="700" text-anchor="middle">25</text>
+<rect x="820" y="41" width="22" height="5" rx="2.5" fill="#2563EB"/>
+<text x="852.0" y="47.0" font-family="Arial, sans-serif" font-size="14" fill="#334155" font-weight="700" text-anchor="start">Codex gpt-5.4-mini</text>
+<rect x="820" y="69" width="22" height="5" rx="2.5" fill="#F59E0B"/>
+<text x="852.0" y="75.0" font-family="Arial, sans-serif" font-size="14" fill="#334155" font-weight="700" text-anchor="start">Gemma 4</text>
+</svg>

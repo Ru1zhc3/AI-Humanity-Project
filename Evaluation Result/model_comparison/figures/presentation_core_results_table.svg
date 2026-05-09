@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="430" viewBox="0 0 1120 430">
+<rect width="100%" height="100%" fill="#F8FAFC"/>
+<text x="42" y="58" font-family="Arial, sans-serif" font-size="28" fill="#0F172A" font-weight="700">Core results for presentation</text>
+<text x="44" y="90" font-family="Arial, sans-serif" font-size="15" fill="#475569" font-weight="400">Political-lean evaluation across two models, languages, and perturbations.</text>
+<rect x="42" y="128" width="1020" height="52" fill="#E2E8F0"/>
+<text x="56" y="160" font-family="Arial" font-size="14" fill="#0F172A" font-weight="700">Question</text>
+<text x="356" y="160" font-family="Arial" font-size="14" fill="#0F172A" font-weight="700">Codex gpt-5.4-mini</text>
+<text x="536" y="160" font-family="Arial" font-size="14" fill="#0F172A" font-weight="700">Gemma 4</text>
+<text x="686" y="160" font-family="Arial" font-size="14" fill="#0F172A" font-weight="700">Takeaway</text>
+<rect x="42" y="180" width="1020" height="52" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="56" y="201" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">No perturbation: stable across</text>
+<text x="56" y="218" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">languages</text>
+<text x="356" y="201" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="700">53.8%</text>
+<text x="536" y="201" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="700">25.3%</text>
+<text x="686" y="201" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">Translation changes political-lean labels</text>
+<text x="686" y="218" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">for both models.</text>
+<rect x="42" y="232" width="1020" height="52" fill="#F1F5F9" stroke="#CBD5E1"/>
+<text x="56" y="253" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">Perturbations: stable across 14</text>
+<text x="56" y="270" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">variants</text>
+<text x="356" y="253" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="700">13.6%</text>
+<text x="536" y="253" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="700">6.3%</text>
+<text x="686" y="253" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">Prompt perturbation creates stronger</text>
+<text x="686" y="270" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">instability than translation alone.</text>
+<rect x="42" y="284" width="1020" height="52" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="56" y="305" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">Cross-model agreement, no</text>
+<text x="56" y="322" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">perturbation</text>
+<text x="356" y="305" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="700">64.6%</text>
+<text x="536" y="305" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="700">64.6%</text>
+<text x="686" y="305" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">The models often recode the same statement</text>
+<text x="686" y="322" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">differently.</text>
+<rect x="42" y="336" width="1020" height="52" fill="#F1F5F9" stroke="#CBD5E1"/>
+<text x="56" y="357" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">Cross-model agreement,</text>
+<text x="56" y="374" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">perturbations</text>
+<text x="356" y="357" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="700">59.5%</text>
+<text x="536" y="357" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="700">59.5%</text>
+<text x="686" y="357" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">Model identity matters when prompt form</text>
+<text x="686" y="374" font-family="Arial, sans-serif" font-size="13" fill="#334155" font-weight="400">changes.</text>
+</svg>

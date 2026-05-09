@@ -1,0 +1,2 @@
+input_index,statement,category,quadrant,codex_political_lean,reference_match,controversy_score_1_5,one_sentence_opinion,status,error_message,review_notes
+1,Gun control laws would lower violent crime.,Criminal justice,Auth-Left,Lib-Left,False,4,"This is a common progressive view, though evidence and implementation details make it heavily debated.",success,,

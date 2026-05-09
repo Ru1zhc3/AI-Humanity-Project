@@ -1,0 +1,3 @@
+﻿model,translation_avg_shift_pct,translation_max_language,translation_max_shift_pct,translation_min_language,translation_min_shift_pct,perturbation_avg_shift_pct,perturbation_max_type,perturbation_max_shift_pct,perturbation_min_type,perturbation_min_shift_pct
+Codex gpt-5.4-mini,19.51,Farsi,23.56,Arabic,16.0,23.87,Open Ended,40.05,Active Voice,15.56
+Gemma 4,34.76,Amharic,42.22,Russian,32.0,30.71,Open Ended,47.32,Active Voice,17.26

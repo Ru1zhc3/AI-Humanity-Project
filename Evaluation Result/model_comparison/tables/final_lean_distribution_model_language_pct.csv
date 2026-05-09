@@ -1,0 +1,21 @@
+﻿model,language,Auth-Left,Auth-Right,Centrist,Lib-Left,Lib-Right,dataset
+Codex gpt-5.4-mini,English,5.78,14.22,31.11,32.89,16.0,Final statements
+Codex gpt-5.4-mini,Hindi,4.89,16.89,30.22,32.0,16.0,Final statements
+Codex gpt-5.4-mini,Simplified Mandarin,7.11,17.33,32.0,28.89,14.67,Final statements
+Codex gpt-5.4-mini,French,7.11,17.33,29.78,28.44,17.33,Final statements
+Codex gpt-5.4-mini,Russian,6.22,16.89,31.11,31.56,14.22,Final statements
+Codex gpt-5.4-mini,Arabic,4.44,16.0,31.56,30.22,17.78,Final statements
+Codex gpt-5.4-mini,Farsi,10.22,15.11,30.67,26.22,17.78,Final statements
+Codex gpt-5.4-mini,Amharic,2.22,14.22,34.22,35.11,14.22,Final statements
+Codex gpt-5.4-mini,Spain Spanish,6.22,16.89,30.22,30.67,16.0,Final statements
+Codex gpt-5.4-mini,Latin American Spanish,4.89,15.11,30.22,31.11,18.67,Final statements
+Gemma 4,English,3.11,21.33,25.78,42.22,7.56,Final statements
+Gemma 4,Hindi,4.0,8.89,15.11,53.33,18.67,Final statements
+Gemma 4,Simplified Mandarin,2.67,5.33,19.11,46.67,26.22,Final statements
+Gemma 4,French,4.0,9.33,27.11,40.44,19.11,Final statements
+Gemma 4,Russian,2.22,10.22,20.0,49.33,18.22,Final statements
+Gemma 4,Arabic,7.11,14.22,20.44,37.78,20.44,Final statements
+Gemma 4,Farsi,4.89,14.67,23.11,45.78,11.56,Final statements
+Gemma 4,Amharic,13.33,12.89,15.11,40.44,18.22,Final statements
+Gemma 4,Spain Spanish,4.0,9.33,34.67,37.78,14.22,Final statements
+Gemma 4,Latin American Spanish,3.56,9.33,32.0,40.0,15.11,Final statements

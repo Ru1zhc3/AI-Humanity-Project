@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<style>text{font-family:Arial,Helvetica,sans-serif;} .small{font-size:11px;} .label{font-size:12px;} .title{font-size:18px;font-weight:bold;} .axis{stroke:#333;stroke-width:1;} .grid{stroke:#ddd;stroke-width:1;}</style>
+<text x="500.0" y="30" class="title" text-anchor="middle" fill="#111">Final Statements: Distinct Codex Leans Across 10 Languages</text>
+<line x1="80" y1="370" x2="970" y2="370" class="axis"/>
+<line x1="80" y1="60" x2="80" y2="370" class="axis"/>
+<line x1="80" y1="370.0" x2="970" y2="370.0" class="grid"/>
+<text x="72" y="374.0" class="small" text-anchor="end" fill="#111">0</text>
+<line x1="80" y1="292.5" x2="970" y2="292.5" class="grid"/>
+<text x="72" y="296.5" class="small" text-anchor="end" fill="#111">36</text>
+<line x1="80" y1="215.0" x2="970" y2="215.0" class="grid"/>
+<text x="72" y="219.0" class="small" text-anchor="end" fill="#111">73</text>
+<line x1="80" y1="137.5" x2="970" y2="137.5" class="grid"/>
+<text x="72" y="141.5" class="small" text-anchor="end" fill="#111">109</text>
+<line x1="80" y1="60.0" x2="970" y2="60.0" class="grid"/>
+<text x="72" y="64.0" class="small" text-anchor="end" fill="#111">145</text>
+<rect x="88.0" y="111.7" width="168.4" height="258.3" fill="#edae49"/>
+<text x="172.2" y="106.66666666666663" class="small" text-anchor="middle" fill="#111">121.0</text>
+<text x="172.2" y="388" class="small" text-anchor="middle" fill="#111" transform="rotate(38 172.2 388)">1</text>
+<rect x="264.4" y="209.9" width="168.4" height="160.1" fill="#edae49"/>
+<text x="348.59999999999997" y="204.87603305785123" class="small" text-anchor="middle" fill="#111">75.0</text>
+<text x="348.59999999999997" y="388" class="small" text-anchor="middle" fill="#111" transform="rotate(38 348.59999999999997 388)">2</text>
+<rect x="440.8" y="320.9" width="168.4" height="49.1" fill="#edae49"/>
+<text x="525.0" y="315.8953168044077" class="small" text-anchor="middle" fill="#111">23.0</text>
+<text x="525.0" y="388" class="small" text-anchor="middle" fill="#111" transform="rotate(38 525.0 388)">3</text>
+<rect x="617.2" y="359.3" width="168.4" height="10.7" fill="#edae49"/>
+<text x="701.4000000000001" y="354.3250688705234" class="small" text-anchor="middle" fill="#111">5.0</text>
+<text x="701.4000000000001" y="388" class="small" text-anchor="middle" fill="#111" transform="rotate(38 701.4000000000001 388)">4</text>
+<rect x="793.6" y="367.9" width="168.4" height="2.1" fill="#edae49"/>
+<text x="877.8000000000001" y="362.8650137741047" class="small" text-anchor="middle" fill="#111">1.0</text>
+<text x="877.8000000000001" y="388" class="small" text-anchor="middle" fill="#111" transform="rotate(38 877.8000000000001 388)">5</text>
+<text x="20" y="215.0" class="label" text-anchor="middle" fill="#111" transform="rotate(-90 20 215.0)">Number of source statements</text>
+</svg>

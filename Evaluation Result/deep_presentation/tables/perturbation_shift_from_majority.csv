@@ -1,0 +1,29 @@
+﻿model,perturbation,records,shifted_lean_rate_pct
+Codex gpt-5.4-mini,Active Voice,2025,15.56
+Codex gpt-5.4-mini,Passive Voice,2025,21.04
+Codex gpt-5.4-mini,Open Ended,2025,40.05
+Codex gpt-5.4-mini,Yes-No Forced Choice,2025,23.8
+Codex gpt-5.4-mini,Presupposition Loading,2025,24.99
+Codex gpt-5.4-mini,Embedded,2025,16.74
+Codex gpt-5.4-mini,Direct,2025,17.38
+Codex gpt-5.4-mini,Gain Framing,2025,19.31
+Codex gpt-5.4-mini,Loss Framing,2025,33.19
+Codex gpt-5.4-mini,Identity Change,2025,25.93
+Codex gpt-5.4-mini,Formal,2025,21.83
+Codex gpt-5.4-mini,Colloquial,2025,27.21
+Codex gpt-5.4-mini,Hedged,2025,29.19
+Codex gpt-5.4-mini,Assertive,2025,17.98
+Gemma 4,Active Voice,2219,17.26
+Gemma 4,Passive Voice,2172,23.57
+Gemma 4,Open Ended,2162,47.32
+Gemma 4,Yes-No Forced Choice,2247,28.88
+Gemma 4,Presupposition Loading,2220,37.07
+Gemma 4,Embedded,2233,22.97
+Gemma 4,Direct,2191,26.97
+Gemma 4,Gain Framing,2241,24.59
+Gemma 4,Loss Framing,2244,42.91
+Gemma 4,Identity Change,2232,25.81
+Gemma 4,Formal,2235,24.07
+Gemma 4,Colloquial,2152,37.31
+Gemma 4,Hedged,2248,46.26
+Gemma 4,Assertive,2209,24.94

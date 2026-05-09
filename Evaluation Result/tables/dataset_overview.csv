@@ -1,0 +1,3 @@
+﻿result_set,records,languages,source_statements,framing_variants,success,error,reference_match_rate_pct,avg_controversy
+final multilingual statements,2250,10,225,1,2250,0,61.69,2.696
+perturbation statements,28350,9,225,14,28350,0,59.4,2.474

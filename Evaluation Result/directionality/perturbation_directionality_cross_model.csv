@@ -1,0 +1,15 @@
+﻿perturbation,codex_shift_to,codex_net_to,codex_shift_rate_pct,gemma_shift_to,gemma_net_to,gemma_shift_rate_pct,same_dominant_shift_to,same_net_direction
+Active Voice,Auth-Left,Auth-Left,15.56,Auth-Right,Lib-Right,17.26,False,False
+Passive Voice,Auth-Left,Auth-Left,21.04,Auth-Right,Auth-Right,23.57,False,False
+Open Ended,Centrist,Centrist,40.05,Centrist,Centrist,47.32,True,True
+Yes-No Forced Choice,Centrist,Centrist,23.8,Centrist,Centrist,28.88,True,True
+Presupposition Loading,Lib-Left,Lib-Left,24.99,Centrist,Centrist,37.07,False,False
+Embedded,Auth-Left,Auth-Left,16.74,Centrist,Centrist,22.97,False,False
+Direct,Auth-Left,Auth-Left,17.38,Auth-Right,Auth-Right,26.97,False,False
+Gain Framing,Auth-Left,Auth-Left,19.31,Lib-Left,Lib-Left,24.59,False,False
+Loss Framing,Lib-Left,Lib-Left,33.19,Lib-Left,Auth-Right,42.91,True,False
+Identity Change,Centrist,Centrist,25.93,Lib-Left,Lib-Left,25.81,False,False
+Formal,Centrist,Centrist,21.83,Centrist,Lib-Right,24.07,True,False
+Colloquial,Lib-Left,Auth-Left,27.21,Auth-Right,Auth-Right,37.31,False,False
+Hedged,Centrist,Centrist,29.19,Centrist,Centrist,46.26,True,True
+Assertive,Auth-Left,Auth-Left,17.98,Auth-Right,Auth-Right,24.94,False,False

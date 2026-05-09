@@ -1,0 +1,21 @@
+﻿model,language,records,reference_match_rate_pct,dominant_lean,lean_entropy
+Codex gpt-5.4-mini,Amharic,225,59.11,Lib-Left,1.982
+Codex gpt-5.4-mini,Arabic,225,63.11,Centrist,2.112
+Codex gpt-5.4-mini,English,225,60.0,Lib-Left,2.113
+Codex gpt-5.4-mini,Farsi,225,61.33,Centrist,2.221
+Codex gpt-5.4-mini,French,225,64.44,Centrist,2.184
+Codex gpt-5.4-mini,Hindi,225,57.33,Lib-Left,2.117
+Codex gpt-5.4-mini,Latin American Spanish,225,64.0,Lib-Left,2.123
+Codex gpt-5.4-mini,Russian,225,62.22,Lib-Left,2.132
+Codex gpt-5.4-mini,Simplified Mandarin,225,62.22,Centrist,2.159
+Codex gpt-5.4-mini,Spain Spanish,225,63.11,Lib-Left,2.15
+Gemma 4,Amharic,225,48.0,Lib-Left,2.156
+Gemma 4,Arabic,225,59.56,Lib-Left,2.138
+Gemma 4,English,225,54.67,Lib-Left,1.942
+Gemma 4,Farsi,225,51.11,Lib-Left,1.983
+Gemma 4,French,225,53.78,Lib-Left,2.0
+Gemma 4,Hindi,225,52.89,Lib-Left,1.844
+Gemma 4,Latin American Spanish,225,51.56,Lib-Left,1.957
+Gemma 4,Russian,225,54.22,Lib-Left,1.873
+Gemma 4,Simplified Mandarin,225,50.22,Lib-Left,1.841
+Gemma 4,Spain Spanish,225,52.44,Lib-Left,1.966

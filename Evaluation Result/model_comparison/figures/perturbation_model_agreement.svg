@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="650" viewBox="0 0 1040 650">
+<rect width="100%" height="100%" fill="#F8FAFC"/>
+<text x="42" y="54" font-family="Arial, sans-serif" font-size="28" fill="#0F172A" font-weight="700">Where models disagree most: perturbation political lean</text>
+<text x="44" y="86" font-family="Arial, sans-serif" font-size="15" fill="#475569" font-weight="400">Model agreement between Codex gpt-5.4-mini and Gemma 4 by perturbation type.</text>
+<line x1="250.0" y1="110" x2="250.0" y2="594" stroke="#E2E8F0"/>
+<text x="242.0" y="622" font-family="Arial" font-size="12" fill="#64748B">0</text>
+<line x1="390.0" y1="110" x2="390.0" y2="594" stroke="#E2E8F0"/>
+<text x="382.0" y="622" font-family="Arial" font-size="12" fill="#64748B">20</text>
+<line x1="530.0" y1="110" x2="530.0" y2="594" stroke="#E2E8F0"/>
+<text x="522.0" y="622" font-family="Arial" font-size="12" fill="#64748B">40</text>
+<line x1="670.0" y1="110" x2="670.0" y2="594" stroke="#E2E8F0"/>
+<text x="662.0" y="622" font-family="Arial" font-size="12" fill="#64748B">60</text>
+<line x1="810.0" y1="110" x2="810.0" y2="594" stroke="#E2E8F0"/>
+<text x="802.0" y="622" font-family="Arial" font-size="12" fill="#64748B">80</text>
+<line x1="950.0" y1="110" x2="950.0" y2="594" stroke="#E2E8F0"/>
+<text x="942.0" y="622" font-family="Arial" font-size="12" fill="#64748B">100</text>
+<text x="236" y="135" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Presupposition Loading</text>
+<rect x="250" y="118" width="318.9" height="25" rx="5" fill="#0F766E"/>
+<text x="576.9" y="135" font-family="Arial" font-size="12" fill="#334155" font-weight="700">45.6%</text>
+<text x="236" y="169" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Colloquial</text>
+<rect x="250" y="152" width="357.4" height="25" rx="5" fill="#0F766E"/>
+<text x="615.4" y="169" font-family="Arial" font-size="12" fill="#334155" font-weight="700">51.1%</text>
+<text x="236" y="203" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Loss Framing</text>
+<rect x="250" y="186" width="393.5" height="25" rx="5" fill="#0F766E"/>
+<text x="651.5" y="203" font-family="Arial" font-size="12" fill="#334155" font-weight="700">56.2%</text>
+<text x="236" y="237" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Passive Voice</text>
+<rect x="250" y="220" width="398.6" height="25" rx="5" fill="#0F766E"/>
+<text x="656.6" y="237" font-family="Arial" font-size="12" fill="#334155" font-weight="700">57.0%</text>
+<text x="236" y="271" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Yes-No Forced Choice</text>
+<rect x="250" y="254" width="400.2" height="25" rx="5" fill="#0F766E"/>
+<text x="658.2" y="271" font-family="Arial" font-size="12" fill="#334155" font-weight="700">57.2%</text>
+<text x="236" y="305" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Hedged</text>
+<rect x="250" y="288" width="405.2" height="25" rx="5" fill="#0F766E"/>
+<text x="663.2" y="305" font-family="Arial" font-size="12" fill="#334155" font-weight="700">57.9%</text>
+<text x="236" y="339" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Open Ended</text>
+<rect x="250" y="322" width="414.2" height="25" rx="5" fill="#0F766E"/>
+<text x="672.2" y="339" font-family="Arial" font-size="12" fill="#334155" font-weight="700">59.2%</text>
+<text x="236" y="373" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Gain Framing</text>
+<rect x="250" y="356" width="433.3" height="25" rx="5" fill="#0F766E"/>
+<text x="691.3" y="373" font-family="Arial" font-size="12" fill="#334155" font-weight="700">61.9%</text>
+<text x="236" y="407" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Embedded</text>
+<rect x="250" y="390" width="435.1" height="25" rx="5" fill="#0F766E"/>
+<text x="693.0" y="407" font-family="Arial" font-size="12" fill="#334155" font-weight="700">62.1%</text>
+<text x="236" y="441" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Direct</text>
+<rect x="250" y="424" width="438.8" height="25" rx="5" fill="#0F766E"/>
+<text x="696.8" y="441" font-family="Arial" font-size="12" fill="#334155" font-weight="700">62.7%</text>
+<text x="236" y="475" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Active Voice</text>
+<rect x="250" y="458" width="444.4" height="25" rx="5" fill="#0F766E"/>
+<text x="702.4" y="475" font-family="Arial" font-size="12" fill="#334155" font-weight="700">63.5%</text>
+<text x="236" y="509" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Identity Change</text>
+<rect x="250" y="492" width="459.7" height="25" rx="5" fill="#0F766E"/>
+<text x="717.7" y="509" font-family="Arial" font-size="12" fill="#334155" font-weight="700">65.7%</text>
+<text x="236" y="543" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Formal</text>
+<rect x="250" y="526" width="463.0" height="25" rx="5" fill="#0F766E"/>
+<text x="721.0" y="543" font-family="Arial" font-size="12" fill="#334155" font-weight="700">66.1%</text>
+<text x="236" y="577" text-anchor="end" font-family="Arial" font-size="13" fill="#334155">Assertive</text>
+<rect x="250" y="560" width="467.4" height="25" rx="5" fill="#0F766E"/>
+<text x="725.4" y="577" font-family="Arial" font-size="12" fill="#334155" font-weight="700">66.8%</text>
+</svg>

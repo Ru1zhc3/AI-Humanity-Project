@@ -1,0 +1,129 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1310" height="210" viewBox="0 0 1310 210">
+<rect width="100%" height="100%" fill="#f1f9f3"/>
+<rect x="1" y="1" width="1308" height="208" fill="#FFFFFF" stroke="#8FA99A" stroke-width="2"/>
+<rect x="1" y="1" width="1308" height="64" fill="#f1f9f3" stroke="#8FA99A" stroke-width="2"/>
+<rect x="1" y="137" width="1308" height="72" fill="#f1f9f3"/>
+<line x1="1" y1="65" x2="1309" y2="65" stroke="#8FA99A" stroke-width="2"/>
+<line x1="1" y1="137" x2="1309" y2="137" stroke="#8FA99A" stroke-width="1.5"/>
+<text x="175.0" y="40.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Active</text>
+<line x1="133" y1="1" x2="133" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="259.0" y="40.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Passive</text>
+<line x1="217" y1="1" x2="217" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="343.0" y="28.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Open</text>
+<text x="343.0" y="41.1" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Ended</text>
+<line x1="301" y1="1" x2="301" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="427.0" y="28.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Yes-No</text>
+<text x="427.0" y="41.1" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Forced</text>
+<line x1="385" y1="1" x2="385" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="511.0" y="28.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Presupp.</text>
+<text x="511.0" y="41.1" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Loading</text>
+<line x1="469" y1="1" x2="469" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="595.0" y="40.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Embedded</text>
+<line x1="553" y1="1" x2="553" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="679.0" y="40.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Direct</text>
+<line x1="637" y1="1" x2="637" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="763.0" y="28.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Gain</text>
+<text x="763.0" y="41.1" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Framing</text>
+<line x1="721" y1="1" x2="721" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="847.0" y="28.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Loss</text>
+<text x="847.0" y="41.1" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Framing</text>
+<line x1="805" y1="1" x2="805" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="931.0" y="28.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Identity</text>
+<text x="931.0" y="41.1" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Change</text>
+<line x1="889" y1="1" x2="889" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="1015.0" y="40.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Formal</text>
+<line x1="973" y1="1" x2="973" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="1099.0" y="40.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Colloquial</text>
+<line x1="1057" y1="1" x2="1057" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="1183.0" y="40.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Hedged</text>
+<line x1="1141" y1="1" x2="1141" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<text x="1267.0" y="40.0" font-family="Arial, sans-serif" font-size="11.7" fill="#23372D" font-weight="800" text-anchor="middle">Assertive</text>
+<line x1="1225" y1="1" x2="1225" y2="209" stroke="#B8CDBF" stroke-width="1.2"/>
+<line x1="133" y1="1" x2="133" y2="209" stroke="#8FA99A" stroke-width="2"/>
+<text x="67.0" y="107.0" font-family="Arial, sans-serif" font-size="13" fill="#172033" font-weight="700" text-anchor="middle">GPT-5.4-mini</text>
+<rect x="139.0" y="77" width="72" height="48" rx="8" fill="#7C3AED16" stroke="#7C3AED8A" stroke-width="1.4"/>
+<text x="175.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#7C3AED" font-weight="700" text-anchor="middle">Auth-Left</text>
+<text x="175.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">33.6% of shifts</text>
+<rect x="223.0" y="77" width="72" height="48" rx="8" fill="#7C3AED16" stroke="#7C3AED8A" stroke-width="1.4"/>
+<text x="259.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#7C3AED" font-weight="700" text-anchor="middle">Auth-Left</text>
+<text x="259.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">44.6% of shifts</text>
+<rect x="307.0" y="77" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="343.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="343.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">63.8% of shifts</text>
+<rect x="391.0" y="77" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="427.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="427.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">34.6% of shifts</text>
+<rect x="475.0" y="77" width="72" height="48" rx="8" fill="#2563EB16" stroke="#2563EB8A" stroke-width="1.4"/>
+<text x="511.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#2563EB" font-weight="700" text-anchor="middle">Lib-Left</text>
+<text x="511.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">44.1% of shifts</text>
+<rect x="559.0" y="77" width="72" height="48" rx="8" fill="#7C3AED16" stroke="#7C3AED8A" stroke-width="1.4"/>
+<text x="595.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#7C3AED" font-weight="700" text-anchor="middle">Auth-Left</text>
+<text x="595.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">24.2% of shifts</text>
+<rect x="643.0" y="77" width="72" height="48" rx="8" fill="#7C3AED16" stroke="#7C3AED8A" stroke-width="1.4"/>
+<text x="679.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#7C3AED" font-weight="700" text-anchor="middle">Auth-Left</text>
+<text x="679.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">36.9% of shifts</text>
+<rect x="727.0" y="77" width="72" height="48" rx="8" fill="#7C3AED16" stroke="#7C3AED8A" stroke-width="1.4"/>
+<text x="763.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#7C3AED" font-weight="700" text-anchor="middle">Auth-Left</text>
+<text x="763.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">30.7% of shifts</text>
+<rect x="811.0" y="77" width="72" height="48" rx="8" fill="#2563EB16" stroke="#2563EB8A" stroke-width="1.4"/>
+<text x="847.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#2563EB" font-weight="700" text-anchor="middle">Lib-Left</text>
+<text x="847.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">45.2% of shifts</text>
+<rect x="895.0" y="77" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="931.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="931.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">39.0% of shifts</text>
+<rect x="979.0" y="77" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="1015.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="1015.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">34.6% of shifts</text>
+<rect x="1063.0" y="77" width="72" height="48" rx="8" fill="#2563EB16" stroke="#2563EB8A" stroke-width="1.4"/>
+<text x="1099.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#2563EB" font-weight="700" text-anchor="middle">Lib-Left</text>
+<text x="1099.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">25.9% of shifts</text>
+<rect x="1147.0" y="77" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="1183.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="1183.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">59.7% of shifts</text>
+<rect x="1231.0" y="77" width="72" height="48" rx="8" fill="#7C3AED16" stroke="#7C3AED8A" stroke-width="1.4"/>
+<text x="1267.0" y="97.0" font-family="Arial, sans-serif" font-size="9.8" fill="#7C3AED" font-weight="700" text-anchor="middle">Auth-Left</text>
+<text x="1267.0" y="113.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">30.8% of shifts</text>
+<text x="67.0" y="179.0" font-family="Arial, sans-serif" font-size="13" fill="#172033" font-weight="700" text-anchor="middle">Gemma 4 e4b</text>
+<rect x="139.0" y="149" width="72" height="48" rx="8" fill="#DC262616" stroke="#DC26268A" stroke-width="1.4"/>
+<text x="175.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#DC2626" font-weight="700" text-anchor="middle">Auth-Right</text>
+<text x="175.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">26.9% of shifts</text>
+<rect x="223.0" y="149" width="72" height="48" rx="8" fill="#DC262616" stroke="#DC26268A" stroke-width="1.4"/>
+<text x="259.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#DC2626" font-weight="700" text-anchor="middle">Auth-Right</text>
+<text x="259.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">27.7% of shifts</text>
+<rect x="307.0" y="149" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="343.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="343.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">89.9% of shifts</text>
+<rect x="391.0" y="149" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="427.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="427.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">68.9% of shifts</text>
+<rect x="475.0" y="149" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="511.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="511.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">63.3% of shifts</text>
+<rect x="559.0" y="149" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="595.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="595.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">46.2% of shifts</text>
+<rect x="643.0" y="149" width="72" height="48" rx="8" fill="#DC262616" stroke="#DC26268A" stroke-width="1.4"/>
+<text x="679.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#DC2626" font-weight="700" text-anchor="middle">Auth-Right</text>
+<text x="679.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">41.6% of shifts</text>
+<rect x="727.0" y="149" width="72" height="48" rx="8" fill="#2563EB16" stroke="#2563EB8A" stroke-width="1.4"/>
+<text x="763.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#2563EB" font-weight="700" text-anchor="middle">Lib-Left</text>
+<text x="763.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">44.5% of shifts</text>
+<rect x="811.0" y="149" width="72" height="48" rx="8" fill="#2563EB16" stroke="#2563EB8A" stroke-width="1.4"/>
+<text x="847.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#2563EB" font-weight="700" text-anchor="middle">Lib-Left</text>
+<text x="847.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">39.4% of shifts</text>
+<rect x="895.0" y="149" width="72" height="48" rx="8" fill="#2563EB16" stroke="#2563EB8A" stroke-width="1.4"/>
+<text x="931.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#2563EB" font-weight="700" text-anchor="middle">Lib-Left</text>
+<text x="931.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">47.7% of shifts</text>
+<rect x="979.0" y="149" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="1015.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="1015.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">32.9% of shifts</text>
+<rect x="1063.0" y="149" width="72" height="48" rx="8" fill="#DC262616" stroke="#DC26268A" stroke-width="1.4"/>
+<text x="1099.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#DC2626" font-weight="700" text-anchor="middle">Auth-Right</text>
+<text x="1099.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">27.0% of shifts</text>
+<rect x="1147.0" y="149" width="72" height="48" rx="8" fill="#64748B16" stroke="#64748B8A" stroke-width="1.4"/>
+<text x="1183.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#64748B" font-weight="700" text-anchor="middle">Centrist</text>
+<text x="1183.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">90.0% of shifts</text>
+<rect x="1231.0" y="149" width="72" height="48" rx="8" fill="#DC262616" stroke="#DC26268A" stroke-width="1.4"/>
+<text x="1267.0" y="169.0" font-family="Arial, sans-serif" font-size="9.8" fill="#DC2626" font-weight="700" text-anchor="middle">Auth-Right</text>
+<text x="1267.0" y="185.0" font-family="Arial, sans-serif" font-size="7.9" fill="#334155" font-weight="700" text-anchor="middle">34.5% of shifts</text>
+</svg>

@@ -1,0 +1,68 @@
+{
+  "success": 20,
+  "error": 0,
+  "pending": 0,
+  "total": 20,
+  "per_language": {
+    "English": {
+      "success": 2,
+      "error": 0,
+      "pending": 0,
+      "total": 2
+    },
+    "Hindi": {
+      "success": 2,
+      "error": 0,
+      "pending": 0,
+      "total": 2
+    },
+    "Simplified Mandarin": {
+      "success": 2,
+      "error": 0,
+      "pending": 0,
+      "total": 2
+    },
+    "French": {
+      "success": 2,
+      "error": 0,
+      "pending": 0,
+      "total": 2
+    },
+    "Russian": {
+      "success": 2,
+      "error": 0,
+      "pending": 0,
+      "total": 2
+    },
+    "Arabic": {
+      "success": 2,
+      "error": 0,
+      "pending": 0,
+      "total": 2
+    },
+    "Farsi": {
+      "success": 2,
+      "error": 0,
+      "pending": 0,
+      "total": 2
+    },
+    "Amharic": {
+      "success": 2,
+      "error": 0,
+      "pending": 0,
+      "total": 2
+    },
+    "Spain Spanish": {
+      "success": 2,
+      "error": 0,
+      "pending": 0,
+      "total": 2
+    },
+    "Latin American Spanish": {
+      "success": 2,
+      "error": 0,
+      "pending": 0,
+      "total": 2
+    }
+  }
+}

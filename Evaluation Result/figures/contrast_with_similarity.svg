@@ -1,0 +1,325 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="1670" viewBox="0 0 1320 1670">
+<style>
+text, tspan { font-family: 'Helvetica Neue', 'Noto Sans', 'Noto Sans Devanagari', 'Noto Sans Arabic', 'Noto Sans Ethiopic', 'Noto Sans CJK SC', Arial, sans-serif; }
+.title { font-size: 21px; font-weight: 700; fill: #1a2b2c; }
+.subtitle { font-size: 13px; fill: #555; }
+.section-tag { font-size: 12px; font-weight: 700; letter-spacing: 1.2px; }
+.statement { font-size: 16px; font-weight: 700; font-style: italic; fill: #1a2b2c; }
+.meta { font-size: 11px; fill: #777; }
+.lang { font-size: 13px; font-weight: 600; fill: #222; }
+.prompt { font-size: 12px; fill: #333; }
+.bt { font-size: 11px; fill: #666; font-style: italic; }
+.sim-label { font-size: 10px; fill: #555; font-weight: 600; }
+.lean { font-size: 11px; font-weight: 700; fill: #fff; }
+.cont { font-size: 12px; font-weight: 700; fill: #555; }
+.colhead { font-size: 10px; font-weight: 700; fill: #888; letter-spacing: 0.6px; }
+</style>
+<text x="50" y="32" class="title">When does the language matter? A controlled contrast.</text>
+<text x="50" y="58" class="subtitle">Actual prompts shown with embedding-verified back-translations. Similarity bars show fidelity: <tspan fill="#2ecc71" font-weight="700">green</tspan>=0.95+, <tspan fill="#f39c12" font-weight="700">orange</tspan>=0.85-0.95, <tspan fill="#e74c3c" font-weight="700">red</tspan>=below 0.85.</text>
+<rect x="50" y="90" width="135" height="22" fill="#2f6f73" rx="3"/>
+<text x="117.5" y="105" class="section-tag" fill="#fff" text-anchor="middle">STABLE</text>
+<text x="205" y="106" class="statement">"The death penalty should be abolished."</text>
+<text x="205" y="124" class="meta">Topic: Criminal justice  ·  Dataset reference label: Lib-Left  ·  10 of 10 languages agree on Lib-Left</text>
+<text x="50" y="150" class="colhead">LANGUAGE</text>
+<text x="225" y="150" class="colhead">PROMPT / BACK-TRANSLATION (with fidelity)</text>
+<text x="995" y="150" class="colhead">LEAN</text>
+<text x="1110" y="150" class="colhead">CONTROVERSY</text>
+<line x1="50" y1="156" x2="1270" y2="156" stroke="#bbb"/>
+<rect x="45" y="165" width="1230" height="60" fill="#fafaf7"/>
+<text x="50" y="201.0" class="lang">English</text>
+<text x="225" y="184" class="prompt">The death penalty should be abolished.</text>
+<text x="225" y="204" class="bt" fill="#bbb">↳ (original)</text>
+<rect x="995" y="184.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="199.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="195.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="195.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="195.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="195.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="195.0" r="4" fill="#d1495b"/>
+<text x="1175" y="200.0" class="cont">5/5</text>
+<text x="50" y="263.0" class="lang">Amharic</text>
+<text x="225" y="246" class="prompt">የሞት ቅጣት መወገድ አለበት።</text>
+<text x="225" y="266" class="bt">↳ The death penalty must be abolished.</text>
+<rect x="735" y="258" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="258" width="47.547709941864014" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="269" class="sim-label">0.951</text>
+<rect x="995" y="246.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="261.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="257.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="257.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="257.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="257.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="257.0" r="4" fill="#d1495b"/>
+<text x="1175" y="262.0" class="cont">5/5</text>
+<rect x="45" y="289" width="1230" height="60" fill="#fafaf7"/>
+<text x="50" y="325.0" class="lang">Arabic</text>
+<text x="225" y="308" class="prompt">ينبغي إلغاء عقوبة الإعدام.</text>
+<text x="225" y="328" class="bt">↳ The death penalty should be abolished.</text>
+<rect x="735" y="320" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="320" width="50.000005960464" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="331" class="sim-label">1.000</text>
+<rect x="995" y="308.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="323.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="319.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="319.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="319.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="319.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="319.0" r="4" fill="#d1495b"/>
+<text x="1175" y="324.0" class="cont">5/5</text>
+<text x="50" y="387.0" class="lang">Farsi</text>
+<text x="225" y="370" class="prompt">مجازات اعدام باید لغو شود.</text>
+<text x="225" y="390" class="bt">↳ The death penalty must be abolished.</text>
+<rect x="735" y="382" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="382" width="47.547709941864014" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="393" class="sim-label">0.951</text>
+<rect x="995" y="370.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="385.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="381.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="381.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="381.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="381.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="381.0" r="4" fill="#d1495b"/>
+<text x="1175" y="386.0" class="cont">5/5</text>
+<rect x="45" y="413" width="1230" height="60" fill="#fafaf7"/>
+<text x="50" y="449.0" class="lang">French</text>
+<text x="225" y="432" class="prompt">La peine de mort devrait être abolie.</text>
+<text x="225" y="452" class="bt">↳ The death penalty should be abolished.</text>
+<rect x="735" y="444" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="444" width="49.99999701976776" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="455" class="sim-label">1.000</text>
+<rect x="995" y="432.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="447.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="443.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="443.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="443.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="443.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="443.0" r="4" fill="#d1495b"/>
+<text x="1175" y="448.0" class="cont">5/5</text>
+<text x="50" y="511.0" class="lang">Hindi</text>
+<text x="225" y="494" class="prompt">मृत्युदंड को समाप्त कर देना चाहिए।</text>
+<text x="225" y="514" class="bt">↳ The death penalty should be abolished.</text>
+<rect x="735" y="506" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="506" width="49.99999701976776" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="517" class="sim-label">1.000</text>
+<rect x="995" y="494.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="509.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="505.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="505.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="505.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="505.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="505.0" r="4" fill="#d1495b"/>
+<text x="1175" y="510.0" class="cont">5/5</text>
+<rect x="45" y="537" width="1230" height="60" fill="#fafaf7"/>
+<text x="50" y="573.0" class="lang">Latin American Spanish</text>
+<text x="225" y="556" class="prompt">La pena de muerte debería ser abolida.</text>
+<text x="225" y="576" class="bt">↳ The death penalty should be abolished.</text>
+<rect x="735" y="568" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="568" width="49.99999701976776" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="579" class="sim-label">1.000</text>
+<rect x="995" y="556.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="571.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="567.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="567.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="567.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="567.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="567.0" r="4" fill="#d1495b"/>
+<text x="1175" y="572.0" class="cont">5/5</text>
+<text x="50" y="635.0" class="lang">Russian</text>
+<text x="225" y="618" class="prompt">Смертную казнь следует отменить.</text>
+<text x="225" y="638" class="bt">↳ The death penalty should be abolished.</text>
+<rect x="735" y="630" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="630" width="49.99999701976776" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="641" class="sim-label">1.000</text>
+<rect x="995" y="618.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="633.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="629.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="629.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="629.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="629.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="629.0" r="4" fill="none" stroke="#ccc"/>
+<text x="1175" y="634.0" class="cont">4/5</text>
+<rect x="45" y="661" width="1230" height="60" fill="#fafaf7"/>
+<text x="50" y="697.0" class="lang">Simplified Mandarin</text>
+<text x="225" y="680" class="prompt">死刑应该废除。</text>
+<text x="225" y="700" class="bt">↳ The death penalty should be abolished.</text>
+<rect x="735" y="692" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="692" width="49.99999701976776" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="703" class="sim-label">1.000</text>
+<rect x="995" y="680.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="695.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="691.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="691.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="691.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="691.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="691.0" r="4" fill="#d1495b"/>
+<text x="1175" y="696.0" class="cont">5/5</text>
+<text x="50" y="759.0" class="lang">Spain Spanish</text>
+<text x="225" y="742" class="prompt">La pena de muerte debería ser abolida.</text>
+<text x="225" y="762" class="bt">↳ The death penalty should be abolished.</text>
+<rect x="735" y="754" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="754" width="50.0000059604645" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="765" class="sim-label">1.000</text>
+<rect x="995" y="742.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="757.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="753.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="753.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="753.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="753.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="753.0" r="4" fill="#d1495b"/>
+<text x="1175" y="758.0" class="cont">5/5</text>
+<text x="50" y="802" class="subtitle"><tspan font-weight="700" fill="#2f6f73">→</tspan> All back-translations have very high fidelity (0.95+). Every language returns Lib-Left, every controversy 4-5/5.</text>
+<text x="65" y="820" class="subtitle">The model CAN be stable on contested topics — the variation elsewhere isn't translation noise.</text>
+<rect x="50" y="898" width="135" height="22" fill="#d1495b" rx="3"/>
+<text x="117.5" y="913" class="section-tag" fill="#fff" text-anchor="middle">UNSTABLE</text>
+<text x="205" y="914" class="statement">"AI political content near elections should be banned."</text>
+<text x="205" y="932" class="meta">Topic: Technology regulation  ·  Dataset reference label: Auth-Right  ·  4 distinct labels assigned across 10 languages</text>
+<text x="50" y="958" class="colhead">LANGUAGE</text>
+<text x="225" y="958" class="colhead">PROMPT / BACK-TRANSLATION (with fidelity)</text>
+<text x="995" y="958" class="colhead">LEAN</text>
+<text x="1110" y="958" class="colhead">CONTROVERSY</text>
+<line x1="50" y1="964" x2="1270" y2="964" stroke="#bbb"/>
+<rect x="45" y="973" width="1230" height="60" fill="#fafaf7"/>
+<text x="50" y="1009.0" class="lang">English</text>
+<text x="225" y="992" class="prompt">AI political content near elections should be banned.</text>
+<text x="225" y="1012" class="bt" fill="#bbb">↳ (original)</text>
+<rect x="995" y="992.0" width="100" height="22" fill="#a3a3a3" rx="3"/>
+<text x="1045" y="1007.0" class="lean" text-anchor="middle">Centrist</text>
+<circle cx="1115" cy="1003.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="1003.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="1003.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="1003.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="1003.0" r="4" fill="none" stroke="#ccc"/>
+<text x="1175" y="1008.0" class="cont">4/5</text>
+<text x="50" y="1071.0" class="lang">Amharic</text>
+<text x="225" y="1054" class="prompt">በምርጫ ወቅት የ AI የፖለቲካ ይዘት መከልከል አለበት።</text>
+<text x="225" y="1074" class="bt">↳ AI should ban political content near elections.</text>
+<rect x="735" y="1066" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="1066" width="48.43439161777496" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="1077" class="sim-label">0.969</text>
+<rect x="995" y="1054.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="1069.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="1065.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="1065.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="1065.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="1065.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="1065.0" r="4" fill="#d1495b"/>
+<text x="1175" y="1070.0" class="cont">5/5</text>
+<rect x="45" y="1097" width="1230" height="60" fill="#fafaf7"/>
+<text x="50" y="1133.0" class="lang">Hindi</text>
+<text x="225" y="1116" class="prompt">चुनावों के आसपास कृत्रिम बुद्धिमत्ता से निर्मित राजनीतिक सामग्री पर प्रतिबंध लगाया जाना चाहिए।</text>
+<text x="225" y="1136" class="bt">↳ AI political content should be banned near elections.</text>
+<rect x="735" y="1128" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="1128" width="49.71131682395935" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="1139" class="sim-label">0.994</text>
+<rect x="995" y="1116.0" width="100" height="22" fill="#2f6f73" rx="3"/>
+<text x="1045" y="1131.0" class="lean" text-anchor="middle">Lib-Left</text>
+<circle cx="1115" cy="1127.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="1127.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="1127.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="1127.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="1127.0" r="4" fill="none" stroke="#ccc"/>
+<text x="1175" y="1132.0" class="cont">4/5</text>
+<text x="50" y="1195.0" class="lang">Russian</text>
+<text x="225" y="1178" class="prompt">Политический контент, созданный с помощью ИИ, в преддверии выборов следует запретить.</text>
+<text x="225" y="1198" class="bt">↳ AI political content should be banned before elections.</text>
+<rect x="735" y="1190" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="1190" width="48.70343208312988" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="1201" class="sim-label">0.974</text>
+<rect x="995" y="1178.0" width="100" height="22" fill="#a3a3a3" rx="3"/>
+<text x="1045" y="1193.0" class="lean" text-anchor="middle">Centrist</text>
+<circle cx="1115" cy="1189.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="1189.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="1189.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="1189.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="1189.0" r="4" fill="#d1495b"/>
+<text x="1175" y="1194.0" class="cont">5/5</text>
+<rect x="45" y="1221" width="1230" height="60" fill="#fafaf7"/>
+<text x="50" y="1257.0" class="lang">Spain Spanish</text>
+<text x="225" y="1240" class="prompt">El contenido político generado por IA en fechas cercanas a las elecciones debería prohibirse.</text>
+<text x="225" y="1260" class="bt">↳ Political AI content near elections should be banned.</text>
+<rect x="735" y="1252" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="1252" width="49.39725995063782" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="1263" class="sim-label">0.988</text>
+<rect x="995" y="1240.0" width="100" height="22" fill="#a3a3a3" rx="3"/>
+<text x="1045" y="1255.0" class="lean" text-anchor="middle">Centrist</text>
+<circle cx="1115" cy="1251.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="1251.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="1251.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="1251.0" r="4" fill="none" stroke="#ccc"/>
+<circle cx="1159" cy="1251.0" r="4" fill="none" stroke="#ccc"/>
+<text x="1175" y="1256.0" class="cont">3/5</text>
+<text x="50" y="1319.0" class="lang">French</text>
+<text x="225" y="1302" class="prompt">Les contenus politiques générés par l'IA devraient être interdits à l'approche des élections.</text>
+<text x="225" y="1322" class="bt">↳ AI political content in the run-up to elections should be banned.</text>
+<rect x="735" y="1314" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="1314" width="48.37978482246399" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="1325" class="sim-label">0.968</text>
+<rect x="995" y="1302.0" width="100" height="22" fill="#7d4f7e" rx="3"/>
+<text x="1045" y="1317.0" class="lean" text-anchor="middle">Auth-Left</text>
+<circle cx="1115" cy="1313.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="1313.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="1313.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="1313.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="1313.0" r="4" fill="#d1495b"/>
+<text x="1175" y="1318.0" class="cont">5/5</text>
+<rect x="45" y="1345" width="1230" height="60" fill="#fafaf7"/>
+<text x="50" y="1381.0" class="lang">Latin American Spanish</text>
+<text x="225" y="1364" class="prompt">El contenido político generado por IA en fechas cercanas a las elecciones debería prohibirse.</text>
+<text x="225" y="1384" class="bt">↳ Political AI content near elections should be banned.</text>
+<rect x="735" y="1376" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="1376" width="49.39725995063782" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="1387" class="sim-label">0.988</text>
+<rect x="995" y="1364.0" width="100" height="22" fill="#7d4f7e" rx="3"/>
+<text x="1045" y="1379.0" class="lean" text-anchor="middle">Auth-Left</text>
+<circle cx="1115" cy="1375.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="1375.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="1375.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="1375.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="1375.0" r="4" fill="#d1495b"/>
+<text x="1175" y="1380.0" class="cont">5/5</text>
+<text x="50" y="1443.0" class="lang">Simplified Mandarin</text>
+<text x="225" y="1426" class="prompt">选举临近时，应禁止人工智能发布政治内容。</text>
+<text x="225" y="1446" class="bt">↳ AI political content around elections should be banned.</text>
+<rect x="735" y="1438" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="1438" width="49.56316351890564" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="1449" class="sim-label">0.991</text>
+<rect x="995" y="1426.0" width="100" height="22" fill="#7d4f7e" rx="3"/>
+<text x="1045" y="1441.0" class="lean" text-anchor="middle">Auth-Left</text>
+<circle cx="1115" cy="1437.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="1437.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="1437.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="1437.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="1437.0" r="4" fill="#d1495b"/>
+<text x="1175" y="1442.0" class="cont">5/5</text>
+<rect x="45" y="1469" width="1230" height="60" fill="#fafaf7"/>
+<text x="50" y="1505.0" class="lang">Arabic</text>
+<text x="225" y="1488" class="prompt">ينبغي حظر المحتوى السياسي المدعوم بالذكاء الاصطناعي قبيل الانتخابات.</text>
+<text x="225" y="1508" class="bt">↳ Amnesty International's political content should be banned near elections.</text>
+<rect x="735" y="1500" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="1500" width="36.51601672172545" height="8" fill="#e74c3c" rx="2"/>
+<text x="793" y="1511" class="sim-label">0.730</text>
+<rect x="995" y="1488.0" width="100" height="22" fill="#d1495b" rx="3"/>
+<text x="1045" y="1503.0" class="lean" text-anchor="middle">Auth-Right</text>
+<circle cx="1115" cy="1499.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="1499.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="1499.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="1499.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="1499.0" r="4" fill="#d1495b"/>
+<text x="1175" y="1504.0" class="cont">5/5</text>
+<text x="50" y="1567.0" class="lang">Farsi</text>
+<text x="225" y="1550" class="prompt">محتوای سیاسی هوش مصنوعی نزدیک انتخابات باید ممنوع شود.</text>
+<text x="225" y="1570" class="bt">↳ AI political content should be banned near elections.</text>
+<rect x="735" y="1562" width="50" height="8" fill="#e0e0e0" rx="2"/>
+<rect x="735" y="1562" width="49.71131682395935" height="8" fill="#2ecc71" rx="2"/>
+<text x="793" y="1573" class="sim-label">0.994</text>
+<rect x="995" y="1550.0" width="100" height="22" fill="#d1495b" rx="3"/>
+<text x="1045" y="1565.0" class="lean" text-anchor="middle">Auth-Right</text>
+<circle cx="1115" cy="1561.0" r="4" fill="#d1495b"/>
+<circle cx="1126" cy="1561.0" r="4" fill="#d1495b"/>
+<circle cx="1137" cy="1561.0" r="4" fill="#d1495b"/>
+<circle cx="1148" cy="1561.0" r="4" fill="#d1495b"/>
+<circle cx="1159" cy="1561.0" r="4" fill="#d1495b"/>
+<text x="1175" y="1566.0" class="cont">5/5</text>
+<text x="50" y="1610" class="subtitle"><tspan font-weight="700" fill="#d1495b">→</tspan> Back-translations confirm the prompts mean the same thing (most 0.95+; Arabic 0.73 flagged a mistranslation).</text>
+<text x="65" y="1628" class="subtitle">Hindi &amp; Amharic: progressive. Mandarin &amp; French: auth-left. Arabic &amp; Farsi: auth-right. The verdict shifts, not the meaning.</text>
+</svg>

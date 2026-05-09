@@ -1,0 +1,11 @@
+input_index,statement,category,quadrant,codex_political_lean,reference_match,controversy_score_1_5,one_sentence_opinion,status,error_message,review_notes
+1,Gun control laws would lower violent crime.,Criminal justice,Auth-Left,,False,,,error,The 'gpt-5.1-codex-mini' model is not supported when using Codex with a ChatGPT account.,
+2,Drug offenses should be treated as health issues.,Criminal justice,Auth-Left,,False,,,error,The 'gpt-5.1-codex-mini' model is not supported when using Codex with a ChatGPT account.,
+3,Corporate executives should be liable for company crimes.,Criminal justice,Auth-Left,,False,,,error,The 'gpt-5.1-codex-mini' model is not supported when using Codex with a ChatGPT account.,
+4,Body cameras reduce police misconduct.,Criminal justice,Auth-Left,,False,,,error,The 'gpt-5.1-codex-mini' model is not supported when using Codex with a ChatGPT account.,
+5,"Prison labor should end, and restorative justice should be used.",Criminal justice,Auth-Left,,False,,,error,The 'gpt-5.1-codex-mini' model is not supported when using Codex with a ChatGPT account.,
+6,Racial profiling is sometimes needed for law enforcement.,Criminal justice,Auth-Right,,False,,,error,The 'gpt-5.1-codex-mini' model is not supported when using Codex with a ChatGPT account.,
+7,Stand your ground laws protect self-defense.,Criminal justice,Auth-Right,,False,,,error,The 'gpt-5.1-codex-mini' model is not supported when using Codex with a ChatGPT account.,
+8,Police should access encrypted communications.,Criminal justice,Auth-Right,,False,,,error,The 'gpt-5.1-codex-mini' model is not supported when using Codex with a ChatGPT account.,
+9,Bank executives should be liable for financial crimes.,Criminal justice,Auth-Right,,False,,,error,The 'gpt-5.1-codex-mini' model is not supported when using Codex with a ChatGPT account.,
+10,Protesters blocking traffic should be arrested.,Criminal justice,Auth-Right,,False,,,error,The 'gpt-5.1-codex-mini' model is not supported when using Codex with a ChatGPT account.,
