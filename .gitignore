@@ -10,6 +10,7 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 Evaluation/tests/codex-eval-test-*/
+codex-eval-test-*/
 
 # JavaScript dependencies and generated package caches
 node_modules/
@@ -24,3 +25,8 @@ tmp/
 render_profile/
 render_convert/
 *.tmp
+
+# Legacy local scratch directories left after restructuring.
+Evaluation/
+Evaluation Result/
+archive/local_ignored_runtime/
